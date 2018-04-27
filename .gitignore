@@ -1,0 +1,16 @@
+croped/
+.DS_Store
+.idea
+Graph/
+__pycache__/
+*.h5
+dog_cat/
+NLMCXR_dcm/
+data/front/
+data/other/
+data/side/
+Flickr8k_text/
+Flicker8k_Dataset/
+*.zip
+weights
+*.p*
