@@ -13,4 +13,4 @@ Flickr8k_text/
 Flicker8k_Dataset/
 *.zip
 weights
-*.p*
+*.p
