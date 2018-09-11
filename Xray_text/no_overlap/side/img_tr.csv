@@ -1,0 +1,1365 @@
+,fname,terms_raw,mesh_top,aug_ratio
+936,imgs_512_350_1954_1954_IM-0622-2001.dcm,normal,normal,0
+2417,imgs_512_244_3452_3452_IM-1675-1002.dcm,normal,normal,0
+2857,imgs_512_285_3894_3894_IM-1976-1002.dcm,normal,normal,0
+2467,imgs_512_270_3478_3478_IM-1690-2001.dcm,scoliosis,scoliosis,43
+1131,imgs_512_150_2155_2155_IM-0774-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+3465,imgs_512_109_911_911_IM-2417-1002.dcm,normal,normal,0
+2677,imgs_512_95_3704_3704_IM-1851-2001.dcm,normal,normal,0
+311,imgs_512_121_1324_1324_IM-0209-2001.dcm,scoliosis thoracic_vertebrae right,scoliosis,43
+3062,imgs_512_102_503_503_IM-2121-2001.dcm,normal,normal,0
+3210,imgs_512_254_655_655_IM-2231-2001.dcm,lung_hyperdistention,lung_hyperdistention,55
+164,imgs_512_376_1178_1178_IM-0121-1002.dcm,normal,normal,0
+3301,imgs_512_352_753_753_IM-2306-2001.dcm,spine_degenerative mild,spine_degenerative,31
+289,imgs_512_101_1304_1304_IM-0199-2001.dcm,normal,normal,0
+3273,imgs_512_318_719_719_IM-2280-2001.dcm,normal,normal,0
+893,imgs_512_310_1914_1914_IM-0595-2001.dcm,opacity lung bilateral interstitial diffuse,opacity,31
+182,imgs_512_397_1199_1199_IM-0133-1002.dcm,normal,normal,0
+2542,imgs_512_366_3574_3574_IM-1756-2001.dcm,normal,normal,0
+3440,imgs_512_86_888_888_IM-2401-2001.dcm,normal,normal,0
+303,imgs_512_113_1316_1316_IM-0205-1003.dcm,normal,normal,0
+3072,imgs_512_107_508_508_IM-2125-1002.dcm,normal,normal,0
+514,imgs_512_329_1532_1532_IM-0344-2001.dcm,normal,normal,0
+1444,imgs_512_63_2469_2469_IM-0999-3001.dcm,opacity thorax mild,opacity,31
+3213,imgs_512_257_658_658_IM-2234-12001.dcm,normal,normal,0
+2631,imgs_512_51_3660_3660_IM-1820-2001.dcm,normal,normal,0
+3413,imgs_512_86_86_86_IM-2380-2001.dcm,normal,normal,0
+2277,imgs_512_109_3317_3317_IM-1587-2001.dcm,normal,normal,0
+2529,imgs_512_339_3547_3547_IM-1739-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+1642,imgs_512_262_2668_2668_IM-1147-2001.dcm,normal,normal,0
+3390,imgs_512_40_842_842_IM-2366-2001.dcm,normal,normal,0
+1870,imgs_512_96_2903_2903_IM-1307-1001.dcm,lung_hypoinflation mild,lung_hypoinflation,21
+3378,imgs_512_27_829_829_IM-2358-2001.dcm,normal,normal,0
+1736,imgs_512_362_2768_2768_IM-1212-2001.dcm,normal,normal,0
+2639,imgs_512_367_367_367_IM-1826-1002.dcm,normal,normal,0
+998,imgs_512_5_2010_2010_IM-0661-1002.dcm,normal,normal,0
+1908,imgs_512_135_2942_2942_IM-1343-2001.dcm,normal,normal,0
+1563,imgs_512_257_257_257_IM-1072-2001.dcm,opacity posterior,opacity,31
+1206,imgs_512_223_2228_2228_IM-0831-1002.dcm,normal,normal,0
+2622,imgs_512_40_3649_3649_IM-1811-2001.dcm,normal,normal,0
+2140,imgs_512_369_3176_3176_IM-1497-2001.dcm,normal,normal,0
+3341,imgs_512_395_796_796_IM-2332-2001.dcm,normal,normal,0
+3469,imgs_512_112_914_914_IM-2417-3001.dcm,calcified_granuloma lung middle_lobe,calcified_granuloma,14
+547,imgs_512_359_1562_1562_IM-0367-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+2588,imgs_512_398_3606_3606_IM-1781-2001.dcm,normal,normal,0
+2718,imgs_512_138_3747_3747_IM-1873-2001.dcm,normal,normal,0
+1890,imgs_512_119_2926_2926_IM-1328-2001.dcm,normal,normal,0
+459,imgs_512_257_1460_1460_IM-0298-2001.dcm,normal,normal,0
+3156,imgs_512_6_6_6_IM-2192-2001.dcm,normal,normal,0
+2318,imgs_512_151_3359_3359_IM-1612-2001.dcm,normal,normal,0
+1212,imgs_512_227_2232_2232_IM-0832-2001.dcm,normal,normal,0
+319,imgs_512_131_1334_1334_IM-0214-2001.dcm,normal,normal,0
+1675,imgs_512_294_2700_2700_IM-1169-2001.dcm,calcified_granuloma mediastinum multiple,calcified_granuloma,14
+615,imgs_512_163_163_163_IM-0410-3003.dcm,calcinosis lung hilum lymph_nodes right,calcinosis,33
+1957,imgs_512_186_2993_2993_IM-1380-2001.dcm,normal,normal,0
+785,imgs_512_190_1794_1794_IM-0515-2001.dcm,normal,normal,0
+3450,imgs_512_90_90_90_IM-2407-2001.dcm,spine_degenerative,spine_degenerative,31
+828,imgs_512_242_1846_1846_IM-0549-4001.dcm,calcified_granuloma lung upper_lobe left,calcified_granuloma,14
+1878,imgs_512_103_2910_2910_IM-1314-2001.dcm,normal,normal,0
+1009,imgs_512_14_2019_2019_IM-0666-2001.dcm,normal,normal,0
+3304,imgs_512_355_756_756_IM-2307-4001.dcm,normal,normal,0
+1512,imgs_512_132_2538_2538_IM-1050-1002.dcm,normal,normal,0
+997,imgs_512_19_2024_2024_IM-0670-2001.dcm,normal,normal,0
+2780,imgs_512_204_3813_3813_IM-1922-2001.dcm,opacity lung base left,opacity,31
+2186,imgs_512_19_3227_3227_IM-1525-2001.dcm,normal,normal,0
+1232,imgs_512_251_2256_2256_IM-0848-4001.dcm,normal,normal,0
+1344,imgs_512_357_2362_2362_IM-0926-1002.dcm,normal,normal,0
+2997,imgs_512_34_435_435_IM-2075-2001.dcm,normal,normal,0
+62,imgs_512_265_1067_1067_IM-0048-2001.dcm,normal,normal,0
+2493,imgs_512_316_3524_3524_IM-1721-2001.dcm,normal,normal,0
+12,imgs_512_213_1015_1015_IM-0001-2001.dcm,opacity lung base bilateral patchy streaky,opacity,31
+2159,imgs_512_318_318_318_IM-1500-2001.dcm,normal,normal,0
+2246,imgs_512_77_3285_3285_IM-1566-2001.dcm,normal,normal,0
+1278,imgs_512_293_2298_2298_IM-0878-2001.dcm,spine_degenerative chronic,spine_degenerative,31
+1790,imgs_512_282_282_282_IM-1243-1003.dcm,normal,normal,0
+1335,imgs_512_236_236_236_IM-0924-1002.dcm,normal,normal,0
+3177,imgs_512_221_622_622_IM-2204-2001.dcm,normal,normal,0
+3392,imgs_512_394_795_795_IM-2331-1002.dcm,normal,normal,0
+521,imgs_512_332_1535_1535_IM-0346-2001.dcm,normal,normal,0
+453,imgs_512_267_1470_1470_IM-0303-2001.dcm,normal,normal,0
+1415,imgs_512_26_2432_2432_IM-0974-4001.dcm,normal,normal,0
+2252,imgs_512_80_3288_3288_IM-1569-2001.dcm,normal,normal,0
+1434,imgs_512_53_2459_2459_IM-0991-1002.dcm,normal,normal,0
+155,imgs_512_117_117_117_IM-0114-3003.dcm,normal,normal,0
+1798,imgs_512_22_2829_2829_IM-1247-2001.dcm,normal,normal,0
+1849,imgs_512_63_2870_2870_IM-1276-2001.dcm,normal,normal,0
+3537,imgs_512_186_988_988_IM-2474-2001.dcm,normal,normal,0
+2653,imgs_512_73_3682_3682_IM-1834-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+1446,imgs_512_64_2470_2470_IM-1001-2001.dcm,normal,normal,0
+19,imgs_512_209_1011_1011_IM-0013-1002.dcm,normal,normal,0
+832,imgs_512_247_1851_1851_IM-0553-2001.dcm,normal,normal,0
+1514,imgs_512_133_2539_2539_IM-1050-2001.dcm,normal,normal,0
+2295,imgs_512_127_3335_3335_IM-1598-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+3303,imgs_512_356_757_757_IM-2308-2001.dcm,normal,normal,0
+2650,imgs_512_70_3679_3679_IM-1831-2001.dcm,normal,normal,0
+2716,imgs_512_114_3723_3723_IM-1860-2001.dcm,normal,normal,0
+177,imgs_512_368_1170_1170_IM-0115-1001.dcm,cardiomegaly mild,cardiomegaly,39
+1394,imgs_512_6_2412_2412_IM-0958-3003.dcm,calcinosis abdomen right,calcinosis,33
+2869,imgs_512_296_3905_3905_IM-1984-2001.dcm,cardiomegaly,cardiomegaly,39
+619,imgs_512_32_1636_1636_IM-0415-2001.dcm,normal,normal,0
+1557,imgs_512_178_2584_2584_IM-1081-2001.dcm,normal,normal,0
+2418,imgs_512_245_3453_3453_IM-1676-0001-0002.dcm,normal,normal,0
+2807,imgs_512_233_3842_3842_IM-1943-3003.dcm,lung_hypoinflation,lung_hypoinflation,21
+293,imgs_512_129_129_129_IM-0189-2001.dcm,normal,normal,0
+3417,imgs_512_63_865_865_IM-2385-2001.dcm,normal,normal,0
+2862,imgs_512_288_3897_3897_IM-1978-2001.dcm,normal,normal,0
+254,imgs_512_67_1270_1270_IM-0181-2001.dcm,normal,normal,0
+90,imgs_512_110_110_110_IM-0067-2001.dcm,normal,normal,0
+397,imgs_512_193_1396_1396_IM-0252-1001.dcm,normal,normal,0
+2567,imgs_512_36_36_36_IM-1776-2001.dcm,normal,normal,0
+1505,imgs_512_123_2529_2529_IM-1044-2001.dcm,normal,normal,0
+1791,imgs_512_397_2803_2803_IM-1234-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+2976,imgs_512_15_416_416_IM-2059-2001.dcm,normal,normal,0
+1043,imgs_512_207_207_207_IM-0703-2001.dcm,normal,normal,0
+124,imgs_512_333_1135_1135_IM-0091-2001.dcm,calcified_granuloma lung base left small,calcified_granuloma,14
+3084,imgs_512_128_529_529_IM-2137-2001.dcm,normal,normal,0
+1734,imgs_512_359_2765_2765_IM-1210-2001.dcm,normal,normal,0
+2337,imgs_512_167_3375_3375_IM-1624-1003.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+268,imgs_512_57_1260_1260_IM-0176-3001.dcm,normal,normal,0
+1141,imgs_512_154_2159_2159_IM-0776-2001.dcm,normal,normal,0
+2090,imgs_512_326_3133_3133_IM-1474-1002.dcm,normal,normal,0
+979,imgs_512_20_20_20_IM-0653-1002.dcm,normal,normal,0
+497,imgs_512_312_1515_1515_IM-0333-2001.dcm,normal,normal,0
+737,imgs_512_140_1744_1744_IM-0489-1001.dcm,normal,normal,0
+2291,imgs_512_333_333_333_IM-1594-2001.dcm,lung_hyperdistention mild,lung_hyperdistention,55
+3298,imgs_512_349_750_750_IM-2304-1002.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+32,imgs_512_233_1035_1035_IM-0028-2001.dcm,opacity lung hilum prominent,opacity,31
+84,imgs_512_294_1096_1096_IM-0066-2001.dcm,normal,normal,0
+434,imgs_512_247_1450_1450_IM-0291-2001.dcm,normal,normal,0
+849,imgs_512_267_1871_1871_IM-0564-2001.dcm,normal,normal,0
+282,imgs_512_93_1296_1296_IM-0195-1001-0001.dcm,normal,normal,0
+1934,imgs_512_158_2965_2965_IM-1358-1002.dcm,normal,normal,0
+1482,imgs_512_250_250_250_IM-1025-2001.dcm,spine_degenerative mild,spine_degenerative,31
+698,imgs_512_105_1709_1709_IM-0467-2001.dcm,opacity lung base bilateral mild,opacity,31
+2519,imgs_512_344_3552_3552_IM-1741-3001.dcm,normal,normal,0
+1225,imgs_512_242_2247_2247_IM-0844-2001.dcm,normal,normal,0
+3179,imgs_512_220_621_621_IM-2203-2001.dcm,spine_degenerative mild,spine_degenerative,31
+3132,imgs_512_174_575_575_IM-2173-2001.dcm,calcified_granuloma lung left,calcified_granuloma,14
+2574,imgs_512_386_3594_3594_IM-1772-1002.dcm,normal,normal,0
+972,imgs_512_370_1974_1974_IM-0633-2001.dcm,normal,normal,0
+3094,imgs_512_136_537_537_IM-2143-1002.dcm,calcified_granuloma scattered,calcified_granuloma,14
+2688,imgs_512_108_3717_3717_IM-1856-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+2883,imgs_512_314_3923_3923_IM-1997-3003.dcm,normal,normal,0
+3459,imgs_512_94_896_896_IM-2406-2001.dcm,normal,normal,0
+1824,imgs_512_6_2813_2813_IM-1239-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+2024,imgs_512_307_307_307_IM-1432-2001.dcm,normal,normal,0
+3534,imgs_512_180_982_982_IM-2470-3003.dcm,normal,normal,0
+1523,imgs_512_143_2549_2549_IM-1057-2001.dcm,normal,normal,0
+79,imgs_512_288_1090_1090_IM-0062-1002.dcm,normal,normal,0
+682,imgs_512_86_1690_1690_IM-0452-1001-0002.dcm,normal,normal,0
+2238,imgs_512_71_3279_3279_IM-1560-1002.dcm,normal,normal,0
+1368,imgs_512_386_2391_2391_IM-0944-2001.dcm,normal,normal,0
+704,imgs_512_112_1716_1716_IM-0473-2001.dcm,normal,normal,0
+2810,imgs_512_235_3844_3844_IM-1945-2001.dcm,normal,normal,0
+2377,imgs_512_147_3355_3355_IM-1609-1002.dcm,lung_hyperdistention,lung_hyperdistention,55
+1291,imgs_512_306_2311_2311_IM-0886-1001.dcm,normal,normal,0
+593,imgs_512_2_1606_1606_IM-0394-2001.dcm,normal,normal,0
+330,imgs_512_144_1347_1347_IM-0225-3001.dcm,normal,normal,0
+2916,imgs_512_347_3956_3956_IM-2021-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+1659,imgs_512_280_2686_2686_IM-1158-2001.dcm,normal,normal,0
+262,imgs_512_78_1281_1281_IM-0188-2001.dcm,spine_degenerative,spine_degenerative,31
+1617,imgs_512_229_2635_2635_IM-1121-2001.dcm,normal,normal,0
+2254,imgs_512_326_326_326_IM-1546-12012.dcm,normal,normal,0
+393,imgs_512_203_1406_1406_IM-0259-2001.dcm,lung_hyperdistention,lung_hyperdistention,55
+2632,imgs_512_52_3661_3661_IM-1821-2001.dcm,normal,normal,0
+1545,imgs_512_154_2560_2560_IM-1064-2001.dcm,calcified_granuloma lung upper_lobe left,calcified_granuloma,14
+354,imgs_512_136_136_136_IM-0233-1002.dcm,normal,normal,0
+2279,imgs_512_332_332_332_IM-1588-2001.dcm,opacity lung lower_lobe left streaky,opacity,31
+2913,imgs_512_345_3954_3954_IM-2021-1002.dcm,normal,normal,0
+1273,imgs_512_290_2295_2295_IM-0876-2001.dcm,calcinosis aorta_thoracic,calcinosis,33
+810,imgs_512_223_1827_1827_IM-0535-2001.dcm,normal,normal,0
+1889,imgs_512_118_2925_2925_IM-1327-2001.dcm,normal,normal,0
+192,imgs_512_4_1207_1207_IM-0140-0001-0001.dcm,normal,normal,0
+3048,imgs_512_92_493_493_IM-2113-2001.dcm,calcinosis lymph_nodes bilateral,calcinosis,33
+1948,imgs_512_153_2960_2960_IM-1354-2001.dcm,normal,normal,0
+820,imgs_512_231_1835_1835_IM-0539-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+498,imgs_512_314_1517_1517_IM-0335-1002.dcm,normal,normal,0
+695,imgs_512_102_1706_1706_IM-0466-1002.dcm,lung_hypoinflation,lung_hypoinflation,21
+2171,imgs_512_4_3212_3212_IM-1517-2001.dcm,normal,normal,0
+473,imgs_512_278_1481_1481_IM-0312-2001.dcm,normal,normal,0
+2250,imgs_512_81_3289_3289_IM-1570-2001.dcm,normal,normal,0
+772,imgs_512_177_1781_1781_IM-0509-1002.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+3473,imgs_512_120_922_922_IM-2423-1001.dcm,cardiomegaly mild,cardiomegaly,39
+1527,imgs_512_146_2552_2552_IM-1058-1002.dcm,normal,normal,0
+1795,imgs_512_0_2807_2807_IM-1237-2001.dcm,normal,normal,0
+1109,imgs_512_126_2131_2131_IM-0755-2001.dcm,normal,normal,0
+88,imgs_512_11_11_11_IM-0067-2001.dcm,normal,normal,0
+3067,imgs_512_109_510_510_IM-2126-2001.dcm,normal,normal,0
+3120,imgs_512_164_565_565_IM-2166-2001.dcm,normal,normal,0
+6,imgs_512_206_1008_1008_IM-0009-2001.dcm,normal,normal,0
+2836,imgs_512_252_3861_3861_IM-1955-2001.dcm,normal,normal,0
+3343,imgs_512_398_799_799_IM-2333-2001.dcm,normal,normal,0
+2420,imgs_512_248_3456_3456_IM-1678-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+2759,imgs_512_135_3744_3744_IM-1871-0001-0002.dcm,normal,normal,0
+1048,imgs_512_70_2075_2075_IM-0708-2001.dcm,normal,normal,0
+1541,imgs_512_161_2567_2567_IM-1069-3003.dcm,normal,normal,0
+2961,imgs_512_390_3999_3999_IM-2049-2001.dcm,normal,normal,0
+2149,imgs_512_373_3180_3180_IM-1500-2001.dcm,normal,normal,0
+2315,imgs_512_144_3352_3352_IM-1608-2001.dcm,normal,normal,0
+2735,imgs_512_140_3749_3749_IM-1874-2001.dcm,normal,normal,0
+1248,imgs_512_257_2262_2262_IM-0852-2001.dcm,opacity lung base right,opacity,31
+46,imgs_512_247_1049_1049_IM-0036-3001.dcm,normal,normal,0
+968,imgs_512_393_1997_1997_IM-0651-2001.dcm,normal,normal,0
+191,imgs_512_3_1206_1206_IM-0139-3003.dcm,normal,normal,0
+1671,imgs_512_292_2698_2698_IM-1167-2001.dcm,normal,normal,0
+1471,imgs_512_85_2491_2491_IM-1017-2001.dcm,normal,normal,0
+2607,imgs_512_364_364_364_IM-1804-2001.dcm,normal,normal,0
+329,imgs_512_141_1344_1344_IM-0223-1002.dcm,normal,normal,0
+1494,imgs_512_252_252_252_IM-1038-2001.dcm,normal,normal,0
+1941,imgs_512_169_2976_2976_IM-1365-3003.dcm,lung_hyperdistention,lung_hyperdistention,55
+2915,imgs_512_346_3955_3955_IM-2021-1002.dcm,normal,normal,0
+3141,imgs_512_176_577_577_IM-2175-2001.dcm,normal,normal,0
+2352,imgs_512_339_339_339_IM-1635-2001.dcm,normal,normal,0
+1092,imgs_512_211_211_211_IM-0740-1002.dcm,normal,normal,0
+3290,imgs_512_338_739_739_IM-2296-2001.dcm,normal,normal,0
+3107,imgs_512_146_547_547_IM-2151-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+2407,imgs_512_232_3440_3440_IM-1665-2001.dcm,scoliosis thoracic_vertebrae right mild,scoliosis,43
+943,imgs_512_359_1963_1963_IM-0629-2001.dcm,normal,normal,0
+3056,imgs_512_98_499_499_IM-2116-2001.dcm,normal,normal,0
+194,imgs_512_6_1209_1209_IM-0142-1002.dcm,normal,normal,0
+1287,imgs_512_305_2310_2310_IM-0885-2001.dcm,normal,normal,0
+2320,imgs_512_336_336_336_IM-1613-2001.dcm,normal,normal,0
+2745,imgs_512_166_3775_3775_IM-1893-2001.dcm,normal,normal,0
+161,imgs_512_373_1175_1175_IM-0119-2001.dcm,normal,normal,0
+2545,imgs_512_369_3577_3577_IM-1758-2001.dcm,normal,normal,0
+621,imgs_512_164_164_164_IM-0419-2001.dcm,normal,normal,0
+1761,imgs_512_386_2792_2792_IM-1226-2001.dcm,normal,normal,0
+1279,imgs_512_295_2300_2300_IM-0881-2001.dcm,normal,normal,0
+3216,imgs_512_256_657_657_IM-2233-0001-0002.dcm,normal,normal,0
+494,imgs_512_309_1512_1512_IM-0332-3003.dcm,normal,normal,0
+73,imgs_512_252_1054_1054_IM-0040-1002.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+152,imgs_512_361_1163_1163_IM-0108-2001.dcm,normal,normal,0
+3167,imgs_512_61_61_61_IM-2197-2001.dcm,calcinosis lymph_nodes right paratracheal,calcinosis,33
+2008,imgs_512_244_3051_3051_IM-1420-2001.dcm,normal,normal,0
+3408,imgs_512_48_850_850_IM-2373-0001-0002.dcm,normal,normal,0
+3292,imgs_512_334_735_735_IM-2294-2001.dcm,normal,normal,0
+717,imgs_512_122_1726_1726_IM-0479-2001.dcm,normal,normal,0
+3351,imgs_512_400_801_801_IM-2335-2001.dcm,normal,normal,0
+1128,imgs_512_131_2136_2136_IM-0758-2001.dcm,normal,normal,0
+2264,imgs_512_93_3301_3301_IM-1579-2001.dcm,normal,normal,0
+1257,imgs_512_276_2281_2281_IM-0868-2001.dcm,normal,normal,0
+3116,imgs_512_56_56_56_IM-2160-3003.dcm,normal,normal,0
+840,imgs_512_186_186_186_IM-0558-2001.dcm,normal,normal,0
+2705,imgs_512_123_3732_3732_IM-1866-2001.dcm,calcinosis lung hilum lymph_nodes left,calcinosis,33
+1198,imgs_512_216_2221_2221_IM-0825-2001.dcm,cardiomegaly mild,cardiomegaly,39
+3495,imgs_512_139_941_941_IM-2438-2001.dcm,normal,normal,0
+1914,imgs_512_140_2947_2947_IM-1347-2001.dcm,normal,normal,0
+37,imgs_512_240_1042_1042_IM-0034-3001.dcm,normal,normal,0
+196,imgs_512_8_1211_1211_IM-0142-1002.dcm,normal,normal,0
+2425,imgs_512_252_3460_3460_IM-1681-2001.dcm,normal,normal,0
+2189,imgs_512_16_3224_3224_IM-1524-2001.dcm,normal,normal,0
+727,imgs_512_133_1737_1737_IM-0485-2001.dcm,normal,normal,0
+1445,imgs_512_29_2435_2435_IM-0976-2001.dcm,normal,normal,0
+1534,imgs_512_152_2558_2558_IM-1062-1001.dcm,normal,normal,0
+5,imgs_512_204_1006_1006_IM-0007-3003.dcm,normal,normal,0
+2274,imgs_512_105_3313_3313_IM-1586-1002.dcm,spine_degenerative,spine_degenerative,31
+1945,imgs_512_157_2964_2964_IM-1357-3001.dcm,normal,normal,0
+1655,imgs_512_274_2680_2680_IM-1154-2001.dcm,normal,normal,0
+1623,imgs_512_246_2652_2652_IM-1136-3003.dcm,calcinosis mediastinum lymph_nodes,calcinosis,33
+2781,imgs_512_205_3814_3814_IM-1923-3001.dcm,normal,normal,0
+2603,imgs_512_25_3634_3634_IM-1801-2001.dcm,normal,normal,0
+1929,imgs_512_124_2931_2931_IM-1334-2001.dcm,opacity costophrenic_angle left,opacity,31
+1201,imgs_512_209_2214_2214_IM-0819-1002.dcm,normal,normal,0
+807,imgs_512_197_1801_1801_IM-0520-2001.dcm,cardiomegaly mild,cardiomegaly,39
+110,imgs_512_316_1118_1118_IM-0079-2001.dcm,normal,normal,0
+520,imgs_512_336_1539_1539_IM-0349-2001.dcm,normal,normal,0
+1228,imgs_512_243_2248_2248_IM-0844-1002.dcm,normal,normal,0
+2227,imgs_512_57_3265_3265_IM-1551-2001.dcm,normal,normal,0
+690,imgs_512_98_1702_1702_IM-0463-2001.dcm,cardiomegaly borderline,cardiomegaly,39
+65,imgs_512_269_1071_1071_IM-0051-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+3522,imgs_512_169_971_971_IM-2461-1001.dcm,normal,normal,0
+2231,imgs_512_61_3269_3269_IM-1552-1002.dcm,normal,normal,0
+1751,imgs_512_375_2781_2781_IM-1219-2001.dcm,normal,normal,0
+1464,imgs_512_67_2473_2473_IM-1003-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+1590,imgs_512_261_261_261_IM-1100-3003.dcm,normal,normal,0
+2089,imgs_512_305_3112_3112_IM-1461-2001.dcm,normal,normal,0
+236,imgs_512_51_1254_1254_IM-0172-2001.dcm,normal,normal,0
+2497,imgs_512_321_3529_3529_IM-1725-2001.dcm,cardiomegaly mild,cardiomegaly,39
+466,imgs_512_277_1480_1480_IM-0311-2001.dcm,normal,normal,0
+3118,imgs_512_162_563_563_IM-2164-2001.dcm,normal,normal,0
+3166,imgs_512_208_609_609_IM-2197-2001.dcm,normal,normal,0
+1450,imgs_512_65_2471_2471_IM-1002-1002.dcm,normal,normal,0
+3491,imgs_512_93_93_93_IM-2428-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+334,imgs_512_135_135_135_IM-0227-3003.dcm,normal,normal,0
+3510,imgs_512_158_960_960_IM-2451-11001.dcm,scoliosis right mild,scoliosis,43
+3023,imgs_512_60_461_461_IM-2090-2001.dcm,normal,normal,0
+952,imgs_512_367_1971_1971_IM-0633-2001.dcm,normal,normal,0
+2985,imgs_512_21_422_422_IM-2065-6001.dcm,calcified_granuloma lung left,calcified_granuloma,14
+2076,imgs_512_312_3119_3119_IM-1466-2001.dcm,normal,normal,0
+3484,imgs_512_130_932_932_IM-2430-2001.dcm,normal,normal,0
+3115,imgs_512_157_558_558_IM-2158-0001-0002.dcm,calcified_granuloma scattered multiple,calcified_granuloma,14
+3143,imgs_512_186_587_587_IM-2182-1001.dcm,opacity lung lower_lobe bilateral,opacity,31
+2860,imgs_512_287_3896_3896_IM-1977-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+2957,imgs_512_387_3996_3996_IM-2047-3001.dcm,spine_degenerative,spine_degenerative,31
+98,imgs_512_306_1108_1108_IM-0075-2001.dcm,lung_hyperdistention,lung_hyperdistention,55
+2102,imgs_512_338_3145_3145_IM-1479-2001.dcm,normal,normal,0
+1349,imgs_512_369_2374_2374_IM-0935-84550002.dcm,normal,normal,0
+2709,imgs_512_129_3738_3738_IM-1867-2001.dcm,normal,normal,0
+2194,imgs_512_26_3234_3234_IM-1531-2001.dcm,normal,normal,0
+1763,imgs_512_382_2788_2788_IM-1222-3001.dcm,normal,normal,0
+558,imgs_512_370_1573_1573_IM-0374-2001.dcm,normal,normal,0
+1301,imgs_512_319_2324_2324_IM-0895-2001.dcm,normal,normal,0
+1967,imgs_512_174_2981_2981_IM-1371-1002.dcm,scoliosis thoracic_vertebrae right mild,scoliosis,43
+1964,imgs_512_188_2995_2995_IM-1381-2001.dcm,normal,normal,0
+2720,imgs_512_375_375_375_IM-1874-2001.dcm,normal,normal,0
+2988,imgs_512_24_425_425_IM-2068-2001.dcm,normal,normal,0
+928,imgs_512_250_1854_1854_IM-0555-2001.dcm,normal,normal,0
+833,imgs_512_248_1852_1852_IM-0554-2001.dcm,normal,normal,0
+889,imgs_512_191_191_191_IM-0591-2001.dcm,normal,normal,0
+1455,imgs_512_51_2457_2457_IM-0989-2001.dcm,normal,normal,0
+1600,imgs_512_220_2626_2626_IM-1113-1001.dcm,normal,normal,0
+2729,imgs_512_145_3754_3754_IM-1878-1001.dcm,normal,normal,0
+1860,imgs_512_54_2861_2861_IM-1269-3001.dcm,normal,normal,0
+2800,imgs_512_217_3826_3826_IM-1932-2001.dcm,normal,normal,0
+755,imgs_512_166_1770_1770_IM-0504-1002.dcm,normal,normal,0
+299,imgs_512_112_1315_1315_IM-0204-2001.dcm,normal,normal,0
+611,imgs_512_25_1629_1629_IM-0409-2001.dcm,normal,normal,0
+3073,imgs_512_114_515_515_IM-2129-2001.dcm,normal,normal,0
+657,imgs_512_69_1673_1673_IM-0444-2001.dcm,lung_hyperdistention,lung_hyperdistention,55
+794,imgs_512_206_1810_1810_IM-0524-3001.dcm,normal,normal,0
+2673,imgs_512_368_368_368_IM-1832-2001.dcm,normal,normal,0
+728,imgs_512_132_1736_1736_IM-0484-2001.dcm,lung_hypoinflation mild,lung_hypoinflation,21
+2911,imgs_512_339_3948_3948_IM-2017-1002.dcm,normal,normal,0
+1785,imgs_512_9_2816_2816_IM-1240-2001.dcm,calcified_granuloma lung lingula,calcified_granuloma,14
+3489,imgs_512_137_939_939_IM-2435-2001.dcm,normal,normal,0
+1744,imgs_512_368_2774_2774_IM-1215-2001.dcm,cardiomegaly mild,cardiomegaly,39
+3329,imgs_512_384_785_785_IM-2325-2001.dcm,normal,normal,0
+809,imgs_512_222_1826_1826_IM-0535-1001.dcm,normal,normal,0
+1664,imgs_512_269_269_269_IM-1161-2001.dcm,normal,normal,0
+973,imgs_512_381_1985_1985_IM-0642-2001.dcm,normal,normal,0
+3505,imgs_512_148_950_950_IM-2446-1004003.dcm,normal,normal,0
+2725,imgs_512_128_3737_3737_IM-1867-1001.dcm,normal,normal,0
+452,imgs_512_266_1469_1469_IM-0303-2001.dcm,normal,normal,0
+2404,imgs_512_338_338_338_IM-1628-2001.dcm,normal,normal,0
+2458,imgs_512_285_3493_3493_IM-1698-1002.dcm,lung_hypoinflation mild,lung_hypoinflation,21
+1366,imgs_512_239_239_239_IM-0944-1002.dcm,normal,normal,0
+927,imgs_512_344_1948_1948_IM-0616-3001.dcm,normal,normal,0
+1333,imgs_512_351_2356_2356_IM-0920-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+1740,imgs_512_364_2770_2770_IM-1213-2001.dcm,normal,normal,0
+1005,imgs_512_27_2032_2032_IM-0677-2002.dcm,normal,normal,0
+431,imgs_512_245_1448_1448_IM-0289-2001.dcm,normal,normal,0
+1346,imgs_512_363_2368_2368_IM-0928-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+1337,imgs_512_355_2360_2360_IM-0925-2001.dcm,normal,normal,0
+1641,imgs_512_263_2669_2669_IM-1147-2001.dcm,opacity lung lower_lobe left patchy small,opacity,31
+20,imgs_512_218_1020_1020_IM-0017-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+3268,imgs_512_72_72_72_IM-2280-2001.dcm,normal,normal,0
+2902,imgs_512_391_391_391_IM-1986-1002.dcm,lung_hypoinflation,lung_hypoinflation,21
+1336,imgs_512_349_2354_2354_IM-0918-2001.dcm,normal,normal,0
+2300,imgs_512_330_330_330_IM-1577-0001-0001.dcm,normal,normal,0
+1993,imgs_512_211_3018_3018_IM-1393-1002.dcm,calcified_granuloma lung lingula,calcified_granuloma,14
+1220,imgs_512_239_2244_2244_IM-0841-3003.dcm,normal,normal,0
+931,imgs_512_346_1950_1950_IM-0618-1002.dcm,normal,normal,0
+1794,imgs_512_18_2825_2825_IM-1246-1002.dcm,normal,normal,0
+3389,imgs_512_34_836_836_IM-2360-1001.dcm,calcified_granuloma lung base left,calcified_granuloma,14
+1185,imgs_512_203_2208_2208_IM-0815-1002.dcm,cardiomegaly,cardiomegaly,39
+3479,imgs_512_126_928_928_IM-2426-2002.dcm,normal,normal,0
+2204,imgs_512_34_3242_3242_IM-1534-1002.dcm,thoracic_vertebrae_degenerative multiple,thoracic_vertebrae_degenerative,21
+1021,imgs_512_18_2023_2023_IM-0669-2001.dcm,normal,normal,0
+2282,imgs_512_113_3321_3321_IM-1588-2001.dcm,normal,normal,0
+2906,imgs_512_337_3946_3946_IM-2015-2001.dcm,normal,normal,0
+582,imgs_512_381_1584_1584_IM-0379-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+2508,imgs_512_354_354_354_IM-1731-3003.dcm,normal,normal,0
+2136,imgs_512_365_3172_3172_IM-1494-1002.dcm,scoliosis thoracic_vertebrae right,scoliosis,43
+2979,imgs_512_16_417_417_IM-2060-1002.dcm,calcified_granuloma,calcified_granuloma,14
+2615,imgs_512_37_3646_3646_IM-1808-0001-0001.dcm,normal,normal,0
+1834,imgs_512_49_2856_2856_IM-1263-2001.dcm,normal,normal,0
+1086,imgs_512_101_2106_2106_IM-0736-1002.dcm,normal,normal,0
+2866,imgs_512_295_3904_3904_IM-1983-2001.dcm,normal,normal,0
+3109,imgs_512_149_550_550_IM-2154-2001.dcm,normal,normal,0
+2472,imgs_512_299_3507_3507_IM-1709-1001.dcm,scoliosis thoracic_vertebrae right mild,scoliosis,43
+1609,imgs_512_232_2638_2638_IM-1123-2001.dcm,normal,normal,0
+474,imgs_512_235_1438_1438_IM-0282-1003.dcm,normal,normal,0
+3014,imgs_512_49_450_450_IM-2082-2001.dcm,normal,normal,0
+3124,imgs_512_169_570_570_IM-2170-1002.dcm,normal,normal,0
+1397,imgs_512_10_2416_2416_IM-0961-1002.dcm,cardiomegaly mild,cardiomegaly,39
+1064,imgs_512_82_2087_2087_IM-0718-1001.dcm,normal,normal,0
+2551,imgs_512_378_3586_3586_IM-1764-2001.dcm,cardiomegaly mild,cardiomegaly,39
+1693,imgs_512_272_272_272_IM-1182-2001.dcm,normal,normal,0
+3419,imgs_512_67_869_869_IM-2389-1001.dcm,normal,normal,0
+2294,imgs_512_122_3330_3330_IM-1594-2001.dcm,normal,normal,0
+2943,imgs_512_369_3978_3978_IM-2037-0001-0002.dcm,normal,normal,0
+1804,imgs_512_28_2835_2835_IM-1251-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+1435,imgs_512_246_246_246_IM-0992-1003002.dcm,normal,normal,0
+1681,imgs_512_270_270_270_IM-1168-2001.dcm,normal,normal,0
+2440,imgs_512_269_3477_3477_IM-1690-2001.dcm,normal,normal,0
+697,imgs_512_104_1708_1708_IM-0466-2001.dcm,calcinosis lung hilum lymph_nodes left,calcinosis,33
+1302,imgs_512_320_2325_2325_IM-0896-2001.dcm,opacity lung base left,opacity,31
+2251,imgs_512_10_3218_3218_IM-1520-4001.dcm,normal,normal,0
+1165,imgs_512_169_2174_2174_IM-0787-2001.dcm,normal,normal,0
+143,imgs_512_353_1155_1155_IM-0105-0001-0001.dcm,scoliosis,scoliosis,43
+1016,imgs_512_36_2041_2041_IM-0685-2001.dcm,normal,normal,0
+3512,imgs_512_160_962_962_IM-2453-1003002.dcm,normal,normal,0
+911,imgs_512_328_1932_1932_IM-0603-3001.dcm,normal,normal,0
+438,imgs_512_250_1453_1453_IM-0292-1001.dcm,lung_hypoinflation,lung_hypoinflation,21
+1784,imgs_512_379_2785_2785_IM-1220-2001.dcm,normal,normal,0
+3542,imgs_512_189_991_991_IM-2476-2001.dcm,opacity lung hilum streaky mild,opacity,31
+1958,imgs_512_185_2992_2992_IM-1379-3003.dcm,calcified_granuloma lung base right,calcified_granuloma,14
+1618,imgs_512_237_2643_2643_IM-1129-2001.dcm,normal,normal,0
+779,imgs_512_192_1796_1796_IM-0517-1003.dcm,normal,normal,0
+2237,imgs_512_67_3275_3275_IM-1556-1004003.dcm,spine_degenerative mild,spine_degenerative,31
+372,imgs_512_181_1384_1384_IM-0246-2001.dcm,normal,normal,0
+1773,imgs_512_398_2804_2804_IM-1235-2001.dcm,normal,normal,0
+2937,imgs_512_367_3976_3976_IM-2035-2001.dcm,normal,normal,0
+2591,imgs_512_361_361_361_IM-1783-1002.dcm,normal,normal,0
+3204,imgs_512_241_642_642_IM-2221-0001-0002.dcm,normal,normal,0
+3075,imgs_512_113_514_514_IM-2129-1001.dcm,normal,normal,0
+2568,imgs_512_360_360_360_IM-1776-2001.dcm,normal,normal,0
+27,imgs_512_228_1030_1030_IM-0024-2001.dcm,spine_degenerative mild,spine_degenerative,31
+1000,imgs_512_21_2026_2026_IM-0671-2001.dcm,normal,normal,0
+3272,imgs_512_321_722_722_IM-2282-2001.dcm,normal,normal,0
+1670,imgs_512_288_2694_2694_IM-1165-2001.dcm,normal,normal,0
+2037,imgs_512_256_3063_3063_IM-1428-2001.dcm,normal,normal,0
+752,imgs_512_163_1767_1767_IM-0501-0001-0001.dcm,calcified_granuloma lung lower_lobe right,calcified_granuloma,14
+617,imgs_512_29_1633_1633_IM-0414-2001.dcm,normal,normal,0
+1646,imgs_512_249_2655_2655_IM-1137-2001.dcm,normal,normal,0
+2025,imgs_512_263_3070_3070_IM-1432-1002.dcm,normal,normal,0
+1386,imgs_512_392_2397_2397_IM-0946-3001.dcm,normal,normal,0
+1725,imgs_512_345_2751_2751_IM-1201-2001.dcm,normal,normal,0
+1529,imgs_512_149_2555_2555_IM-1060-2001.dcm,lung_hyperdistention mild,lung_hyperdistention,55
+1892,imgs_512_117_2924_2924_IM-1327-2001.dcm,calcified_granuloma lung upper_lobe left small,calcified_granuloma,14
+3318,imgs_512_370_771_771_IM-2316-3001.dcm,normal,normal,0
+1920,imgs_512_145_2952_2952_IM-1350-2001.dcm,lung_hypoinflation mild,lung_hypoinflation,21
+873,imgs_512_290_1894_1894_IM-0581-2001.dcm,opacity thorax right,opacity,31
+1401,imgs_512_19_2425_2425_IM-0967-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+748,imgs_512_176_176_176_IM-0496-2001.dcm,normal,normal,0
+1516,imgs_512_134_2540_2540_IM-1052-2001.dcm,normal,normal,0
+677,imgs_512_85_1689_1689_IM-0451-2001.dcm,normal,normal,0
+1821,imgs_512_45_2852_2852_IM-1261-2001.dcm,normal,normal,0
+2055,imgs_512_291_3098_3098_IM-1450-1002.dcm,normal,normal,0
+441,imgs_512_253_1456_1456_IM-0294-2001.dcm,normal,normal,0
+3013,imgs_512_43_444_444_IM-2079-2001.dcm,normal,normal,0
+2754,imgs_512_175_3784_3784_IM-1898-1001.dcm,lung_hypoinflation,lung_hypoinflation,21
+542,imgs_512_355_1558_1558_IM-0365-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+857,imgs_512_275_1879_1879_IM-0569-1002.dcm,normal,normal,0
+1215,imgs_512_230_2235_2235_IM-0833-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+2056,imgs_512_292_3099_3099_IM-1450-2001.dcm,calcinosis lung hilum left,calcinosis,33
+264,imgs_512_77_1280_1280_IM-0187-3001.dcm,normal,normal,0
+3344,imgs_512_8_8_8_IM-2333-2001.dcm,normal,normal,0
+276,imgs_512_71_1274_1274_IM-0183-2001.dcm,normal,normal,0
+667,imgs_512_76_1680_1680_IM-0448-1002.dcm,calcinosis lung hilum lymph_nodes left,calcinosis,33
+2302,imgs_512_133_3341_3341_IM-1602-1002.dcm,normal,normal,0
+3499,imgs_512_144_946_946_IM-2441-2001.dcm,normal,normal,0
+411,imgs_512_221_1424_1424_IM-0271-3003.dcm,normal,normal,0
+3092,imgs_512_135_536_536_IM-2143-2001.dcm,normal,normal,0
+1756,imgs_512_381_2787_2787_IM-1222-2001.dcm,normal,normal,0
+588,imgs_512_398_1601_1601_IM-0390-2001.dcm,normal,normal,0
+475,imgs_512_286_1489_1489_IM-0315-2001.dcm,normal,normal,0
+2764,imgs_512_38_38_38_IM-1911-2001.dcm,normal,normal,0
+2212,imgs_512_44_3252_3252_IM-1542-2001.dcm,normal,normal,0
+148,imgs_512_359_1161_1161_IM-0107-2001.dcm,normal,normal,0
+232,imgs_512_46_1249_1249_IM-0169-2001.dcm,calcified_granuloma lung lower_lobe left multiple,calcified_granuloma,14
+3311,imgs_512_361_762_762_IM-2310-2001.dcm,calcinosis lymph_nodes,calcinosis,33
+2876,imgs_512_305_3914_3914_IM-1990-3001.dcm,normal,normal,0
+1741,imgs_512_365_2771_2771_IM-1213-2001.dcm,normal,normal,0
+463,imgs_512_274_1477_1477_IM-0309-2001.dcm,normal,normal,0
+862,imgs_512_246_1850_1850_IM-0552-2001.dcm,normal,normal,0
+2823,imgs_512_385_385_385_IM-1948-3001.dcm,normal,normal,0
+377,imgs_512_186_1389_1389_IM-0247-3001.dcm,lung_hyperdistention,lung_hyperdistention,55
+1377,imgs_512_389_2394_2394_IM-0944-2001.dcm,normal,normal,0
+2439,imgs_512_267_3475_3475_IM-1688-2001.dcm,normal,normal,0
+2144,imgs_512_376_3183_3183_IM-1502-2001.dcm,normal,normal,0
+2225,imgs_512_55_3263_3263_IM-1549-2001.dcm,normal,normal,0
+2783,imgs_512_207_3816_3816_IM-1925-2001.dcm,spine_degenerative,spine_degenerative,31
+907,imgs_512_193_193_193_IM-0601-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+437,imgs_512_251_1454_1454_IM-0293-2001.dcm,normal,normal,0
+1615,imgs_512_223_2629_2629_IM-1116-2001.dcm,normal,normal,0
+563,imgs_512_374_1577_1577_IM-0375-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+605,imgs_512_17_1621_1621_IM-0403-1002.dcm,calcified_granuloma lung lower_lobe right,calcified_granuloma,14
+1707,imgs_512_329_2735_2735_IM-1189-1002.dcm,normal,normal,0
+1820,imgs_512_44_2851_2851_IM-1260-0001-0002.dcm,normal,normal,0
+1352,imgs_512_348_2353_2353_IM-0918-2001.dcm,normal,normal,0
+2584,imgs_512_396_3604_3604_IM-1780-0001-0002.dcm,normal,normal,0
+2514,imgs_512_314_3522_3522_IM-1720-2001.dcm,normal,normal,0
+629,imgs_512_39_1643_1643_IM-0421-3001.dcm,normal,normal,0
+2803,imgs_512_227_3836_3836_IM-1939-2001.dcm,normal,normal,0
+376,imgs_512_186_1389_1389_IM-0247-2001.dcm,lung_hyperdistention,lung_hyperdistention,55
+1490,imgs_512_81_2487_2487_IM-1014-2001.dcm,normal,normal,0
+1288,imgs_512_303_2308_2308_IM-0883-2001.dcm,normal,normal,0
+16,imgs_512_216_1018_1018_IM-0014-6001.dcm,calcified_granuloma lung right small,calcified_granuloma,14
+451,imgs_512_265_1468_1468_IM-0303-2001.dcm,normal,normal,0
+414,imgs_512_225_1428_1428_IM-0274-2001.dcm,normal,normal,0
+1197,imgs_512_222_222_222_IM-0823-3003.dcm,normal,normal,0
+884,imgs_512_304_1908_1908_IM-0590-2001.dcm,opacity lung upper_lobe bilateral round,opacity,31
+2750,imgs_512_172_3781_3781_IM-1897-3001.dcm,normal,normal,0
+1329,imgs_512_344_2349_2349_IM-0914-2001.dcm,normal,normal,0
+2525,imgs_512_356_356_356_IM-1744-2001.dcm,normal,normal,0
+2349,imgs_512_178_3386_3386_IM-1633-2001.dcm,normal,normal,0
+2562,imgs_512_377_3585_3585_IM-1763-2001.dcm,normal,normal,0
+3513,imgs_512_140_942_942_IM-2438-2001.dcm,calcinosis blood_vessels,calcinosis,33
+1986,imgs_512_218_3025_3025_IM-1400-2001.dcm,normal,normal,0
+2154,imgs_512_387_3194_3194_IM-1505-2001.dcm,normal,normal,0
+740,imgs_512_143_1747_1747_IM-0490-2001.dcm,opacity left retrocardiac,opacity,31
+2861,imgs_512_277_3886_3886_IM-1971-2001.dcm,calcinosis abdomen left severe,calcinosis,33
+3314,imgs_512_367_768_768_IM-2313-2001.dcm,normal,normal,0
+774,imgs_512_184_1788_1788_IM-0513-1002.dcm,normal,normal,0
+3553,imgs_512_188_990_990_IM-2476-2001.dcm,normal,normal,0
+741,imgs_512_142_1746_1746_IM-0489-1002.dcm,normal,normal,0
+2411,imgs_512_237_3445_3445_IM-1668-3001.dcm,normal,normal,0
+3282,imgs_512_329_730_730_IM-2290-1002.dcm,calcified_granuloma lung middle_lobe right,calcified_granuloma,14
+2504,imgs_512_330_3538_3538_IM-1731-3001.dcm,normal,normal,0
+1284,imgs_512_300_2305_2305_IM-0882-1002.dcm,scoliosis lumbar_vertebrae mild,scoliosis,43
+2674,imgs_512_94_3703_3703_IM-1850-2001.dcm,normal,normal,0
+2429,imgs_512_259_3467_3467_IM-1684-0001-0002.dcm,calcinosis aorta_thoracic,calcinosis,33
+3077,imgs_512_52_52_52_IM-2131-2001.dcm,normal,normal,0
+2128,imgs_512_337_3144_3144_IM-1478-2001.dcm,normal,normal,0
+2255,imgs_512_84_3292_3292_IM-1572-2001.dcm,opacity lung lower_lobe right,opacity,31
+3176,imgs_512_216_617_617_IM-2200-1002.dcm,spine_degenerative,spine_degenerative,31
+1051,imgs_512_73_2078_2078_IM-0710-2001.dcm,normal,normal,0
+2828,imgs_512_251_3860_3860_IM-1954-1001.dcm,normal,normal,0
+2773,imgs_512_183_3792_3792_IM-1906-1002.dcm,normal,normal,0
+1906,imgs_512_133_2940_2940_IM-1341-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+2890,imgs_512_393_393_393_IM-2002-2001.dcm,normal,normal,0
+1990,imgs_512_224_3031_3031_IM-1406-2001.dcm,normal,normal,0
+1399,imgs_512_7_2413_2413_IM-0959-2001.dcm,normal,normal,0
+1568,imgs_512_165_2571_2571_IM-1073-2001.dcm,spine_degenerative,spine_degenerative,31
+284,imgs_512_97_1300_1300_IM-0198-2001.dcm,normal,normal,0
+3432,imgs_512_82_884_884_IM-2398-1002.dcm,calcified_granuloma lung base right,calcified_granuloma,14
+3447,imgs_512_97_899_899_IM-2407-2001.dcm,normal,normal,0
+2520,imgs_512_345_3553_3553_IM-1741-2001.dcm,normal,normal,0
+2704,imgs_512_373_373_373_IM-1864-1002.dcm,normal,normal,0
+2081,imgs_512_318_3125_3125_IM-1469-2001.dcm,normal,normal,0
+138,imgs_512_347_1149_1149_IM-0101-2001.dcm,calcified_granuloma lung hilum bilateral multiple,calcified_granuloma,14
+61,imgs_512_253_1055_1055_IM-0040-2001.dcm,normal,normal,0
+3517,imgs_512_165_967_967_IM-2457-3003.dcm,normal,normal,0
+689,imgs_512_170_170_170_IM-0461-0001-0002.dcm,lung_hypoinflation,lung_hypoinflation,21
+3082,imgs_512_91_492_492_IM-2112-3003.dcm,normal,normal,0
+2245,imgs_512_75_3283_3283_IM-1564-3001.dcm,normal,normal,0
+387,imgs_512_197_1400_1400_IM-0256-1002.dcm,normal,normal,0
+2305,imgs_512_136_3344_3344_IM-1603-2001.dcm,opacity thoracic_vertebrae,opacity,31
+1764,imgs_512_387_2793_2793_IM-1226-2001.dcm,lung_hyperdistention mild,lung_hyperdistention,55
+178,imgs_512_368_1170_1170_IM-0115-3001.dcm,cardiomegaly mild,cardiomegaly,39
+1997,imgs_512_232_3039_3039_IM-1412-2001.dcm,normal,normal,0
+1788,imgs_512_13_2820_2820_IM-1244-2001.dcm,normal,normal,0
+3070,imgs_512_115_516_516_IM-2130-2001.dcm,calcified_granuloma lung hilum right,calcified_granuloma,14
+597,imgs_512_395_1598_1598_IM-0389-2001.dcm,normal,normal,0
+2106,imgs_512_339_3146_3146_IM-1479-2001.dcm,normal,normal,0
+176,imgs_512_389_1191_1191_IM-0128-2001.dcm,normal,normal,0
+1959,imgs_512_187_2994_2994_IM-1380-2001.dcm,normal,normal,0
+2319,imgs_512_151_3359_3359_IM-1612-6001.dcm,normal,normal,0
+395,imgs_512_206_1409_1409_IM-0260-2001.dcm,normal,normal,0
+1114,imgs_512_132_2137_2137_IM-0759-3003.dcm,calcified_granuloma multiple,calcified_granuloma,14
+465,imgs_512_275_1478_1478_IM-0310-0001-0001.dcm,calcinosis mediastinum,calcinosis,33
+933,imgs_512_347_1951_1951_IM-0619-2001.dcm,normal,normal,0
+1483,imgs_512_99_2505_2505_IM-1029-2001.dcm,calcinosis aorta,calcinosis,33
+971,imgs_512_200_200_200_IM-0653-2002.dcm,normal,normal,0
+2944,imgs_512_373_3982_3982_IM-2039-2001.dcm,normal,normal,0
+1526,imgs_512_145_2551_2551_IM-1058-2001.dcm,normal,normal,0
+1973,imgs_512_301_301_301_IM-1389-2001.dcm,normal,normal,0
+1988,imgs_512_223_3030_3030_IM-1405-4001.dcm,normal,normal,0
+323,imgs_512_133_133_133_IM-0212-2001.dcm,normal,normal,0
+239,imgs_512_56_1259_1259_IM-0175-2001.dcm,normal,normal,0
+3327,imgs_512_380_781_781_IM-2323-2001.dcm,normal,normal,0
+535,imgs_512_348_1551_1551_IM-0359-2001.dcm,normal,normal,0
+1318,imgs_512_335_2340_2340_IM-0907-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+484,imgs_512_299_1502_1502_IM-0328-2001.dcm,normal,normal,0
+2464,imgs_512_293_3501_3501_IM-1706-2001.dcm,normal,normal,0
+471,imgs_512_149_149_149_IM-0315-1002.dcm,normal,normal,0
+2732,imgs_512_154_3763_3763_IM-1883-2001.dcm,normal,normal,0
+3173,imgs_512_217_618_618_IM-2201-2001.dcm,normal,normal,0
+3063,imgs_512_105_506_506_IM-2124-3003.dcm,normal,normal,0
+2496,imgs_512_320_3528_3528_IM-1725-3003.dcm,normal,normal,0
+418,imgs_512_141_141_141_IM-0260-2001.dcm,normal,normal,0
+1885,imgs_512_109_2916_2916_IM-1318-2001.dcm,normal,normal,0
+2612,imgs_512_363_363_363_IM-1798-2001.dcm,normal,normal,0
+2224,imgs_512_54_3262_3262_IM-1548-2001.dcm,normal,normal,0
+363,imgs_512_175_1378_1378_IM-0242-2001.dcm,normal,normal,0
+2398,imgs_512_225_3433_3433_IM-1662-2001.dcm,normal,normal,0
+3112,imgs_512_51_51_51_IM-2125-1002.dcm,calcified_granuloma lung bilateral scattered,calcified_granuloma,14
+470,imgs_512_285_1488_1488_IM-0315-3003.dcm,normal,normal,0
+984,imgs_512_3_2008_2008_IM-0658-2001.dcm,normal,normal,0
+203,imgs_512_15_1218_1218_IM-0146-2001.dcm,normal,normal,0
+2424,imgs_512_346_346_346_IM-1680-2001.dcm,normal,normal,0
+1095,imgs_512_115_2120_2120_IM-0747-1002.dcm,normal,normal,0
+3253,imgs_512_69_69_69_IM-2258-2001.dcm,normal,normal,0
+1974,imgs_512_203_3010_3010_IM-1389-2001.dcm,normal,normal,0
+679,imgs_512_92_1696_1696_IM-0457-1001.dcm,normal,normal,0
+656,imgs_512_68_1672_1672_IM-0443-5001.dcm,normal,normal,0
+1667,imgs_512_286_2692_2692_IM-1164-2001.dcm,normal,normal,0
+946,imgs_512_362_1966_1966_IM-0629-1002.dcm,normal,normal,0
+1814,imgs_512_284_284_284_IM-1252-1001.dcm,normal,normal,0
+1040,imgs_512_62_2067_2067_IM-0701-1002.dcm,normal,normal,0
+1042,imgs_512_64_2069_2069_IM-0702-2001.dcm,normal,normal,0
+1077,imgs_512_92_2097_2097_IM-0727-2001-0001.dcm,normal,normal,0
+1685,imgs_512_308_2714_2714_IM-1180-2001.dcm,normal,normal,0
+231,imgs_512_45_1248_1248_IM-0168-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+3135,imgs_512_180_581_581_IM-2178-3001.dcm,normal,normal,0
+2206,imgs_512_324_324_324_IM-1534-2001.dcm,normal,normal,0
+2306,imgs_512_138_3346_3346_IM-1604-1002.dcm,normal,normal,0
+684,imgs_512_17_17_17_IM-0460-1001.dcm,normal,normal,0
+3356,imgs_512_81_81_81_IM-2343-2001.dcm,normal,normal,0
+589,imgs_512_399_1602_1602_IM-0390-2001.dcm,normal,normal,0
+1780,imgs_512_281_281_281_IM-1238-2001.dcm,normal,normal,0
+2812,imgs_512_236_3845_3845_IM-1945-2001.dcm,normal,normal,0
+1901,imgs_512_111_2918_2918_IM-1320-2001.dcm,normal,normal,0
+3435,imgs_512_84_886_886_IM-2400-1002.dcm,normal,normal,0
+2326,imgs_512_157_3365_3365_IM-1618-2001.dcm,normal,normal,0
+1758,imgs_512_276_276_276_IM-1207-1002.dcm,normal,normal,0
+2289,imgs_512_117_3325_3325_IM-1591-1002.dcm,normal,normal,0
+850,imgs_512_269_1873_1873_IM-0565-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+246,imgs_512_61_1264_1264_IM-0179-2001.dcm,normal,normal,0
+3114,imgs_512_158_559_559_IM-2159-2001.dcm,normal,normal,0
+2578,imgs_512_1_3610_3610_IM-1783-1002.dcm,normal,normal,0
+3445,imgs_512_92_894_894_IM-2404-0001-0002.dcm,normal,normal,0
+2129,imgs_512_317_317_317_IM-1493-2001.dcm,normal,normal,0
+2361,imgs_512_192_3400_3400_IM-1644-2001.dcm,normal,normal,0
+3514,imgs_512_96_96_96_IM-2450-3003.dcm,normal,normal,0
+243,imgs_512_60_1263_1263_IM-0179-3001.dcm,normal,normal,0
+2379,imgs_512_195_3403_3403_IM-1647-2001.dcm,normal,normal,0
+2801,imgs_512_228_3837_3837_IM-1939-2001.dcm,normal,normal,0
+1686,imgs_512_303_2709_2709_IM-1175-2001.dcm,opacity lung base left,opacity,31
+2899,imgs_512_329_3938_3938_IM-2009-3001.dcm,normal,normal,0
+775,imgs_512_180_1784_1784_IM-0512-2001.dcm,calcinosis lung hilum lymph_nodes right,calcinosis,33
+721,imgs_512_126_1730_1730_IM-0481-1002.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+627,imgs_512_38_1642_1642_IM-0421-3001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+2798,imgs_512_223_3832_3832_IM-1935-1003002.dcm,calcinosis mediastinum lymph_nodes,calcinosis,33
+3433,imgs_512_81_883_883_IM-2398-1002.dcm,normal,normal,0
+1549,imgs_512_168_2574_2574_IM-1074-1002.dcm,calcified_granuloma lung middle_lobe right,calcified_granuloma,14
+1310,imgs_512_327_2332_2332_IM-0900-1002.dcm,normal,normal,0
+795,imgs_512_208_1812_1812_IM-0525-2001.dcm,normal,normal,0
+2852,imgs_512_276_3885_3885_IM-1971-2001.dcm,normal,normal,0
+3347,imgs_512_80_80_80_IM-2333-2001.dcm,normal,normal,0
+1085,imgs_512_98_2103_2103_IM-0734-0001-0002.dcm,normal,normal,0
+608,imgs_512_18_1622_1622_IM-0404-2001.dcm,normal,normal,0
+103,imgs_512_307_1109_1109_IM-0076-2001.dcm,normal,normal,0
+2896,imgs_512_322_3931_3931_IM-2003-1001.dcm,normal,normal,0
+3405,imgs_512_55_857_857_IM-2378-3003.dcm,normal,normal,0
+530,imgs_512_342_1545_1545_IM-0355-3003.dcm,normal,normal,0
+3209,imgs_512_251_652_652_IM-2229-1002.dcm,normal,normal,0
+2163,imgs_512_319_319_319_IM-1505-1002.dcm,normal,normal,0
+2093,imgs_512_315_3122_3122_IM-1467-2001.dcm,normal,normal,0
+56,imgs_512_106_106_106_IM-0042-2001.dcm,normal,normal,0
+1080,imgs_512_94_2099_2099_IM-0729-1002.dcm,normal,normal,0
+347,imgs_512_160_1363_1363_IM-0236-0001-0001.dcm,normal,normal,0
+297,imgs_512_109_1312_1312_IM-0203-1002.dcm,normal,normal,0
+959,imgs_512_377_1981_1981_IM-0638-2001.dcm,spine_degenerative chronic,spine_degenerative,31
+3150,imgs_512_194_595_595_IM-2187-2001.dcm,normal,normal,0
+797,imgs_512_210_1814_1814_IM-0527-2001.dcm,normal,normal,0
+3543,imgs_512_161_963_963_IM-2454-2001.dcm,spine_degenerative mild,spine_degenerative,31
+2922,imgs_512_349_3958_3958_IM-2022-2001.dcm,normal,normal,0
+75,imgs_512_281_1083_1083_IM-0058-2001.dcm,normal,normal,0
+1517,imgs_512_136_2542_2542_IM-1053-2001.dcm,normal,normal,0
+821,imgs_512_217_1821_1821_IM-0532-1002.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+2063,imgs_512_299_3106_3106_IM-1456-2001.dcm,normal,normal,0
+1697,imgs_512_320_2726_2726_IM-1186-1001.dcm,normal,normal,0
+1845,imgs_512_71_2878_2878_IM-1283-2001.dcm,normal,normal,0
+1786,imgs_512_399_2805_2805_IM-1235-2001.dcm,normal,normal,0
+2617,imgs_512_38_3647_3647_IM-1809-2001.dcm,normal,normal,0
+2947,imgs_512_376_3985_3985_IM-2041-2001.dcm,calcified_granuloma lung lower_lobe left anterior,calcified_granuloma,14
+1031,imgs_512_53_2058_2058_IM-0696-2002.dcm,lung_hypoinflation mild,lung_hypoinflation,21
+2734,imgs_512_155_3764_3764_IM-1884-1002.dcm,normal,normal,0
+1154,imgs_512_217_217_217_IM-0786-2001.dcm,normal,normal,0
+1183,imgs_512_22_22_22_IM-0810-2001.dcm,normal,normal,0
+3276,imgs_512_326_727_727_IM-2287-2001.dcm,normal,normal,0
+333,imgs_512_146_1349_1349_IM-0227-2001.dcm,calcified_granuloma,calcified_granuloma,14
+1441,imgs_512_54_2460_2460_IM-0993-2001.dcm,normal,normal,0
+1255,imgs_512_272_2277_2277_IM-0864-2001.dcm,normal,normal,0
+2410,imgs_512_238_3446_3446_IM-1669-2001.dcm,normal,normal,0
+3027,imgs_512_66_467_467_IM-2095-2001.dcm,normal,normal,0
+2181,imgs_512_14_3222_3222_IM-1522-2001.dcm,normal,normal,0
+3460,imgs_512_94_896_896_IM-2406-3001.dcm,normal,normal,0
+2511,imgs_512_334_3542_3542_IM-1734-2001.dcm,normal,normal,0
+2406,imgs_512_231_3439_3439_IM-1664-2001.dcm,normal,normal,0
+1144,imgs_512_156_2161_2161_IM-0779-2001.dcm,normal,normal,0
+2585,imgs_512_8_3617_3617_IM-1789-2001.dcm,normal,normal,0
+969,imgs_512_395_1999_1999_IM-0651-2001.dcm,normal,normal,0
+3323,imgs_512_378_779_779_IM-2321-2001.dcm,normal,normal,0
+1975,imgs_512_205_3012_3012_IM-1390-1002.dcm,normal,normal,0
+1823,imgs_512_47_2854_2854_IM-1262-2001.dcm,normal,normal,0
+1458,imgs_512_70_2476_2476_IM-1005-2001.dcm,spine_degenerative,spine_degenerative,31
+2964,imgs_512_398_398_398_IM-2039-2001.dcm,calcinosis right paratracheal,calcinosis,33
+129,imgs_512_114_114_114_IM-0096-2001.dcm,normal,normal,0
+1579,imgs_512_203_2609_2609_IM-1099-2001.dcm,normal,normal,0
+2611,imgs_512_29_3638_3638_IM-1804-2001.dcm,cardiomegaly,cardiomegaly,39
+578,imgs_512_393_1596_1596_IM-0387-2001.dcm,calcified_granuloma lung lingula,calcified_granuloma,14
+2993,imgs_512_29_430_430_IM-2071-2001.dcm,normal,normal,0
+1124,imgs_512_143_2148_2148_IM-0767-2001.dcm,normal,normal,0
+1481,imgs_512_98_2504_2504_IM-1029-1001.dcm,normal,normal,0
+1015,imgs_512_35_2040_2040_IM-0684-1002.dcm,cardiomegaly,cardiomegaly,39
+446,imgs_512_259_1462_1462_IM-0299-2001.dcm,normal,normal,0
+890,imgs_512_309_1913_1913_IM-0595-1002.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+1181,imgs_512_197_2202_2202_IM-0811-1002.dcm,normal,normal,0
+325,imgs_512_137_1340_1340_IM-0220-2001.dcm,normal,normal,0
+3518,imgs_512_166_968_968_IM-2458-2001.dcm,normal,normal,0
+2824,imgs_512_247_3856_3856_IM-1951-2001.dcm,normal,normal,0
+2266,imgs_512_96_3304_3304_IM-1581-2001.dcm,scoliosis thoracic_vertebrae left,scoliosis,43
+2739,imgs_512_377_377_377_IM-1889-2001.dcm,spine_degenerative,spine_degenerative,31
+1805,imgs_512_283_283_283_IM-1248-2001.dcm,normal,normal,0
+2573,imgs_512_397_3605_3605_IM-1781-1002.dcm,normal,normal,0
+335,imgs_512_147_1350_1350_IM-0227-2001.dcm,normal,normal,0
+2547,imgs_512_358_358_358_IM-1759-1002.dcm,normal,normal,0
+640,imgs_512_52_1656_1656_IM-0431-2001.dcm,normal,normal,0
+1299,imgs_512_314_2319_2319_IM-0892-2002.dcm,normal,normal,0
+1591,imgs_512_215_2621_2621_IM-1109-2001.dcm,normal,normal,0
+49,imgs_512_250_1052_1052_IM-0040-1002.dcm,normal,normal,0
+3453,imgs_512_89_89_89_IM-2402-2001.dcm,normal,normal,0
+3472,imgs_512_119_921_921_IM-2423-2001.dcm,normal,normal,0
+688,imgs_512_170_170_170_IM-0461-0001-0001.dcm,lung_hypoinflation,lung_hypoinflation,21
+2003,imgs_512_241_3048_3048_IM-1419-3001.dcm,normal,normal,0
+1013,imgs_512_33_2038_2038_IM-0682-2001.dcm,normal,normal,0
+1112,imgs_512_128_2133_2133_IM-0756-2001.dcm,scoliosis thoracic_vertebrae mild,scoliosis,43
+957,imgs_512_376_1980_1980_IM-0637-2001.dcm,normal,normal,0
+400,imgs_512_207_1410_1410_IM-0260-1002.dcm,normal,normal,0
+170,imgs_512_385_1187_1187_IM-0126-2001.dcm,opacity lung base bilateral,opacity,31
+287,imgs_512_102_1305_1305_IM-0199-1002.dcm,normal,normal,0
+2327,imgs_512_154_3362_3362_IM-1615-2001.dcm,normal,normal,0
+560,imgs_512_369_1572_1572_IM-0373-2001.dcm,calcified_granuloma lung upper_lobe left,calcified_granuloma,14
+978,imgs_512_396_2000_2000_IM-0654-2001.dcm,normal,normal,0
+80,imgs_512_289_1091_1091_IM-0062-2001.dcm,normal,normal,0
+2928,imgs_512_357_3966_3966_IM-2028-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+1859,imgs_512_85_2892_2892_IM-1295-2001.dcm,calcified_granuloma lung lower_lobe left multiple,calcified_granuloma,14
+3030,imgs_512_69_470_470_IM-2099-2001.dcm,normal,normal,0
+1864,imgs_512_86_2893_2893_IM-1295-2001.dcm,normal,normal,0
+1193,imgs_512_205_2210_2210_IM-0817-2001.dcm,normal,normal,0
+2558,imgs_512_359_359_359_IM-1768-2001.dcm,normal,normal,0
+139,imgs_512_346_1148_1148_IM-0100-2001.dcm,normal,normal,0
+2443,imgs_512_345_345_345_IM-1672-2001.dcm,normal,normal,0
+146,imgs_512_116_116_116_IM-0107-2001.dcm,calcified_granuloma lung base left small,calcified_granuloma,14
+1624,imgs_512_245_2651_2651_IM-1136-2001.dcm,normal,normal,0
+2926,imgs_512_353_3962_3962_IM-2027-2001.dcm,normal,normal,0
+261,imgs_512_75_1278_1278_IM-0185-1002.dcm,normal,normal,0
+694,imgs_512_101_1705_1705_IM-0465-2001.dcm,normal,normal,0
+1867,imgs_512_92_2899_2899_IM-1301-2001.dcm,normal,normal,0
+294,imgs_512_106_1309_1309_IM-0201-1001-0002.dcm,normal,normal,0
+1637,imgs_512_254_2660_2660_IM-1142-2001.dcm,normal,normal,0
+567,imgs_512_372_1575_1575_IM-0374-2001.dcm,calcified_granuloma lung hilum left,calcified_granuloma,14
+1836,imgs_512_56_2863_2863_IM-1271-2001.dcm,normal,normal,0
+1234,imgs_512_226_226_226_IM-0851-2001.dcm,normal,normal,0
+1078,imgs_512_92_2097_2097_IM-0727-2001-0002.dcm,normal,normal,0
+1452,imgs_512_247_247_247_IM-1000-2001.dcm,normal,normal,0
+2329,imgs_512_159_3367_3367_IM-1619-4001.dcm,normal,normal,0
+250,imgs_512_127_127_127_IM-0181-1002.dcm,calcified_granuloma lung base left,calcified_granuloma,14
+1812,imgs_512_33_2840_2840_IM-1253-2001.dcm,normal,normal,0
+2452,imgs_512_281_3489_3489_IM-1696-2001.dcm,normal,normal,0
+195,imgs_512_121_121_121_IM-0142-2001.dcm,normal,normal,0
+2784,imgs_512_208_3817_3817_IM-1925-2001.dcm,normal,normal,0
+1924,imgs_512_149_2956_2956_IM-1353-1001.dcm,normal,normal,0
+1496,imgs_512_100_2506_2506_IM-1029-2001.dcm,cardiomegaly,cardiomegaly,39
+3008,imgs_512_42_443_443_IM-2078-1002.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+525,imgs_512_337_1540_1540_IM-0351-2001.dcm,normal,normal,0
+1280,imgs_512_298_2303_2303_IM-0882-2001.dcm,normal,normal,0
+3486,imgs_512_111_913_913_IM-2417-2001.dcm,normal,normal,0
+2062,imgs_512_298_3105_3105_IM-1456-1002.dcm,normal,normal,0
+3535,imgs_512_184_986_986_IM-2473-3003.dcm,normal,normal,0
+1488,imgs_512_104_2510_2510_IM-1033-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+2692,imgs_512_113_3722_3722_IM-1859-2001.dcm,normal,normal,0
+2952,imgs_512_399_399_399_IM-2043-3003.dcm,spine_degenerative,spine_degenerative,31
+2910,imgs_512_395_395_395_IM-2019-2001.dcm,calcinosis lung hilum lymph_nodes,calcinosis,33
+2494,imgs_512_352_352_352_IM-1718-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+3024,imgs_512_50_451_451_IM-2082-2001.dcm,calcinosis mediastinum lymph_nodes,calcinosis,33
+681,imgs_512_169_169_169_IM-0452-2001.dcm,normal,normal,0
+519,imgs_512_313_1516_1516_IM-0334-2001.dcm,normal,normal,0
+756,imgs_512_159_1763_1763_IM-0497-2001.dcm,lung_hyperdistention,lung_hyperdistention,55
+2167,imgs_512_0_3208_3208_IM-1515-2001.dcm,normal,normal,0
+2170,imgs_512_399_3206_3206_IM-1513-1002.dcm,normal,normal,0
+3220,imgs_512_262_663_663_IM-2239-2001.dcm,normal,normal,0
+141,imgs_512_349_1151_1151_IM-0102-2001.dcm,normal,normal,0
+1338,imgs_512_352_2357_2357_IM-0921-2001.dcm,normal,normal,0
+1231,imgs_512_252_2257_2257_IM-0849-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+2460,imgs_512_288_3496_3496_IM-1701-2001.dcm,normal,normal,0
+2796,imgs_512_221_3830_3830_IM-1933-2001.dcm,normal,normal,0
+3138,imgs_512_183_584_584_IM-2181-2001.dcm,normal,normal,0
+1605,imgs_512_228_2634_2634_IM-1121-2001.dcm,thoracic_vertebrae_degenerative moderate,thoracic_vertebrae_degenerative,21
+811,imgs_512_224_1828_1828_IM-0536-3001.dcm,normal,normal,0
+1378,imgs_512_382_2387_2387_IM-0943-2001.dcm,thoracic_vertebrae_degenerative moderate,thoracic_vertebrae_degenerative,21
+790,imgs_512_198_1802_1802_IM-0521-2001.dcm,normal,normal,0
+500,imgs_512_317_1520_1520_IM-0336-1003002.dcm,normal,normal,0
+1760,imgs_512_279_279_279_IM-1224-1001-0001.dcm,normal,normal,0
+1572,imgs_512_186_2592_2592_IM-1084-2001.dcm,normal,normal,0
+1930,imgs_512_130_2937_2937_IM-1339-2001.dcm,normal,normal,0
+3064,imgs_512_104_505_505_IM-2123-2001.dcm,normal,normal,0
+355,imgs_512_156_1359_1359_IM-0233-2001.dcm,normal,normal,0
+1006,imgs_512_26_2031_2031_IM-0676-3003.dcm,normal,normal,0
+1888,imgs_512_116_2923_2923_IM-1326-3001.dcm,normal,normal,0
+3458,imgs_512_104_906_906_IM-2411-2001.dcm,cardiomegaly mild,cardiomegaly,39
+3416,imgs_512_64_866_866_IM-2386-3001.dcm,normal,normal,0
+1650,imgs_512_273_2679_2679_IM-1153-2001.dcm,scoliosis lumbar_vertebrae moderate,scoliosis,43
+956,imgs_512_375_1979_1979_IM-0637-2001.dcm,normal,normal,0
+2445,imgs_512_235_3443_3443_IM-1667-2001.dcm,normal,normal,0
+2532,imgs_512_355_3563_3563_IM-1748-3003.dcm,normal,normal,0
+1076,imgs_512_92_2097_2097_IM-0727-1001-0002.dcm,normal,normal,0
+402,imgs_512_208_1411_1411_IM-0261-0001-0002.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+2546,imgs_512_368_3576_3576_IM-1757-2001.dcm,normal,normal,0
+1079,imgs_512_93_2098_2098_IM-0728-2001.dcm,normal,normal,0
+1123,imgs_512_141_2146_2146_IM-0766-3003.dcm,normal,normal,0
+1656,imgs_512_274_2680_2680_IM-1154-3001.dcm,normal,normal,0
+2891,imgs_512_302_3911_3911_IM-1987-2001.dcm,normal,normal,0
+2498,imgs_512_319_3527_3527_IM-1724-1002.dcm,normal,normal,0
+3238,imgs_512_279_680_680_IM-2251-2001.dcm,calcified_granuloma lung base right small,calcified_granuloma,14
+2670,imgs_512_89_3698_3698_IM-1846-2001.dcm,normal,normal,0
+85,imgs_512_291_1093_1093_IM-0064-3003.dcm,normal,normal,0
+2301,imgs_512_131_3339_3339_IM-1599-2001.dcm,normal,normal,0
+491,imgs_512_307_1510_1510_IM-0331-2001.dcm,normal,normal,0
+3117,imgs_512_160_561_561_IM-2162-2001.dcm,normal,normal,0
+3532,imgs_512_178_980_980_IM-2468-2001.dcm,normal,normal,0
+2179,imgs_512_12_3220_3220_IM-1522-2001.dcm,normal,normal,0
+1825,imgs_512_48_2855_2855_IM-1263-2001.dcm,normal,normal,0
+1984,imgs_512_217_3024_3024_IM-1399-2001.dcm,normal,normal,0
+2441,imgs_512_348_348_348_IM-1690-2001.dcm,normal,normal,0
+2162,imgs_512_394_3201_3201_IM-1513-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+764,imgs_512_175_1779_1779_IM-0509-1002.dcm,normal,normal,0
+724,imgs_512_130_1734_1734_IM-0484-2001.dcm,normal,normal,0
+3334,imgs_512_350_751_751_IM-2305-2001.dcm,normal,normal,0
+2039,imgs_512_276_3083_3083_IM-1442-8001.dcm,normal,normal,0
+3037,imgs_512_46_46_46_IM-2090-3003.dcm,normal,normal,0
+1167,imgs_512_184_2189_2189_IM-0798-2001.dcm,normal,normal,0
+3296,imgs_512_347_748_748_IM-2302-2001.dcm,normal,normal,0
+3544,imgs_512_191_993_993_IM-2478-1002.dcm,normal,normal,0
+3086,imgs_512_129_530_530_IM-2139-1002.dcm,cardiomegaly mild,cardiomegaly,39
+3401,imgs_512_83_83_83_IM-2358-1002.dcm,normal,normal,0
+2095,imgs_512_314_314_314_IM-1477-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+974,imgs_512_383_1987_1987_IM-0644-2001.dcm,normal,normal,0
+771,imgs_512_150_1754_1754_IM-0494-2001.dcm,opacity lung lower_lobe bilateral interstitial,opacity,31
+703,imgs_512_109_1713_1713_IM-0471-1001.dcm,normal,normal,0
+2369,imgs_512_197_3405_3405_IM-1647-2001.dcm,spine_degenerative mild,spine_degenerative,31
+2347,imgs_512_176_3384_3384_IM-1631-2001.dcm,normal,normal,0
+2889,imgs_512_313_3922_3922_IM-1996-0001-0001.dcm,normal,normal,0
+2113,imgs_512_349_3156_3156_IM-1486-2001.dcm,normal,normal,0
+3342,imgs_512_397_798_798_IM-2332-2001.dcm,normal,normal,0
+1069,imgs_512_85_2090_2090_IM-0722-2001.dcm,normal,normal,0
+3363,imgs_512_13_815_815_IM-2346-1002.dcm,normal,normal,0
+1297,imgs_512_311_2316_2316_IM-0889-2001.dcm,normal,normal,0
+3317,imgs_512_370_771_771_IM-2316-1001.dcm,normal,normal,0
+634,imgs_512_42_1646_1646_IM-0423-3001.dcm,normal,normal,0
+2391,imgs_512_219_3427_3427_IM-1657-2001.dcm,normal,normal,0
+2636,imgs_512_54_3663_3663_IM-1822-2001.dcm,normal,normal,0
+2878,imgs_512_297_3906_3906_IM-1984-2001.dcm,normal,normal,0
+2378,imgs_512_205_3413_3413_IM-1650-2001.dcm,normal,normal,0
+1918,imgs_512_131_2938_2938_IM-1339-2001.dcm,normal,normal,0
+1830,imgs_512_286_286_286_IM-1267-2001.dcm,calcinosis lung hilum left,calcinosis,33
+1192,imgs_512_206_2211_2211_IM-0818-2001.dcm,cardiomegaly,cardiomegaly,39
+1298,imgs_512_316_2321_2321_IM-0894-2001.dcm,normal,normal,0
+1143,imgs_512_155_2160_2160_IM-0778-2001.dcm,normal,normal,0
+1026,imgs_512_49_2054_2054_IM-0692-0001-0001.dcm,opacity lung hilum left interstitial,opacity,31
+2094,imgs_512_331_3138_3138_IM-1476-1002.dcm,normal,normal,0
+2388,imgs_512_214_3422_3422_IM-1656-1002.dcm,normal,normal,0
+455,imgs_512_263_1466_1466_IM-0302-1002.dcm,normal,normal,0
+1717,imgs_512_339_2745_2745_IM-1197-2001.dcm,calcified_granuloma scattered multiple,calcified_granuloma,14
+2767,imgs_512_186_3795_3795_IM-1909-2001.dcm,scoliosis thoracic_vertebrae right moderate,scoliosis,43
+2676,imgs_512_370_370_370_IM-1848-2001.dcm,normal,normal,0
+1759,imgs_512_385_2791_2791_IM-1225-3001.dcm,normal,normal,0
+1919,imgs_512_143_2950_2950_IM-1348-2001.dcm,normal,normal,0
+1293,imgs_512_310_2315_2315_IM-0889-1002.dcm,calcified_granuloma lung lingula,calcified_granuloma,14
+1412,imgs_512_31_2437_2437_IM-0977-3003.dcm,normal,normal,0
+1604,imgs_512_226_2632_2632_IM-1119-3001.dcm,normal,normal,0
+2280,imgs_512_103_3311_3311_IM-1586-3001.dcm,normal,normal,0
+493,imgs_512_308_1511_1511_IM-0331-2001.dcm,normal,normal,0
+2099,imgs_512_329_3136_3136_IM-1475-2001.dcm,normal,normal,0
+162,imgs_512_374_1176_1176_IM-0119-2001.dcm,normal,normal,0
+2990,imgs_512_26_427_427_IM-2070-2001.dcm,normal,normal,0
+188,imgs_512_396_1198_1198_IM-0132-2001.dcm,calcified_granuloma lung lower_lobe right,calcified_granuloma,14
+2888,imgs_512_308_3917_3917_IM-1992-2001.dcm,cardiomegaly mild,cardiomegaly,39
+349,imgs_512_164_1367_1367_IM-0237-2001.dcm,normal,normal,0
+3281,imgs_512_330_731_731_IM-2291-2001.dcm,normal,normal,0
+930,imgs_512_195_195_195_IM-0618-1001.dcm,normal,normal,0
+1468,imgs_512_248_248_248_IM-1008-85149003.dcm,calcified_granuloma lung middle_lobe right small,calcified_granuloma,14
+89,imgs_512_297_1099_1099_IM-0067-2001.dcm,normal,normal,0
+1202,imgs_512_220_2225_2225_IM-0829-4001.dcm,normal,normal,0
+1716,imgs_512_339_2745_2745_IM-1197-1001.dcm,calcified_granuloma scattered multiple,calcified_granuloma,14
+3468,imgs_512_100_902_902_IM-2409-2001.dcm,calcified_granuloma costophrenic_angle posterior,calcified_granuloma,14
+312,imgs_512_125_1328_1328_IM-0211-3001.dcm,calcified_granuloma lung left,calcified_granuloma,14
+109,imgs_512_309_1111_1111_IM-0077-1001.dcm,cardiomegaly severe,cardiomegaly,39
+499,imgs_512_315_1518_1518_IM-0335-1002.dcm,normal,normal,0
+2112,imgs_512_350_3157_3157_IM-1487-2001.dcm,normal,normal,0
+1546,imgs_512_111_2517_2517_IM-1036-2001.dcm,normal,normal,0
+988,imgs_512_2_2007_2007_IM-0657-0001-0001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+1176,imgs_512_193_2198_2198_IM-0808-2001.dcm,normal,normal,0
+910,imgs_512_327_1931_1931_IM-0602-2001.dcm,normal,normal,0
+3005,imgs_512_42_42_42_IM-2063-2001.dcm,normal,normal,0
+3186,imgs_512_225_626_626_IM-2206-2001.dcm,normal,normal,0
+3474,imgs_512_116_918_918_IM-2420-4001.dcm,normal,normal,0
+2507,imgs_512_331_3539_3539_IM-1731-3001.dcm,normal,normal,0
+1469,imgs_512_84_2490_2490_IM-1017-2001.dcm,calcified_granuloma multiple,calcified_granuloma,14
+1645,imgs_512_266_2672_2672_IM-1148-2001.dcm,normal,normal,0
+2368,imgs_512_150_3358_3358_IM-1611-1002.dcm,normal,normal,0
+991,imgs_512_11_2016_2016_IM-0665-2001.dcm,normal,normal,0
+374,imgs_512_185_1388_1388_IM-0246-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+635,imgs_512_47_1651_1651_IM-0427-1002.dcm,calcified_granuloma lung upper_lobe right,calcified_granuloma,14
+3207,imgs_512_252_653_653_IM-2230-2001.dcm,spine_degenerative mild,spine_degenerative,31
+664,imgs_512_75_1679_1679_IM-0448-1002.dcm,normal,normal,0
+2228,imgs_512_58_3266_3266_IM-1551-2001.dcm,normal,normal,0
+240,imgs_512_398_1200_1200_IM-0134-2001.dcm,opacity lung hilum right small,opacity,31
+1980,imgs_512_3_3_3_IM-1384-2001.dcm,normal,normal,0
+1969,imgs_512_195_3002_3002_IM-1388-2001.dcm,normal,normal,0
+2048,imgs_512_309_309_309_IM-1444-2001.dcm,normal,normal,0
+1381,imgs_512_396_2401_2401_IM-0950-2001.dcm,normal,normal,0
+3198,imgs_512_244_645_645_IM-2224-2001.dcm,spine_degenerative,spine_degenerative,31
+2535,imgs_512_341_3549_3549_IM-1739-1001-0003.dcm,normal,normal,0
+661,imgs_512_73_1677_1677_IM-0446-3001.dcm,normal,normal,0
+2208,imgs_512_39_3247_3247_IM-1538-1002.dcm,normal,normal,0
+1427,imgs_512_44_2450_2450_IM-0986-2001.dcm,normal,normal,0
+2355,imgs_512_184_3392_3392_IM-1637-2001.dcm,normal,normal,0
+880,imgs_512_299_1903_1903_IM-0586-2001.dcm,normal,normal,0
+3098,imgs_512_141_542_542_IM-2148-1002.dcm,normal,normal,0
+2348,imgs_512_177_3385_3385_IM-1632-2001.dcm,normal,normal,0
+647,imgs_512_59_1663_1663_IM-0439-2001.dcm,normal,normal,0
+235,imgs_512_50_1253_1253_IM-0171-0001-0001.dcm,normal,normal,0
+2929,imgs_512_358_3967_3967_IM-2028-2001.dcm,spine_degenerative mild,spine_degenerative,31
+1551,imgs_512_173_2579_2579_IM-1078-2001.dcm,normal,normal,0
+2986,imgs_512_12_413_413_IM-2056-1002.dcm,normal,normal,0
+105,imgs_512_312_1114_1114_IM-0079-2001.dcm,normal,normal,0
+34,imgs_512_236_1038_1038_IM-0029-2001.dcm,normal,normal,0
+120,imgs_512_329_1131_1131_IM-0088-0001-0001.dcm,calcified_granuloma lung base right,calcified_granuloma,14
+2914,imgs_512_344_3953_3953_IM-2021-1002.dcm,normal,normal,0
+1089,imgs_512_110_2115_2115_IM-0744-2001.dcm,normal,normal,0
+167,imgs_512_366_1168_1168_IM-0112-1002.dcm,normal,normal,0
+350,imgs_512_163_1366_1366_IM-0237-2001.dcm,normal,normal,0
+389,imgs_512_199_1402_1402_IM-0257-3001.dcm,normal,normal,0
+1536,imgs_512_157_2563_2563_IM-1066-2001.dcm,normal,normal,0
+313,imgs_512_124_1327_1327_IM-0211-1002.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+3237,imgs_512_65_65_65_IM-2228-2001.dcm,normal,normal,0
+1983,imgs_512_214_3021_3021_IM-1396-2001.dcm,normal,normal,0
+324,imgs_512_133_133_133_IM-0212-3001.dcm,normal,normal,0
+1385,imgs_512_392_2397_2397_IM-0946-2001.dcm,normal,normal,0
+2126,imgs_512_324_3131_3131_IM-1473-2001.dcm,normal,normal,0
+175,imgs_512_388_1190_1190_IM-0128-1003.dcm,normal,normal,0
+2995,imgs_512_31_432_432_IM-2072-1002.dcm,normal,normal,0
+3516,imgs_512_163_965_965_IM-2455-2001.dcm,normal,normal,0
+1844,imgs_512_70_2877_2877_IM-1283-2001.dcm,normal,normal,0
+3284,imgs_512_333_734_734_IM-2293-0001-0001.dcm,normal,normal,0
+892,imgs_512_308_1912_1912_IM-0594-2001.dcm,normal,normal,0
+3439,imgs_512_87_889_889_IM-2401-2001.dcm,normal,normal,0
+2870,imgs_512_294_3903_3903_IM-1982-2001.dcm,normal,normal,0
+404,imgs_512_212_1415_1415_IM-0264-2001.dcm,normal,normal,0
+331,imgs_512_142_1345_1345_IM-0223-2001.dcm,normal,normal,0
+134,imgs_512_342_1144_1144_IM-0097-2001.dcm,normal,normal,0
+610,imgs_512_23_1627_1627_IM-0408-2001.dcm,normal,normal,0
+760,imgs_512_171_1775_1775_IM-0508-2001.dcm,normal,normal,0
+2701,imgs_512_120_3729_3729_IM-1864-1002.dcm,normal,normal,0
+2590,imgs_512_14_3623_3623_IM-1793-1002.dcm,calcinosis lymph_nodes,calcinosis,33
+2806,imgs_512_232_3841_3841_IM-1942-1002.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+3500,imgs_512_145_947_947_IM-2442-1001.dcm,normal,normal,0
+2465,imgs_512_292_3500_3500_IM-1706-2001.dcm,normal,normal,0
+2322,imgs_512_153_3361_3361_IM-1614-2001.dcm,normal,normal,0
+43,imgs_512_245_1047_1047_IM-0036-1001.dcm,normal,normal,0
+739,imgs_512_141_1745_1745_IM-0489-1001.dcm,normal,normal,0
+1290,imgs_512_308_2313_2313_IM-0888-1004003.dcm,normal,normal,0
+3521,imgs_512_168_970_970_IM-2460-3001.dcm,normal,normal,0
+937,imgs_512_352_1956_1956_IM-0623-2001.dcm,normal,normal,0
+874,imgs_512_281_1885_1885_IM-0574-2001.dcm,normal,normal,0
+576,imgs_512_391_1594_1594_IM-0385-2001.dcm,normal,normal,0
+1281,imgs_512_287_2292_2292_IM-0874-1002.dcm,normal,normal,0
+2018,imgs_512_306_306_306_IM-1426-2001.dcm,normal,normal,0
+2880,imgs_512_281_3890_3890_IM-1973-2001.dcm,normal,normal,0
+1848,imgs_512_73_2880_2880_IM-1284-2001.dcm,normal,normal,0
+2366,imgs_512_187_3395_3395_IM-1639-0001-0002.dcm,normal,normal,0
+1199,imgs_512_218_2223_2223_IM-0827-2001.dcm,normal,normal,0
+2731,imgs_512_153_3762_3762_IM-1883-2001.dcm,calcinosis coronary_vessels left,calcinosis,33
+1294,imgs_512_312_2317_2317_IM-0890-2001.dcm,calcified_granuloma costophrenic_angle right,calcified_granuloma,14
+131,imgs_512_339_1141_1141_IM-0096-1002.dcm,normal,normal,0
+2965,imgs_512_372_3981_3981_IM-2039-2001.dcm,normal,normal,0
+944,imgs_512_360_1964_1964_IM-0629-2001.dcm,normal,normal,0
+853,imgs_512_274_1878_1878_IM-0569-2001.dcm,calcified_granuloma,calcified_granuloma,14
+815,imgs_512_227_1831_1831_IM-0538-3001.dcm,normal,normal,0
+187,imgs_512_12_12_12_IM-0133-2001.dcm,normal,normal,0
+1332,imgs_512_340_2345_2345_IM-0910-2001.dcm,thoracic_vertebrae_degenerative chronic mild,thoracic_vertebrae_degenerative,21
+3028,imgs_512_27_428_428_IM-2070-1002.dcm,normal,normal,0
+1935,imgs_512_156_2963_2963_IM-1356-2001.dcm,normal,normal,0
+1961,imgs_512_190_2997_2997_IM-1381-1001.dcm,normal,normal,0
+2576,imgs_512_394_3602_3602_IM-1778-2001.dcm,calcified_granuloma lung bilateral multiple,calcified_granuloma,14
+424,imgs_512_237_1440_1440_IM-0284-2001.dcm,normal,normal,0
+2555,imgs_512_380_3588_3588_IM-1766-2001.dcm,normal,normal,0
+52,imgs_512_255_1057_1057_IM-0041-2001.dcm,normal,normal,0
+830,imgs_512_245_1849_1849_IM-0550-1002.dcm,calcified_granuloma lung base right,calcified_granuloma,14
+2028,imgs_512_266_3073_3073_IM-1434-2001.dcm,normal,normal,0
+2672,imgs_512_37_37_37_IM-1847-0001-0001.dcm,opacity lung middle_lobe right,opacity,31
+486,imgs_512_300_1503_1503_IM-0329-6001.dcm,normal,normal,0
+571,imgs_512_385_1588_1588_IM-0382-2001.dcm,normal,normal,0
+3065,imgs_512_95_496_496_IM-2114-1002.dcm,normal,normal,0
+1695,imgs_512_314_2720_2720_IM-1182-2001.dcm,normal,normal,0
+2689,imgs_512_110_3719_3719_IM-1857-1002.dcm,normal,normal,0
+2940,imgs_512_328_3937_3937_IM-2008-2001.dcm,spine_degenerative mild,spine_degenerative,31
+603,imgs_512_16_1620_1620_IM-0402-2001.dcm,normal,normal,0
+2736,imgs_512_156_3765_3765_IM-1884-1002.dcm,normal,normal,0
+3105,imgs_512_55_55_55_IM-2154-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+1893,imgs_512_108_2915_2915_IM-1317-2001.dcm,normal,normal,0
+2275,imgs_512_106_3314_3314_IM-1586-1002.dcm,normal,normal,0
+1110,imgs_512_129_2134_2134_IM-0756-2001.dcm,lung_hyperdistention mild,lung_hyperdistention,55
+3481,imgs_512_128_930_930_IM-2429-1001.dcm,lung_hypoinflation,lung_hypoinflation,21
+2706,imgs_512_125_3734_3734_IM-1866-2001.dcm,normal,normal,0
+3110,imgs_512_153_554_554_IM-2155-2001.dcm,normal,normal,0
+3477,imgs_512_124_926_926_IM-2425-2001.dcm,normal,normal,0
+877,imgs_512_295_1899_1899_IM-0582-1003.dcm,normal,normal,0
+919,imgs_512_336_1940_1940_IM-0610-3003.dcm,normal,normal,0
+706,imgs_512_114_1718_1718_IM-0474-2001.dcm,opacity lung interstitial reticular mild,opacity,31
+1361,imgs_512_238_238_238_IM-0939-2001.dcm,normal,normal,0
+1502,imgs_512_121_2527_2527_IM-1043-2001.dcm,normal,normal,0
+658,imgs_512_70_1674_1674_IM-0445-2001.dcm,normal,normal,0
+1899,imgs_512_126_2933_2933_IM-1336-2001.dcm,normal,normal,0
+483,imgs_512_296_1499_1499_IM-0323-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+3215,imgs_512_66_66_66_IM-2236-1002.dcm,normal,normal,0
+1208,imgs_512_225_2230_2230_IM-0831-2001.dcm,normal,normal,0
+316,imgs_512_127_1330_1330_IM-0213-2001.dcm,normal,normal,0
+1387,imgs_512_384_2389_2389_IM-0944-3001.dcm,normal,normal,0
+699,imgs_512_106_1710_1710_IM-0469-2001.dcm,normal,normal,0
+1217,imgs_512_233_2238_2238_IM-0835-2001.dcm,normal,normal,0
+266,imgs_512_36_1239_1239_IM-0160-2001.dcm,normal,normal,0
+190,imgs_512_2_1205_1205_IM-0138-1002.dcm,normal,normal,0
+1136,imgs_512_152_2157_2157_IM-0775-2001.dcm,normal,normal,0
+513,imgs_512_327_1530_1530_IM-0344-2001.dcm,normal,normal,0
+21,imgs_512_205_1007_1007_IM-0008-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+351,imgs_512_165_1368_1368_IM-0237-2001.dcm,normal,normal,0
+1309,imgs_512_318_2323_2323_IM-0895-2001.dcm,normal,normal,0
+2609,imgs_512_28_3637_3637_IM-1804-2001.dcm,normal,normal,0
+2022,imgs_512_260_3067_3067_IM-1430-1002.dcm,normal,normal,0
+1982,imgs_512_213_3020_3020_IM-1395-2001.dcm,normal,normal,0
+1638,imgs_512_259_2665_2665_IM-1145-2001.dcm,normal,normal,0
+2505,imgs_512_327_3535_3535_IM-1728-0001-0001.dcm,normal,normal,0
+3530,imgs_512_162_964_964_IM-2454-1002.dcm,normal,normal,0
+1883,imgs_512_91_2898_2898_IM-1300-0001-0003.dcm,normal,normal,0
+1674,imgs_512_284_2690_2690_IM-1162-1004003.dcm,calcified_granuloma lung lingula,calcified_granuloma,14
+2195,imgs_512_27_3235_3235_IM-1532-2001.dcm,normal,normal,0
+1660,imgs_512_268_2674_2674_IM-1149-2001.dcm,normal,normal,0
+2235,imgs_512_59_3267_3267_IM-1551-2001.dcm,normal,normal,0
+2281,imgs_512_112_3320_3320_IM-1588-1002.dcm,normal,normal,0
+966,imgs_512_390_1994_1994_IM-0651-2001.dcm,normal,normal,0
+150,imgs_512_360_1162_1162_IM-0108-2001.dcm,normal,normal,0
+2610,imgs_512_28_3637_3637_IM-1804-3001.dcm,normal,normal,0
+654,imgs_512_67_1671_1671_IM-0442-2001.dcm,normal,normal,0
+416,imgs_512_228_1431_1431_IM-0278-2001.dcm,normal,normal,0
+1539,imgs_512_160_2566_2566_IM-1068-2001.dcm,normal,normal,0
+2533,imgs_512_360_3568_3568_IM-1753-2001.dcm,calcinosis lymph_nodes right paratracheal,calcinosis,33
+1839,imgs_512_287_287_287_IM-1276-1001.dcm,normal,normal,0
+3508,imgs_512_156_958_958_IM-2449-1002.dcm,normal,normal,0
+2244,imgs_512_75_3283_3283_IM-1564-2001.dcm,normal,normal,0
+3212,imgs_512_253_654_654_IM-2231-2001.dcm,normal,normal,0
+1363,imgs_512_380_2385_2385_IM-0942-1002.dcm,normal,normal,0
+2119,imgs_512_356_3163_3163_IM-1488-2001.dcm,normal,normal,0
+3442,imgs_512_89_891_891_IM-2403-2001.dcm,normal,normal,0
+2019,imgs_512_242_3049_3049_IM-1420-1002.dcm,normal,normal,0
+126,imgs_512_336_1138_1138_IM-0094-2001.dcm,normal,normal,0
+369,imgs_512_179_1382_1382_IM-0245-2001.dcm,normal,normal,0
+2414,imgs_512_242_3450_3450_IM-1673-2001.dcm,normal,normal,0
+528,imgs_512_341_1544_1544_IM-0354-1002.dcm,normal,normal,0
+1286,imgs_512_296_2301_2301_IM-0881-1001.dcm,cardiomegaly,cardiomegaly,39
+3189,imgs_512_231_632_632_IM-2213-1002.dcm,normal,normal,0
+1418,imgs_512_37_2443_2443_IM-0980-2001.dcm,calcinosis blood_vessels,calcinosis,33
+2755,imgs_512_178_3787_3787_IM-1900-2001.dcm,normal,normal,0
+1743,imgs_512_335_2741_2741_IM-1196-2001.dcm,normal,normal,0
+1030,imgs_512_51_2056_2056_IM-0694-1001-0001.dcm,normal,normal,0
+135,imgs_512_343_1145_1145_IM-0097-3003.dcm,lung_hyperdistention,lung_hyperdistention,55
+674,imgs_512_84_1688_1688_IM-0450-2001.dcm,normal,normal,0
+838,imgs_512_253_1857_1857_IM-0556-1001.dcm,cardiomegaly mild,cardiomegaly,39
+2702,imgs_512_122_3731_3731_IM-1865-2001.dcm,normal,normal,0
+505,imgs_512_320_1523_1523_IM-0339-2001.dcm,normal,normal,0
+1172,imgs_512_166_2171_2171_IM-0786-2001.dcm,calcified_granuloma lung upper_lobe right small,calcified_granuloma,14
+378,imgs_512_188_1391_1391_IM-0250-5001.dcm,lung_hypoinflation,lung_hypoinflation,21
+3337,imgs_512_392_793_793_IM-2330-2001.dcm,normal,normal,0
+3127,imgs_512_171_572_572_IM-2170-1002.dcm,normal,normal,0
+2403,imgs_512_233_3441_3441_IM-1666-1002.dcm,normal,normal,0
+506,imgs_512_320_1523_1523_IM-0339-3001.dcm,normal,normal,0
+171,imgs_512_386_1188_1188_IM-0127-2001.dcm,normal,normal,0
+26,imgs_512_223_1025_1025_IM-0020-3001.dcm,calcified_granuloma lung base right,calcified_granuloma,14
+3053,imgs_512_86_487_487_IM-2110-2001.dcm,normal,normal,0
+3482,imgs_512_128_930_930_IM-2429-3001.dcm,lung_hypoinflation,lung_hypoinflation,21
+1558,imgs_512_177_2583_2583_IM-1081-2001.dcm,normal,normal,0
+3162,imgs_512_201_602_602_IM-2192-1002.dcm,normal,normal,0
+489,imgs_512_301_1504_1504_IM-0330-2001.dcm,normal,normal,0
+1704,imgs_512_327_2733_2733_IM-1189-2001.dcm,opacity lung base bilateral,opacity,31
+2437,imgs_512_265_3473_3473_IM-1688-3003.dcm,normal,normal,0
+866,imgs_512_243_1847_1847_IM-0550-2001.dcm,calcified_granuloma lung hilum right large,calcified_granuloma,14
+1039,imgs_512_63_2068_2068_IM-0701-2001.dcm,normal,normal,0
+2699,imgs_512_117_3726_3726_IM-1862-1002.dcm,normal,normal,0
+967,imgs_512_391_1995_1995_IM-0651-2001.dcm,normal,normal,0
+1962,imgs_512_191_2998_2998_IM-1382-2001.dcm,normal,normal,0
+2049,imgs_512_285_3092_3092_IM-1445-2001.dcm,scoliosis lumbar_vertebrae left,scoliosis,43
+686,imgs_512_97_1701_1701_IM-0462-2001.dcm,normal,normal,0
+540,imgs_512_333_1536_1536_IM-0347-0001-0003.dcm,normal,normal,0
+3464,imgs_512_107_909_909_IM-2414-1002.dcm,normal,normal,0
+1305,imgs_512_299_2304_2304_IM-0882-1001.dcm,normal,normal,0
+3113,imgs_512_155_556_556_IM-2156-1001-0001.dcm,normal,normal,0
+1583,imgs_512_206_2612_2612_IM-1103-2001.dcm,normal,normal,0
+1341,imgs_512_359_2364_2364_IM-0927-3001.dcm,lung_hyperdistention,lung_hyperdistention,55
+2288,imgs_512_121_3329_3329_IM-1594-2001.dcm,normal,normal,0
+710,imgs_512_119_1723_1723_IM-0477-2001.dcm,calcinosis lung hilum lymph_nodes right,calcinosis,33
+1493,imgs_512_113_2519_2519_IM-1037-2001.dcm,cardiomegaly mild,cardiomegaly,39
+1535,imgs_512_153_2559_2559_IM-1063-3003.dcm,normal,normal,0
+601,imgs_512_14_1618_1618_IM-0399-1002.dcm,normal,normal,0
+1564,imgs_512_184_2590_2590_IM-1083-2001.dcm,normal,normal,0
+2331,imgs_512_162_3370_3370_IM-1622-1001.dcm,normal,normal,0
+2597,imgs_512_20_3629_3629_IM-1797-1002.dcm,normal,normal,0
+3409,imgs_512_48_850_850_IM-2373-0001-0003.dcm,normal,normal,0
+1946,imgs_512_298_298_298_IM-1369-2001.dcm,normal,normal,0
+2202,imgs_512_21_3229_3229_IM-1526-1002.dcm,lung_hypoinflation mild,lung_hypoinflation,21
+125,imgs_512_334_1136_1136_IM-0092-2001.dcm,normal,normal,0
+1872,imgs_512_99_2906_2906_IM-1310-2001.dcm,scoliosis thoracic_vertebrae right,scoliosis,43
+2572,imgs_512_395_3603_3603_IM-1779-2001.dcm,normal,normal,0
+361,imgs_512_174_1377_1377_IM-0242-2001.dcm,normal,normal,0
+2566,imgs_512_390_3598_3598_IM-1775-2001.dcm,normal,normal,0
+980,imgs_512_0_2005_2005_IM-0656-1002.dcm,normal,normal,0
+566,imgs_512_380_1583_1583_IM-0378-3001.dcm,scoliosis mild,scoliosis,43
+1061,imgs_512_80_2085_2085_IM-0716-2001.dcm,spine_degenerative mild,spine_degenerative,31
+2135,imgs_512_366_3173_3173_IM-1495-3003.dcm,normal,normal,0
+2259,imgs_512_88_3296_3296_IM-1575-1001-0002.dcm,calcinosis lung hilum lymph_nodes left,calcinosis,33
+2070,imgs_512_297_3104_3104_IM-1455-2001.dcm,normal,normal,0
+1376,imgs_512_24_24_24_IM-0949-2001.dcm,normal,normal,0
+581,imgs_512_379_1582_1582_IM-0378-1002.dcm,normal,normal,0
+3050,imgs_512_93_494_494_IM-2114-2001.dcm,opacity lung base left,opacity,31
+3036,imgs_512_76_477_477_IM-2101-2001.dcm,normal,normal,0
+2749,imgs_512_170_3779_3779_IM-1894-2001.dcm,normal,normal,0
+199,imgs_512_13_1216_1216_IM-0144-2001.dcm,normal,normal,0
+2648,imgs_512_65_3674_3674_IM-1829-0001-0002.dcm,normal,normal,0
+1190,imgs_512_207_2212_2212_IM-0819-2001.dcm,normal,normal,0
+1133,imgs_512_151_2156_2156_IM-0775-2001.dcm,normal,normal,0
+2515,imgs_512_340_3548_3548_IM-1739-2001.dcm,normal,normal,0
+368,imgs_512_177_1380_1380_IM-0245-1002.dcm,normal,normal,0
+1826,imgs_512_26_2833_2833_IM-1249-2001.dcm,normal,normal,0
+2176,imgs_512_393_3200_3200_IM-1512-2001.dcm,normal,normal,0
+290,imgs_512_105_1308_1308_IM-0201-2001.dcm,normal,normal,0
+2257,imgs_512_83_3291_3291_IM-1572-2001.dcm,normal,normal,0
+2480,imgs_512_303_3511_3511_IM-1714-2001.dcm,normal,normal,0
+1122,imgs_512_140_2145_2145_IM-0766-3001.dcm,normal,normal,0
+1002,imgs_512_23_2028_2028_IM-0673-1002.dcm,normal,normal,0
+430,imgs_512_244_1447_1447_IM-0289-2001.dcm,normal,normal,0
+2548,imgs_512_372_3580_3580_IM-1760-2001.dcm,normal,normal,0
+204,imgs_512_16_1219_1219_IM-0146-2001.dcm,normal,normal,0
+18,imgs_512_208_1010_1010_IM-0012-2001.dcm,normal,normal,0
+1841,imgs_512_64_2871_2871_IM-1277-2001.dcm,normal,normal,0
+2775,imgs_512_197_3806_3806_IM-1916-4001.dcm,scoliosis lumbar_vertebrae moderate,scoliosis,43
+1869,imgs_512_95_2902_2902_IM-1306-3001.dcm,normal,normal,0
+2091,imgs_512_295_3102_3102_IM-1454-2001.dcm,normal,normal,0
+707,imgs_512_115_1719_1719_IM-0474-1002.dcm,normal,normal,0
+1241,imgs_512_255_2260_2260_IM-0852-2001.dcm,normal,normal,0
+462,imgs_512_273_1476_1476_IM-0308-3001.dcm,normal,normal,0
+168,imgs_512_381_1183_1183_IM-0124-2001.dcm,normal,normal,0
+3218,imgs_512_240_641_641_IM-2220-2001.dcm,scoliosis right mild,scoliosis,43
+1247,imgs_512_259_2264_2264_IM-0854-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+2948,imgs_512_377_3986_3986_IM-2041-2001.dcm,normal,normal,0
+280,imgs_512_94_1297_1297_IM-0195-1001.dcm,normal,normal,0
+2741,imgs_512_162_3771_3771_IM-1890-1002.dcm,normal,normal,0
+1283,imgs_512_283_2288_2288_IM-0872-1002.dcm,normal,normal,0
+82,imgs_512_272_1074_1074_IM-0054-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+3228,imgs_512_272_673_673_IM-2247-3001.dcm,normal,normal,0
+413,imgs_512_223_1426_1426_IM-0272-2001.dcm,normal,normal,0
+2454,imgs_512_279_3487_3487_IM-1696-2001.dcm,normal,normal,0
+255,imgs_512_68_1271_1271_IM-0182-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+2276,imgs_512_107_3315_3315_IM-1586-2001.dcm,normal,normal,0
+2442,imgs_512_212_3420_3420_IM-1656-2001.dcm,normal,normal,0
+2253,imgs_512_82_3290_3290_IM-1572-3001.dcm,normal,normal,0
+2316,imgs_512_111_3319_3319_IM-1588-2001.dcm,thoracic_vertebrae_degenerative multiple,thoracic_vertebrae_degenerative,21
+3316,imgs_512_369_770_770_IM-2316-2001.dcm,normal,normal,0
+999,imgs_512_15_2020_2020_IM-0668-2001.dcm,normal,normal,0
+2586,imgs_512_362_362_362_IM-1791-2001.dcm,normal,normal,0
+3270,imgs_512_319_720_720_IM-2281-2001.dcm,normal,normal,0
+2461,imgs_512_287_3495_3495_IM-1700-2001.dcm,normal,normal,0
+2372,imgs_512_201_3409_3409_IM-1648-1001.dcm,normal,normal,0
+1599,imgs_512_217_2623_2623_IM-1111-2001.dcm,normal,normal,0
+295,imgs_512_107_1310_1310_IM-0202-2001.dcm,normal,normal,0
+2785,imgs_512_209_3818_3818_IM-1925-2001.dcm,normal,normal,0
+1538,imgs_512_129_2535_2535_IM-1048-1002.dcm,normal,normal,0
+1054,imgs_512_208_208_208_IM-0711-1002.dcm,normal,normal,0
+91,imgs_512_299_1101_1101_IM-0068-2001.dcm,spine_degenerative,spine_degenerative,31
+2717,imgs_512_136_3745_3745_IM-1872-1002.dcm,normal,normal,0
+2073,imgs_512_310_3117_3117_IM-1465-2001.dcm,normal,normal,0
+301,imgs_512_111_1314_1314_IM-0204-2001.dcm,normal,normal,0
+660,imgs_512_73_1677_1677_IM-0446-2001.dcm,normal,normal,0
+2552,imgs_512_379_3587_3587_IM-1765-1002.dcm,normal,normal,0
+3403,imgs_512_51_853_853_IM-2375-2001.dcm,normal,normal,0
+1437,imgs_512_47_2453_2453_IM-0988-2001.dcm,normal,normal,0
+3249,imgs_512_295_696_696_IM-2261-1001-0001.dcm,normal,normal,0
+342,imgs_512_153_1356_1356_IM-0231-2001.dcm,normal,normal,0
+1334,imgs_512_353_2358_2358_IM-0922-0001-0001.dcm,normal,normal,0
+1766,imgs_512_391_2797_2797_IM-1229-2001.dcm,normal,normal,0
+2229,imgs_512_50_3258_3258_IM-1544-2001.dcm,normal,normal,0
+1058,imgs_512_76_2081_2081_IM-0713-2001.dcm,normal,normal,0
+2,imgs_512_203_1005_1005_IM-0006-3003.dcm,normal,normal,0
+3454,imgs_512_103_905_905_IM-2410-0001-0002.dcm,normal,normal,0
+916,imgs_512_333_1937_1937_IM-0607-2001.dcm,normal,normal,0
+1034,imgs_512_56_2061_2061_IM-0698-2001.dcm,normal,normal,0
+2271,imgs_512_99_3307_3307_IM-1582-1005004.dcm,normal,normal,0
+447,imgs_512_258_1461_1461_IM-0299-2001.dcm,normal,normal,0
+826,imgs_512_236_1840_1840_IM-0545-2001.dcm,opacity lung hilum left,opacity,31
+1857,imgs_512_82_2889_2889_IM-1291-1002.dcm,normal,normal,0
+518,imgs_512_330_1533_1533_IM-0344-1002.dcm,normal,normal,0
+2646,imgs_512_50_3659_3659_IM-1819-2001.dcm,calcified_granuloma,calcified_granuloma,14
+3286,imgs_512_317_718_718_IM-2280-3001.dcm,scoliosis mild,scoliosis,43
+1767,imgs_512_393_2799_2799_IM-1231-2001.dcm,normal,normal,0
+841,imgs_512_257_1861_1861_IM-0558-2001.dcm,normal,normal,0
+996,imgs_512_20_2025_2025_IM-0671-1002.dcm,normal,normal,0
+2299,imgs_512_130_3338_3338_IM-1599-1001.dcm,normal,normal,0
+3004,imgs_512_20_421_421_IM-2064-2001.dcm,normal,normal,0
+1125,imgs_512_105_2110_2110_IM-0741-2001.dcm,normal,normal,0
+1250,imgs_512_264_2269_2269_IM-0858-2001.dcm,normal,normal,0
+1263,imgs_512_265_2270_2270_IM-0859-2001.dcm,scoliosis thoracic_vertebrae right,scoliosis,43
+616,imgs_512_28_1632_1632_IM-0413-1001.dcm,normal,normal,0
+1626,imgs_512_190_2596_2596_IM-1086-2001.dcm,normal,normal,0
+1028,imgs_512_48_2053_2053_IM-0691-2001.dcm,normal,normal,0
+652,imgs_512_167_167_167_IM-0441-1002.dcm,calcified_granuloma lung upper_lobe left,calcified_granuloma,14
+3400,imgs_512_24_826_826_IM-2355-2001.dcm,normal,normal,0
+2374,imgs_512_341_341_341_IM-1648-1002.dcm,normal,normal,0
+1689,imgs_512_271_271_271_IM-1176-2001.dcm,normal,normal,0
+1153,imgs_512_171_2176_2176_IM-0789-2001.dcm,normal,normal,0
+1237,imgs_512_224_224_224_IM-0837-2001.dcm,normal,normal,0
+1635,imgs_512_256_2662_2662_IM-1143-3003.dcm,normal,normal,0
+1580,imgs_512_201_2607_2607_IM-1097-2002.dcm,lung_hyperdistention,lung_hyperdistention,55
+958,imgs_512_379_1983_1983_IM-0640-3003.dcm,normal,normal,0
+2618,imgs_512_39_3648_3648_IM-1810-2001.dcm,normal,normal,0
+2737,imgs_512_158_3767_3767_IM-1886-3001.dcm,normal,normal,0
+798,imgs_512_211_1815_1815_IM-0527-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+1569,imgs_512_158_2564_2564_IM-1067-2001.dcm,normal,normal,0
+3146,imgs_512_122_523_523_IM-2134-2001.dcm,normal,normal,0
+3497,imgs_512_135_937_937_IM-2433-2001.dcm,normal,normal,0
+1757,imgs_512_367_2773_2773_IM-1214-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+783,imgs_512_195_1799_1799_IM-0519-2001.dcm,normal,normal,0
+382,imgs_512_178_1381_1381_IM-0245-2001.dcm,normal,normal,0
+2100,imgs_512_334_3141_3141_IM-1477-2001.dcm,normal,normal,0
+1720,imgs_512_342_2748_2748_IM-1198-2001.dcm,normal,normal,0
+420,imgs_512_231_1434_1434_IM-0279-2001.dcm,normal,normal,0
+745,imgs_512_147_1751_1751_IM-0494-2001.dcm,normal,normal,0
+2451,imgs_512_280_3488_3488_IM-1696-1001.dcm,spine_degenerative,spine_degenerative,31
+600,imgs_512_12_1616_1616_IM-0399-1002.dcm,normal,normal,0
+2199,imgs_512_31_3239_3239_IM-1534-2001.dcm,normal,normal,0
+384,imgs_512_194_1397_1397_IM-0253-2001.dcm,normal,normal,0
+1932,imgs_512_141_2948_2948_IM-1348-2001.dcm,normal,normal,0
+3340,imgs_512_79_79_79_IM-2329-2001.dcm,normal,normal,0
+116,imgs_512_320_1122_1122_IM-0080-2001.dcm,normal,normal,0
+3395,imgs_512_42_844_844_IM-2367-1002.dcm,normal,normal,0
+3033,imgs_512_72_473_473_IM-2101-1002.dcm,normal,normal,0
+2187,imgs_512_389_3196_3196_IM-1507-2001.dcm,normal,normal,0
+3261,imgs_512_309_710_710_IM-2273-1002.dcm,calcified_granuloma lung upper_lobe right,calcified_granuloma,14
+2088,imgs_512_325_3132_3132_IM-1473-2001.dcm,normal,normal,0
+1292,imgs_512_307_2312_2312_IM-0887-2001.dcm,normal,normal,0
+1525,imgs_512_255_255_255_IM-1058-2001.dcm,normal,normal,0
+247,imgs_512_64_1267_1267_IM-0179-1002.dcm,normal,normal,0
+1625,imgs_512_247_2653_2653_IM-1137-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+1897,imgs_512_125_2932_2932_IM-1335-1002.dcm,normal,normal,0
+3079,imgs_512_71_472_472_IM-2100-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+3555,imgs_512_197_999_999_IM-2480-2001.dcm,normal,normal,0
+401,imgs_512_211_1414_1414_IM-0264-1002.dcm,normal,normal,0
+2450,imgs_512_275_3483_3483_IM-1692-2001.dcm,normal,normal,0
+2127,imgs_512_342_3149_3149_IM-1480-2001.dcm,lung_hyperdistention,lung_hyperdistention,55
+1972,imgs_512_173_2980_2980_IM-1370-1003002.dcm,calcified_granuloma scattered multiple,calcified_granuloma,14
+579,imgs_512_394_1597_1597_IM-0388-2001.dcm,normal,normal,0
+3051,imgs_512_96_497_497_IM-2114-1002.dcm,normal,normal,0
+791,imgs_512_205_1809_1809_IM-0524-2001.dcm,normal,normal,0
+2882,imgs_512_310_3919_3919_IM-1992-1002.dcm,cardiomegaly mild,cardiomegaly,39
+3339,imgs_512_393_794_794_IM-2331-2001.dcm,normal,normal,0
+1027,imgs_512_49_2054_2054_IM-0692-0001-0003.dcm,opacity lung hilum left interstitial,opacity,31
+1772,imgs_512_328_2734_2734_IM-1189-2001.dcm,normal,normal,0
+1807,imgs_512_32_2839_2839_IM-1252-1002.dcm,normal,normal,0
+2690,imgs_512_111_3720_3720_IM-1859-2001.dcm,normal,normal,0
+2863,imgs_512_291_3900_3900_IM-1980-2001.dcm,normal,normal,0
+1698,imgs_512_306_2712_2712_IM-1179-1001.dcm,calcified_granuloma lung upper_lobe left,calcified_granuloma,14
+1355,imgs_512_371_2376_2376_IM-0936-2001.dcm,normal,normal,0
+2696,imgs_512_116_3725_3725_IM-1861-2001.dcm,calcified_granuloma lung upper_lobe right,calcified_granuloma,14
+2664,imgs_512_83_3692_3692_IM-1843-2001.dcm,normal,normal,0
+903,imgs_512_311_1915_1915_IM-0595-1002.dcm,normal,normal,0
+1436,imgs_512_55_2461_2461_IM-0994-0001-0001.dcm,normal,normal,0
+1059,imgs_512_78_2083_2083_IM-0715-2001.dcm,normal,normal,0
+643,imgs_512_55_1659_1659_IM-0434-1002.dcm,normal,normal,0
+1566,imgs_512_259_259_259_IM-1083-1002.dcm,normal,normal,0
+137,imgs_512_344_1146_1146_IM-0098-2001.dcm,calcified_granuloma lung lingula,calcified_granuloma,14
+3235,imgs_512_275_676_676_IM-2248-2001.dcm,normal,normal,0
+2700,imgs_512_119_3728_3728_IM-1864-2001.dcm,normal,normal,0
+1130,imgs_512_147_2152_2152_IM-0772-2001.dcm,normal,normal,0
+64,imgs_512_107_107_107_IM-0049-2001.dcm,normal,normal,0
+1249,imgs_512_262_2267_2267_IM-0856-1001.dcm,spine_degenerative,spine_degenerative,31
+1066,imgs_512_84_2089_2089_IM-0720-2001.dcm,normal,normal,0
+1683,imgs_512_293_2699_2699_IM-1167-2001.dcm,normal,normal,0
+1356,imgs_512_376_2381_2381_IM-0941-2001.dcm,calcified_granuloma lung multiple,calcified_granuloma,14
+2843,imgs_512_270_3879_3879_IM-1968-2001.dcm,normal,normal,0
+2436,imgs_512_264_3472_3472_IM-1688-2001.dcm,normal,normal,0
+2165,imgs_512_386_3193_3193_IM-1505-1002.dcm,lung_hyperdistention mild,lung_hyperdistention,55
+1268,imgs_512_268_2273_2273_IM-0861-1002.dcm,normal,normal,0
+1923,imgs_512_146_2953_2953_IM-1351-2001.dcm,normal,normal,0
+2982,imgs_512_18_419_419_IM-2062-2001.dcm,normal,normal,0
+2427,imgs_512_257_3465_3465_IM-1683-2001.dcm,normal,normal,0
+2344,imgs_512_163_3371_3371_IM-1623-2001.dcm,calcinosis lung hilum lymph_nodes right,calcinosis,33
+534,imgs_512_347_1550_1550_IM-0359-3003.dcm,normal,normal,0
+685,imgs_512_91_1695_1695_IM-0456-1003002.dcm,calcified_granuloma lung base left,calcified_granuloma,14
+1614,imgs_512_264_264_264_IM-1125-2001.dcm,normal,normal,0
+1319,imgs_512_328_2333_2333_IM-0901-2001.dcm,calcified_granuloma lung base right,calcified_granuloma,14
+3436,imgs_512_85_887_887_IM-2400-2001.dcm,normal,normal,0
+1501,imgs_512_120_2526_2526_IM-1043-2001.dcm,normal,normal,0
+3190,imgs_512_232_633_633_IM-2213-2001.dcm,spine_degenerative multiple,spine_degenerative,31
+1003,imgs_512_24_2029_2029_IM-0674-2001.dcm,normal,normal,0
+2799,imgs_512_222_3831_3831_IM-1934-2001.dcm,normal,normal,0
+310,imgs_512_120_1323_1323_IM-0209-2001.dcm,normal,normal,0
+2297,imgs_512_124_3332_3332_IM-1596-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+3222,imgs_512_264_665_665_IM-2240-2001.dcm,cardiomegaly,cardiomegaly,39
+1180,imgs_512_196_2201_2201_IM-0811-1002.dcm,calcified_granuloma lung bilateral multiple,calcified_granuloma,14
+2708,imgs_512_127_3736_3736_IM-1866-1002.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+2580,imgs_512_4_3613_3613_IM-1786-3003.dcm,calcified_granuloma lung bilateral multiple,calcified_granuloma,14
+1726,imgs_512_348_2754_2754_IM-1204-3003.dcm,normal,normal,0
+44,imgs_512_249_1051_1051_IM-0039-6001.dcm,normal,normal,0
+2816,imgs_512_240_3849_3849_IM-1947-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+302,imgs_512_116_1319_1319_IM-0205-3001.dcm,normal,normal,0
+1602,imgs_512_212_2618_2618_IM-1107-1001.dcm,opacity lung retrocardiac focal small,opacity,31
+995,imgs_512_16_2021_2021_IM-0668-2001.dcm,cardiomegaly borderline,cardiomegaly,39
+522,imgs_512_334_1537_1537_IM-0348-1002.dcm,normal,normal,0
+2554,imgs_512_375_3583_3583_IM-1762-2001.dcm,spine_degenerative mild,spine_degenerative,31
+2466,imgs_512_291_3499_3499_IM-1703-3003.dcm,normal,normal,0
+1570,imgs_512_189_2595_2595_IM-1086-2001.dcm,normal,normal,0
+3487,imgs_512_133_935_935_IM-2432-2001.dcm,normal,normal,0
+1519,imgs_512_139_2545_2545_IM-1054-1002.dcm,normal,normal,0
+2396,imgs_512_223_3431_3431_IM-1660-2001.dcm,normal,normal,0
+683,imgs_512_94_1698_1698_IM-0458-2001.dcm,normal,normal,0
+1610,imgs_512_233_2639_2639_IM-1124-3001.dcm,scoliosis thoracic_vertebrae right mild,scoliosis,43
+1994,imgs_512_201_3008_3008_IM-1389-2001.dcm,normal,normal,0
+3485,imgs_512_130_932_932_IM-2430-3001.dcm,normal,normal,0
+1328,imgs_512_345_2350_2350_IM-0916-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+321,imgs_512_134_1337_1337_IM-0216-3001.dcm,lung_hypoinflation,lung_hypoinflation,21
+1713,imgs_512_338_2744_2744_IM-1197-2001.dcm,normal,normal,0
+2630,imgs_512_366_366_366_IM-1820-2001.dcm,normal,normal,0
+1150,imgs_512_165_2170_2170_IM-0786-2001.dcm,normal,normal,0
+3137,imgs_512_181_582_582_IM-2179-2001.dcm,normal,normal,0
+569,imgs_512_384_1587_1587_IM-0381-1003002.dcm,normal,normal,0
+2312,imgs_512_142_3350_3350_IM-1607-0001-0002.dcm,normal,normal,0
+1843,imgs_512_66_2873_2873_IM-1279-3003.dcm,normal,normal,0
+450,imgs_512_264_1467_1467_IM-0302-2001.dcm,normal,normal,0
+2161,imgs_512_396_3203_3203_IM-1513-2001.dcm,normal,normal,0
+607,imgs_512_19_1623_1623_IM-0405-1001.dcm,normal,normal,0
+2740,imgs_512_161_3770_3770_IM-1890-2001.dcm,spine_degenerative,spine_degenerative,31
+3035,imgs_512_74_475_475_IM-2101-2001.dcm,normal,normal,0
+2241,imgs_512_72_3280_3280_IM-1561-1001.dcm,opacity lung middle_lobe right,opacity,31
+3326,imgs_512_360_761_761_IM-2310-2001.dcm,lung_hypoinflation,lung_hypoinflation,21
+1540,imgs_512_135_2541_2541_IM-1053-2001.dcm,normal,normal,0
+460,imgs_512_270_1473_1473_IM-0306-1002.dcm,normal,normal,0
+2665,imgs_512_84_3693_3693_IM-1844-1002.dcm,normal,normal,0
+221,imgs_512_33_1236_1236_IM-0158-2001.dcm,normal,normal,0
+668,imgs_512_77_1681_1681_IM-0448-1002.dcm,normal,normal,0
+8,imgs_512_100_100_100_IM-0002-2001.dcm,normal,normal,0
+348,imgs_512_161_1364_1364_IM-0237-2001.dcm,normal,normal,0
+1755,imgs_512_380_2786_2786_IM-1221-2001.dcm,normal,normal,0
+1960,imgs_512_189_2996_2996_IM-1381-1002.dcm,normal,normal,0
+1596,imgs_512_198_2604_2604_IM-1094-2001.dcm,normal,normal,0
+675,imgs_512_82_1686_1686_IM-0450-1002.dcm,calcinosis aorta lymph_nodes,calcinosis,33
+2556,imgs_512_374_3582_3582_IM-1761-2001.dcm,normal,normal,0
+1747,imgs_512_373_2779_2779_IM-1218-1002.dcm,scoliosis lumbar_vertebrae,scoliosis,43
+1152,imgs_512_168_2173_2173_IM-0786-1002.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+1661,imgs_512_277_2683_2683_IM-1156-1002.dcm,normal,normal,0
+750,imgs_512_162_1766_1766_IM-0500-2001.dcm,normal,normal,0
+1296,imgs_512_315_2320_2320_IM-0894-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+735,imgs_512_144_1748_1748_IM-0490-2001.dcm,normal,normal,0
+3354,imgs_512_3_805_805_IM-2339-2001.dcm,spine_degenerative mild,spine_degenerative,31
+3320,imgs_512_362_763_763_IM-2310-2001.dcm,calcified_granuloma scattered,calcified_granuloma,14
+2684,imgs_512_105_3714_3714_IM-1856-2001.dcm,lung_hypoinflation mild,lung_hypoinflation,21
+891,imgs_512_307_1911_1911_IM-0593-1002.dcm,normal,normal,0
+1754,imgs_512_369_2775_2775_IM-1216-4001.dcm,normal,normal,0
+2971,imgs_512_6_407_407_IM-2054-2001.dcm,normal,normal,0
+1956,imgs_512_181_2988_2988_IM-1375-2001.dcm,normal,normal,0
+1954,imgs_512_179_2986_2986_IM-1374-2001.dcm,scoliosis thoracic_vertebrae right mild,scoliosis,43
+1421,imgs_512_39_2445_2445_IM-0981-3003.dcm,normal,normal,0
+3551,imgs_512_192_994_994_IM-2478-2001.dcm,normal,normal,0
+365,imgs_512_176_1379_1379_IM-0243-2001.dcm,normal,normal,0
+1267,imgs_512_273_2278_2278_IM-0864-2001.dcm,calcified_granuloma lung right multiple,calcified_granuloma,14
+2561,imgs_512_382_3590_3590_IM-1769-4001.dcm,normal,normal,0
+3425,imgs_512_77_879_879_IM-2393-3003.dcm,normal,normal,0
+1548,imgs_512_166_2572_2572_IM-1073-2001.dcm,normal,normal,0
+3097,imgs_512_117_518_518_IM-2131-2001.dcm,normal,normal,0
+1581,imgs_512_205_2611_2611_IM-1102-2001.dcm,normal,normal,0
+3039,imgs_512_78_479_479_IM-2102-2001.dcm,normal,normal,0
+3383,imgs_512_32_834_834_IM-2359-2001.dcm,spine_degenerative mild,spine_degenerative,31
+3089,imgs_512_131_532_532_IM-2140-2001.dcm,normal,normal,0
+63,imgs_512_264_1066_1066_IM-0047-2001.dcm,normal,normal,0
+3322,imgs_512_377_778_778_IM-2321-2001.dcm,calcified_granuloma,calcified_granuloma,14
+1404,imgs_512_20_2426_2426_IM-0968-2001.dcm,thoracic_vertebrae_degenerative mild,thoracic_vertebrae_degenerative,21
+591,imgs_512_400_1603_1603_IM-0391-1002.dcm,normal,normal,0
+3259,imgs_512_307_708_708_IM-2271-2001.dcm,normal,normal,0
+3462,imgs_512_110_912_912_IM-2417-2001.dcm,normal,normal,0
+561,imgs_512_371_1574_1574_IM-0374-1002.dcm,normal,normal,0
+3422,imgs_512_61_863_863_IM-2383-2001.dcm,normal,normal,0
+1106,imgs_512_124_2129_2129_IM-0753-2001.dcm,normal,normal,0
+2196,imgs_512_28_3236_3236_IM-1533-2001.dcm,normal,normal,0
+1101,imgs_512_119_2124_2124_IM-0749-2001.dcm,thoracic_vertebrae_degenerative,thoracic_vertebrae_degenerative,21
+885,imgs_512_303_1907_1907_IM-0589-2001.dcm,normal,normal,0
+1223,imgs_512_240_2245_2245_IM-0842-2001.dcm,normal,normal,0

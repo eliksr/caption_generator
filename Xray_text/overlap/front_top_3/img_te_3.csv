@@ -1,0 +1,336 @@
+,Unnamed: 0,file_name,terms,label,do_aug
+0,2361,3523_IM-1721-1001.dcm,deformity breast surgical_instruments,19,13
+1,2545,3702_IM-1849-22001.dcm,deformity clavicle right,19,13
+2,2546,3699_IM-1846-1001.dcm,osteophyte thoracic_vertebrae multiple,7,5
+3,2581,3753_IM-1877-1001.dcm,nodule lung middle_lobe,18,13
+4,2600,3760_IM-1883-1001.dcm,aorta_thoracic tortuous thoracic_vertebrae_degenerative,7,5
+5,2614,3759_IM-1883-1001.dcm,bone_diseases_metabolic thoracic_vertebrae diaphragm_bilateral,8,6
+6,2615,3793_IM-1907-1001.dcm,airspace_disease lung base,14,12
+7,2618,3798_IM-1911-1001.dcm,airspace_disease lung base,14,12
+8,2634,3815_IM-1924-1001.dcm,airspace_disease lung base,14,12
+9,2644,3790_IM-1904-0001-0002.dcm,airspace_disease lung lower_lobe,14,12
+10,2646,3829_IM-1932-1001.dcm,airspace_disease lung base,14,12
+11,2655,3840_IM-1941-2001.dcm,airspace_disease lung bilateral,14,12
+12,2656,3841_IM-1942-1001.dcm,thoracic_vertebrae_degenerative mild,7,5
+13,2657,3842_IM-1943-1001.dcm,lung_hypoinflation,5,5
+14,2663,3849_IM-1947-1001.dcm,thoracic_vertebrae_degenerative,7,5
+15,2664,3852_IM-1949-4004.dcm,diaphragmatic_eventration right thoracic_vertebrae_degenerative,7,5
+16,2666,3855_IM-1950-1001.dcm,diaphragm_left elevated mild,18,13
+17,2671,3860_IM-1954-2001.dcm,normal,0,1
+18,2674,3866_IM-1959-0001-0001.dcm,airspace_disease lung lingula,14,12
+19,2675,3867_IM-1960-1001.dcm,normal,0,1
+20,2676,3865_IM-1958-1001.dcm,deformity ribs bilateral,19,13
+21,2678,3868_IM-1961-1001.dcm,aorta_tortuous mild,11,9
+22,2679,3861_IM-1955-1001.dcm,normal,0,1
+23,2683,3876_IM-1967-1001.dcm,deformity thoracic_vertebrae mild,19,13
+24,2684,3879_IM-1968-1001.dcm,normal,0,1
+25,2686,388_IM-1968-1001.dcm,aorta_tortuous calcinosis aorta,11,9
+26,2688,3871_IM-1964-1001.dcm,normal,0,1
+27,2690,3875_IM-1967-1001.dcm,infiltrate lung lower_lobe,5,5
+28,2691,3882_IM-1970-1001.dcm,diaphragmatic_eventration left lung_hypoinflation,5,5
+29,2692,3883_IM-1971-1001.dcm,normal,0,1
+30,2694,3885_IM-1971-1001.dcm,normal,0,1
+31,2696,3887_IM-1972-1001.dcm,deformity heart right,19,13
+32,2697,3889_IM-1973-1001.dcm,normal,0,1
+33,2698,3891_IM-1973-1001.dcm,airspace_disease lung base,14,12
+34,2700,3894_IM-1976-1001.dcm,normal,0,1
+35,2701,3893_IM-1975-3001.dcm,lung_hypoinflation mild,5,5
+36,2703,3886_IM-1971-1001.dcm,calcinosis abdomen left,4,4
+37,2704,3897_IM-1978-1001.dcm,normal,0,1
+38,2705,3900_IM-1980-1001.dcm,normal,0,1
+39,2706,3899_IM-1978-1001.dcm,lung_base right obscured,8,6
+40,2707,390_IM-1979-1001.dcm,aorta_tortuous mild spine_degenerative,11,9
+41,2708,3901_IM-1980-1001.dcm,costophrenic_angle bilateral blunted,5,5
+42,2709,3904_IM-1983-1001.dcm,normal,0,1
+43,2714,3903_IM-1982-1001.dcm,normal,0,1
+44,2716,3910_IM-1987-1001.dcm,lung_hypoinflation spine_degenerative multiple,5,5
+45,2717,3912_IM-1988-2001-0001.dcm,cardiomegaly mild costophrenic_angle,2,4
+46,2718,3912_IM-1988-2001-0002.dcm,cardiomegaly mild costophrenic_angle,2,4
+47,2719,3913_IM-1989-84584001.dcm,normal,0,1
+48,2721,3918_IM-1992-1001.dcm,diaphragm_bilateral posterior flattened,8,6
+49,2722,3890_IM-1973-1001.dcm,normal,0,1
+50,2724,3916_IM-1991-1001.dcm,normal,0,1
+51,2725,3916_IM-1991-2001.dcm,normal,0,1
+52,2726,3919_IM-1992-1001.dcm,cardiomegaly mild,2,4
+53,2727,3923_IM-1997-2002.dcm,normal,0,1
+54,2730,3926_IM-2000-4004.dcm,aorta_tortuous cardiomegaly lung_hypoinflation,11,9
+55,2731,3917_IM-1992-1001.dcm,cardiomegaly mild,2,4
+56,2732,3922_IM-1996-0001-0002.dcm,normal,0,1
+57,2733,393_IM-2002-1001.dcm,normal,0,1
+58,2734,3911_IM-1987-1001.dcm,normal,0,1
+59,2735,3930_IM-2003-1001.dcm,lung_hyperdistention pulmonary_disease_chronic_obstructive,8,6
+60,2737,3931_IM-2003-3001.dcm,normal,0,1
+61,2738,3936_IM-2007-1001.dcm,normal,0,1
+62,2739,3935_IM-2006-1001.dcm,catheters_indwelling left cicatrix,17,12
+63,2741,3938_IM-2009-1001.dcm,normal,0,1
+64,2742,3928_IM-2000-1001.dcm,calcinosis aorta granulomatous_disease,4,4
+65,2743,3940_IM-2011-1001.dcm,cicatrix lung lingula,9,7
+66,2744,391_IM-1986-1001.dcm,lung_hypoinflation,5,5
+67,2745,3915_IM-1990-1001.dcm,cardiac_shadow enlarged mild,2,4
+68,2746,3939_IM-2010-1001.dcm,normal,0,1
+69,2747,3946_IM-2015-1001.dcm,normal,0,1
+70,2748,3943_IM-2013-1001.dcm,calcinosis lung hilum,4,4
+71,2749,3945_IM-2014-1001.dcm,hemothorax left small,12,9
+72,2750,3947_IM-2016-1001.dcm,catheters_indwelling left,17,12
+73,2751,3941_IM-2012-0001-0002.dcm,cardiomegaly scoliosis thoracic_vertebrae,2,4
+74,2752,395_IM-2019-1001.dcm,calcinosis lung hilum,4,4
+75,2753,3948_IM-2017-1001.dcm,normal,0,1
+76,2754,3949_IM-2018-4004.dcm,cardiomegaly mild density,2,4
+77,2755,3954_IM-2021-1001.dcm,normal,0,1
+78,2756,3953_IM-2021-1001.dcm,normal,0,1
+79,2757,3955_IM-2021-1001.dcm,normal,0,1
+80,2758,3955_IM-2021-1003.dcm,normal,0,1
+81,2759,3956_IM-2021-1001.dcm,lung_hypoinflation,5,5
+82,2760,3957_IM-2022-1001.dcm,normal,0,1
+83,2761,3951_IM-2019-1001.dcm,mass lung apex,1,3
+84,2762,3944_IM-2014-1001.dcm,catheters_indwelling right,17,12
+85,2763,3958_IM-2022-1001.dcm,normal,0,1
+86,2765,3961_IM-2026-1001.dcm,infiltrate lung upper_lobe,1,3
+87,2766,3962_IM-2027-1001.dcm,normal,0,1
+88,2767,3964_IM-2028-1001.dcm,cicatrix lung apex,9,7
+89,2768,3966_IM-2028-1001.dcm,thoracic_vertebrae_degenerative mild,7,5
+90,2770,3952_IM-2020-1001.dcm,cardiomegaly mild diaphragm_right,2,4
+91,2771,3970_IM-2031-1001.dcm,normal,0,1
+92,2772,3972_IM-2032-1001.dcm,lung_hilum lymph_nodes bilateral,1,3
+93,2774,3976_IM-2035-1001.dcm,normal,0,1
+94,2776,3971_IM-2031-1001.dcm,normal,0,1
+95,2777,3971_IM-2031-3001.dcm,normal,0,1
+96,2779,3979_IM-2038-1001.dcm,aorta_tortuous mild atherosclerosis,11,9
+97,2780,3980_IM-2039-1001.dcm,cardiomegaly moderate costophrenic_angle,2,4
+98,2781,3978_IM-2037-0001-0001.dcm,normal,0,1
+99,2782,3982_IM-2039-1001.dcm,normal,0,1
+100,2783,3983_IM-2039-1001.dcm,opacity lung base,1,3
+101,2784,3984_IM-2040-1001.dcm,aorta_thoracic tortuous calcinosis,4,4
+102,2786,3986_IM-2041-1001.dcm,normal,0,1
+103,2787,3986_IM-2041-3001.dcm,normal,0,1
+104,2790,3993_IM-2044-1001.dcm,cardiomegaly mild diaphragm_left,2,4
+105,2791,3994_IM-2045-2001.dcm,cardiomegaly mild heart_failure,2,4
+106,2793,3995_IM-2046-1001.dcm,cicatrix lung middle_lobe,9,7
+107,2794,3997_IM-2048-1001.dcm,granuloma lung upper_lobe,1,3
+108,2795,3998_IM-2048-1001.dcm,normal,0,1
+109,2796,3999_IM-2049-1001.dcm,normal,0,1
+110,2797,3973_IM-2033-1001.dcm,normal,0,1
+111,2798,400_IM-2050-1001.dcm,calcified_granuloma lung base,6,5
+112,2799,3969_IM-2030-1001.dcm,bone_diseases_metabolic spine lung_hyperdistention,8,6
+113,2801,398_IM-2039-1001.dcm,calcinosis right paratracheal,4,4
+114,2802,3981_IM-2039-1001.dcm,normal,0,1
+115,2803,4_IM-2050-1001.dcm,bullous_emphysema cicatrix lung,9,7
+116,2804,401_IM-2051-1001.dcm,costophrenic_angle left blunted,1,3
+117,2805,3974_IM-2034-2002.dcm,airspace_disease lung middle_lobe,14,12
+118,2806,406_IM-2054-1001.dcm,calcinosis lung hilum,4,4
+119,2807,407_IM-2054-1001.dcm,normal,0,1
+120,2808,405_IM-2053-1001.dcm,lung_hypoinflation,5,5
+121,2809,408_IM-2054-1001.dcm,lung_hypoinflation pleural_effusion bilateral,5,5
+122,2810,41_IM-2055-1001.dcm,lung_diseases_interstitial opacity lung,1,3
+123,2811,416_IM-2059-1001.dcm,normal,0,1
+124,2813,409_IM-2055-2001.dcm,calcified_granuloma lung hilum,6,5
+125,2814,417_IM-2060-1001.dcm,calcified_granuloma,6,5
+126,2815,418_IM-2061-2001.dcm,calcinosis lung hilum,4,4
+127,2816,419_IM-2062-1001.dcm,normal,0,1
+128,2817,420_IM-2064-1001.dcm,density lung middle_lobe,16,12
+129,2819,422_IM-2065-5001.dcm,calcified_granuloma lung left,6,5
+130,2820,413_IM-2056-1001.dcm,normal,0,1
+131,2821,425_IM-2068-1001.dcm,normal,0,1
+132,2823,427_IM-2070-1001.dcm,normal,0,1
+133,2824,429_IM-2070-1001.dcm,normal,0,1
+134,2825,430_IM-2071-1001.dcm,normal,0,1
+135,2826,431_IM-2072-1001.dcm,cardiomegaly borderline osteophyte,2,4
+136,2827,432_IM-2072-1001.dcm,normal,0,1
+137,2828,433_IM-2073-1001.dcm,normal,0,1
+138,2829,434_IM-2074-1001.dcm,calcinosis aorta diaphragm_flattened,4,4
+139,2830,435_IM-2075-1001.dcm,normal,0,1
+140,2831,436_IM-2076-1001-0002.dcm,calcinosis aorta cardiomegaly,4,4
+141,2832,411_IM-2056-1001.dcm,arthritis cicatrix lung,9,7
+142,2833,438_IM-2078-1001.dcm,normal,0,1
+143,2834,44_IM-2078-1001.dcm,normal,0,1
+144,2835,423_IM-2066-0001-0003.dcm,airspace_disease lung base,14,12
+145,2836,441_IM-2078-1001.dcm,calcified_granuloma lung scattered,6,5
+146,2837,421_IM-2064-1001.dcm,normal,0,1
+147,2838,42_IM-2063-1001.dcm,normal,0,1
+148,2839,439_IM-2078-1001.dcm,calcinosis lung base,4,4
+149,2840,443_IM-2078-1001.dcm,thoracic_vertebrae_degenerative,7,5
+150,2841,442_IM-2078-1001.dcm,lung_hyperdistention pulmonary_disease_chronic_obstructive,8,6
+151,2843,445_IM-2079-1001.dcm,normal,0,1
+152,2844,45_IM-2081-1001.dcm,cardiomegaly pulmonary_congestion,2,4
+153,2845,444_IM-2079-1001.dcm,normal,0,1
+154,2846,450_IM-2082-1001.dcm,normal,0,1
+155,2847,437_IM-2077-1001.dcm,aorta_prominent aortic_aneurysm cardiomegaly,2,4
+156,2848,449_IM-2080-1001.dcm,normal,0,1
+157,2849,456_IM-2087-1001.dcm,granulomatous_disease,15,12
+158,2850,457_IM-2088-1001-0001.dcm,calcified_granuloma lung lingula,6,5
+159,2851,459_IM-2090-2001.dcm,normal,0,1
+160,2852,454_IM-2085-1001.dcm,cardiomegaly mild,2,4
+161,2853,455_IM-2086-4004.dcm,cardiac_shadow right prominent,5,5
+162,2854,462_IM-2090-1001.dcm,aorta_thoracic tortuous mild,2,4
+163,2855,461_IM-2090-1001.dcm,normal,0,1
+164,2856,451_IM-2082-1001.dcm,calcinosis mediastinum lymph_nodes,4,4
+165,2857,463_IM-2091-1001.dcm,calcinosis lung hilum,4,4
+166,2858,448_IM-2080-1001.dcm,normal,0,1
+167,2859,428_IM-2070-1001.dcm,normal,0,1
+168,2860,470_IM-2099-3001.dcm,normal,0,1
+169,2862,468_IM-2096-1001.dcm,costophrenic_angle blunted chronic,16,12
+170,2863,473_IM-2101-1001.dcm,normal,0,1
+171,2864,474_IM-2101-1001.dcm,normal,0,1
+172,2865,475_IM-2101-1001.dcm,normal,0,1
+173,2866,477_IM-2101-1001.dcm,normal,0,1
+174,2867,46_IM-2090-1001.dcm,normal,0,1
+175,2868,479_IM-2102-1001.dcm,normal,0,1
+176,2869,48_IM-2103-1001.dcm,bone_and_bones thorax degenerative,18,13
+177,2870,481_IM-2105-1001.dcm,atherosclerosis aorta bone_diseases_metabolic,13,11
+178,2871,480_IM-2104-1001.dcm,normal,0,1
+179,2872,464_IM-2092-12012.dcm,diaphragmatic_eventration right spine_degenerative,10,8
+180,2873,484_IM-2108-1001.dcm,atherosclerosis aorta lung_hypoinflation,13,11
+181,2874,465_IM-2093-0001-0002.dcm,opacity lung lower_lobe,1,3
+182,2875,476_IM-2101-1001.dcm,calcinosis aorta,4,4
+183,2876,486_IM-2110-1001.dcm,aorta_thoracic tortuous cicatrix,9,7
+184,2877,49_IM-2110-1001.dcm,aorta_tortuous mild calcified_granuloma,11,9
+185,2878,466_IM-2094-2002.dcm,aorta_tortuous mild scoliosis,11,9
+186,2879,491_IM-2111-1001.dcm,opacity lung base,1,3
+187,2880,493_IM-2113-1001.dcm,calcinosis lymph_nodes bilateral,4,4
+188,2881,495_IM-2114-1001.dcm,airspace_disease lung streaky,14,12
+189,2882,494_IM-2114-1001.dcm,opacity lung base,1,3
+190,2883,497_IM-2114-1001.dcm,normal,0,1
+191,2884,487_IM-2110-1001.dcm,normal,0,1
+192,2885,498_IM-2115-1001.dcm,mass lung upper_lobe,7,5
+193,2886,5_IM-2117-1003002.dcm,lung_hyperdistention mild osteophyte,8,6
+194,2887,499_IM-2116-1001.dcm,normal,0,1
+195,2888,501_IM-2120-1001.dcm,opacity lung posterior,1,3
+196,2889,50_IM-2118-2001.dcm,cardiomegaly lung_hypoinflation spine_degenerative,2,4
+197,2890,502_IM-2120-1001.dcm,normal,0,1
+198,2891,504_IM-2122-1001.dcm,calcified_granuloma lung base,6,5
+199,2892,503_IM-2121-1001.dcm,normal,0,1
+200,2893,506_IM-2124-1001.dcm,normal,0,1
+201,2894,505_IM-2123-1001.dcm,normal,0,1
+202,2895,496_IM-2114-1001.dcm,normal,0,1
+203,2896,483_IM-2107-1001.dcm,atherosclerosis aorta cardiomegaly,13,11
+204,2897,510_IM-2126-1001.dcm,normal,0,1
+205,2898,511_IM-2127-1001.dcm,diaphragm_flattened lung_hyperdistention,8,6
+206,2899,512_IM-2127-1001.dcm,thoracic_vertebrae_degenerative mild,7,5
+207,2900,516_IM-2130-1001.dcm,calcified_granuloma lung hilum,6,5
+208,2901,513_IM-2128-1001.dcm,cardiac_shadow enlarged cardiomegaly,2,4
+209,2902,508_IM-2125-1001.dcm,normal,0,1
+210,2904,515_IM-2129-1001.dcm,normal,0,1
+211,2905,517_IM-2130-2002.dcm,calcinosis lung base,4,4
+212,2906,514_IM-2129-2001.dcm,normal,0,1
+213,2907,521_IM-2132-4004.dcm,lung_hypoinflation markings_bronchovascular,5,5
+214,2908,52_IM-2131-1001.dcm,normal,0,1
+215,2909,520_IM-2131-1001.dcm,density mediastinum fractures_bone,16,12
+216,2910,519_IM-2131-1001.dcm,normal,0,1
+217,2911,519_IM-2131-2001.dcm,normal,0,1
+218,2913,522_IM-2133-1002001.dcm,arthritis atherosclerosis aorta,13,11
+219,2914,492_IM-2112-2002.dcm,normal,0,1
+220,2915,525_IM-2136-1001.dcm,aorta_tortuous mild deformity,11,9
+221,2916,529_IM-2137-1001.dcm,normal,0,1
+222,2917,53_IM-2138-1001.dcm,lung_hypoinflation severe opacity,5,5
+223,2918,530_IM-2139-1001.dcm,cardiomegaly mild,2,4
+224,2919,532_IM-2140-1001.dcm,normal,0,1
+225,2920,535_IM-2142-1001.dcm,calcinosis lung hilum,4,4
+226,2921,536_IM-2143-1001.dcm,normal,0,1
+227,2922,534_IM-2141-1001.dcm,cicatrix lung upper_lobe,9,7
+228,2923,537_IM-2143-1001.dcm,calcified_granuloma scattered,6,5
+229,2924,539_IM-2145-1001.dcm,normal,0,1
+230,2926,518_IM-2131-1001.dcm,normal,0,1
+231,2928,543_IM-2148-1001.dcm,normal,0,1
+232,2929,538_IM-2144-4004.dcm,normal,0,1
+233,2930,544_IM-2148-1001.dcm,normal,0,1
+234,2931,54_IM-2145-1001.dcm,aorta_thoracic tortuous calcified_granuloma,6,5
+235,2932,548_IM-2152-1001.dcm,cicatrix lung apex,9,7
+236,2933,549_IM-2153-1001.dcm,cicatrix lung apex,9,7
+237,2934,55_IM-2154-1001.dcm,lung_hypoinflation,5,5
+238,2935,545_IM-2149-1001.dcm,hernia_hiatal lung_hypoinflation opacity,5,5
+239,2937,552_IM-2155-1001.dcm,calcified_granuloma lung apex,6,5
+240,2938,550_IM-2154-1001.dcm,normal,0,1
+241,2939,554_IM-2155-1001.dcm,normal,0,1
+242,2940,553_IM-2155-2001.dcm,calcified_granuloma scattered lung_hyperdistention,6,5
+243,2941,51_IM-2125-1001.dcm,calcified_granuloma lung bilateral,6,5
+244,2942,527_IM-2137-1001.dcm,normal,0,1
+245,2943,556_IM-2156-1001-0002.dcm,normal,0,1
+246,2944,559_IM-2159-1001.dcm,normal,0,1
+247,2945,558_IM-2158-0001-0001.dcm,calcified_granuloma scattered multiple,6,5
+248,2946,56_IM-2160-2002.dcm,normal,0,1
+249,2947,560_IM-2161-1001.dcm,normal,0,1
+250,2948,563_IM-2164-1001.dcm,normal,0,1
+251,2949,557_IM-2157-2001.dcm,normal,0,1
+252,2950,565_IM-2166-1001.dcm,normal,0,1
+253,2952,567_IM-2167-1001.dcm,pulmonary_atelectasis middle_lobe right,3,4
+254,2954,569_IM-2169-0001-0002.dcm,density lung base,16,12
+255,2955,570_IM-2170-1001.dcm,normal,0,1
+256,2956,568_IM-2168-1001.dcm,aorta_tortuous bone_diseases_metabolic calcinosis,11,9
+257,2957,571_IM-2170-1001.dcm,normal,0,1
+258,2958,572_IM-2170-1001.dcm,normal,0,1
+259,2959,57_IM-2170-1001-0002.dcm,opacity lung bilateral,1,3
+260,2960,573_IM-2171-12012.dcm,opacity lung base,1,3
+261,2961,573_IM-2171-4004.dcm,opacity lung base,1,3
+262,2962,562_IM-2163-1001.dcm,normal,0,1
+263,2963,576_IM-2174-1001.dcm,aorta_thoracic tortuous cardiomegaly,2,4
+264,2964,575_IM-2173-1001.dcm,calcified_granuloma lung left,6,5
+265,2965,578_IM-2176-1001.dcm,granulomatous_disease,15,12
+266,2966,579_IM-2176-1001.dcm,normal,0,1
+267,2967,581_IM-2178-1001.dcm,normal,0,1
+268,2969,582_IM-2179-1001.dcm,normal,0,1
+269,2970,584_IM-2181-1001.dcm,normal,0,1
+270,2971,585_IM-2181-1001.dcm,atherosclerosis aorta cicatrix,13,11
+271,2972,583_IM-2180-1001.dcm,calcinosis lung hilum,4,4
+272,2973,577_IM-2175-1001.dcm,normal,0,1
+273,2974,588_IM-2183-1001.dcm,normal,0,1
+274,2976,551_IM-2154-1001.dcm,diaphragm_flattened lung_hyperdistention pulmonary_emphysema,8,6
+275,2978,593_IM-2186-1001.dcm,aorta_tortuous calcinosis aorta,11,9
+276,2979,589_IM-2183-1001.dcm,normal,0,1
+277,2980,595_IM-2187-1001.dcm,normal,0,1
+278,2981,596_IM-2188-26001.dcm,catheters_indwelling right,17,12
+279,2982,594_IM-2187-1001.dcm,cardiomegaly borderline deformity,2,4
+280,2983,599_IM-2191-1001.dcm,aorta_tortuous mild,11,9
+281,2984,6_IM-2192-1001.dcm,normal,0,1
+282,2985,586_IM-2182-1001.dcm,atherosclerosis severe cardiomegaly,13,11
+283,2987,603_IM-2193-1001.dcm,calcinosis lung hilum,4,4
+284,2988,600_IM-2192-1001.dcm,calcified_granuloma lung hilum,6,5
+285,2990,602_IM-2192-1001.dcm,normal,0,1
+286,2991,60_IM-2192-1001.dcm,density lung lower_lobe,16,12
+287,2992,546_IM-2150-1001.dcm,pleural_effusion bilateral small,12,9
+288,2993,607_IM-2196-1001.dcm,calcinosis lung bilateral,4,4
+289,2994,591_IM-2186-1001.dcm,calcified_granuloma lung base,6,5
+290,2995,609_IM-2197-1001.dcm,normal,0,1
+291,2997,580_IM-2177-2002.dcm,atherosclerosis aorta,13,11
+292,2998,611_IM-2198-1001.dcm,lung_hypoinflation markings_bronchovascular,5,5
+293,2999,615_IM-2200-1001.dcm,calcified_granuloma scattered granulomatous_disease,6,5
+294,3000,614_IM-2200-4001.dcm,normal,0,1
+295,3001,612_IM-2199-1001.dcm,cardiomegaly infiltrate lung,2,4
+296,3002,618_IM-2201-1001.dcm,normal,0,1
+297,3003,604_IM-2193-1001.dcm,catheters_indwelling right,17,12
+298,3004,619_IM-2202-1002.dcm,aorta_tortuous cardiomegaly,11,9
+299,3005,617_IM-2200-1001.dcm,spine_degenerative,10,8
+300,3006,622_IM-2204-1001.dcm,normal,0,1
+301,3009,621_IM-2203-1001.dcm,spine_degenerative mild,10,8
+302,3010,620_IM-2202-1001.dcm,cicatrix lung lower_lobe,9,7
+303,3012,627_IM-2207-1001.dcm,atherosclerosis aorta_thoracic cardiomegaly,13,11
+304,3013,610_IM-2197-1001.dcm,atherosclerosis aorta cardiomegaly,13,11
+305,3014,629_IM-2209-1001.dcm,normal,0,1
+306,3015,624_IM-2206-1001.dcm,diaphragm_flattened emphysema lung_hyperdistention,8,6
+307,3016,626_IM-2206-1001.dcm,normal,0,1
+308,3017,626_IM-2206-3001.dcm,normal,0,1
+309,3018,63_IM-2210-0001-0001.dcm,aorta_tortuous calcinosis spine,11,9
+310,3019,630_IM-2211-1001.dcm,normal,0,1
+311,3020,632_IM-2213-1001.dcm,normal,0,1
+312,3021,633_IM-2213-1001.dcm,spine_degenerative multiple,10,8
+313,3022,636_IM-2215-1001.dcm,granulomatous_disease pulmonary_atelectasis lower_lobe,15,12
+314,3023,631_IM-2212-1001.dcm,catheters_indwelling right density,17,12
+315,3024,623_IM-2205-2002.dcm,adipose_tissue lung base,13,11
+316,3025,639_IM-2218-1001.dcm,normal,0,1
+317,3027,635_IM-2215-1001.dcm,infiltrate lung lower_lobe,12,9
+318,3028,645_IM-2224-1001.dcm,spine_degenerative,10,8
+319,3029,634_IM-2214-2001.dcm,aorta_tortuous calcinosis aorta,11,9
+320,3031,642_IM-2221-0001-0001.dcm,normal,0,1
+321,3034,653_IM-2230-1001.dcm,spine_degenerative mild,10,8
+322,3035,652_IM-2229-1001.dcm,normal,0,1
+323,3038,654_IM-2231-1001.dcm,normal,0,1
+324,3039,658_IM-2234-1001.dcm,normal,0,1
+325,3043,648_IM-2226-4004.dcm,calcified_granuloma lung lower_lobe,6,5
+326,3057,677_IM-2249-1001.dcm,catheters_indwelling right density,17,12
+327,3063,680_IM-2251-1001.dcm,calcified_granuloma lung base,6,5
+328,3071,692_IM-2258-1001.dcm,calcified_granuloma spine_degenerative,6,5
+329,3072,693_IM-2259-1001.dcm,calcified_granuloma scattered calcinosis,6,5
+330,3080,700_IM-2265-4004.dcm,bone_diseases_metabolic calcified_granuloma lung,6,5
+331,3089,710_IM-2273-1001.dcm,calcified_granuloma lung upper_lobe,6,5
+332,3098,70_IM-2264-3001.dcm,granulomatous_disease,15,12
+333,3100,7_IM-2263-1001.dcm,arthritis cervical_vertebrae pulmonary_atelectasis,3,4
+334,3177,78_IM-2322-1001.dcm,pulmonary_atelectasis base left,3,4

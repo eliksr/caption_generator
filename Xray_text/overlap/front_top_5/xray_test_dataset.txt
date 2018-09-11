@@ -1,0 +1,1476 @@
+image_id	captions
+3523_IM-1721-1001.dcm0	<start> deformity breast surgical_instruments right <end>
+3523_IM-1721-1001.dcm1	<start> deformity breast surgical_instruments right <end>
+3523_IM-1721-1001.dcm2	<start> deformity breast surgical_instruments right <end>
+3523_IM-1721-1001.dcm3	<start> deformity breast surgical_instruments right <end>
+3523_IM-1721-1001.dcm4	<start> deformity breast surgical_instruments right <end>
+3523_IM-1721-1001.dcm5	<start> deformity breast surgical_instruments right <end>
+3523_IM-1721-1001.dcm6	<start> deformity breast surgical_instruments right <end>
+3523_IM-1721-1001.dcm7	<start> deformity breast surgical_instruments right <end>
+3523_IM-1721-1001.dcm8	<start> deformity breast surgical_instruments right <end>
+3523_IM-1721-1001.dcm9	<start> deformity breast surgical_instruments right <end>
+3523_IM-1721-1001.dcm10	<start> deformity breast surgical_instruments right <end>
+3523_IM-1721-1001.dcm11	<start> deformity breast surgical_instruments right <end>
+3523_IM-1721-1001.dcm12	<start> deformity breast surgical_instruments right <end>
+3702_IM-1849-22001.dcm0	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3702_IM-1849-22001.dcm1	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3702_IM-1849-22001.dcm2	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3702_IM-1849-22001.dcm3	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3702_IM-1849-22001.dcm4	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3702_IM-1849-22001.dcm5	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3702_IM-1849-22001.dcm6	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3702_IM-1849-22001.dcm7	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3702_IM-1849-22001.dcm8	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3702_IM-1849-22001.dcm9	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3702_IM-1849-22001.dcm10	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3702_IM-1849-22001.dcm11	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3702_IM-1849-22001.dcm12	<start> deformity clavicle right diaphragm_bilateral flattened <end>
+3699_IM-1846-1001.dcm0	<start> osteophyte thoracic_vertebrae multiple thoracic_vertebrae_degenerative <end>
+3699_IM-1846-1001.dcm1	<start> osteophyte thoracic_vertebrae multiple thoracic_vertebrae_degenerative <end>
+3699_IM-1846-1001.dcm2	<start> osteophyte thoracic_vertebrae multiple thoracic_vertebrae_degenerative <end>
+3699_IM-1846-1001.dcm3	<start> osteophyte thoracic_vertebrae multiple thoracic_vertebrae_degenerative <end>
+3699_IM-1846-1001.dcm4	<start> osteophyte thoracic_vertebrae multiple thoracic_vertebrae_degenerative <end>
+3753_IM-1877-1001.dcm0	<start> nodule lung middle_lobe right multiple <end>
+3753_IM-1877-1001.dcm1	<start> nodule lung middle_lobe right multiple <end>
+3753_IM-1877-1001.dcm2	<start> nodule lung middle_lobe right multiple <end>
+3753_IM-1877-1001.dcm3	<start> nodule lung middle_lobe right multiple <end>
+3753_IM-1877-1001.dcm4	<start> nodule lung middle_lobe right multiple <end>
+3753_IM-1877-1001.dcm5	<start> nodule lung middle_lobe right multiple <end>
+3753_IM-1877-1001.dcm6	<start> nodule lung middle_lobe right multiple <end>
+3753_IM-1877-1001.dcm7	<start> nodule lung middle_lobe right multiple <end>
+3753_IM-1877-1001.dcm8	<start> nodule lung middle_lobe right multiple <end>
+3753_IM-1877-1001.dcm9	<start> nodule lung middle_lobe right multiple <end>
+3753_IM-1877-1001.dcm10	<start> nodule lung middle_lobe right multiple <end>
+3753_IM-1877-1001.dcm11	<start> nodule lung middle_lobe right multiple <end>
+3753_IM-1877-1001.dcm12	<start> nodule lung middle_lobe right multiple <end>
+3760_IM-1883-1001.dcm0	<start> aorta_thoracic tortuous thoracic_vertebrae_degenerative moderate <end>
+3760_IM-1883-1001.dcm1	<start> aorta_thoracic tortuous thoracic_vertebrae_degenerative moderate <end>
+3760_IM-1883-1001.dcm2	<start> aorta_thoracic tortuous thoracic_vertebrae_degenerative moderate <end>
+3760_IM-1883-1001.dcm3	<start> aorta_thoracic tortuous thoracic_vertebrae_degenerative moderate <end>
+3760_IM-1883-1001.dcm4	<start> aorta_thoracic tortuous thoracic_vertebrae_degenerative moderate <end>
+3759_IM-1883-1001.dcm0	<start> bone_diseases_metabolic thoracic_vertebrae diaphragm_bilateral flattened kyphosis <end>
+3759_IM-1883-1001.dcm1	<start> bone_diseases_metabolic thoracic_vertebrae diaphragm_bilateral flattened kyphosis <end>
+3759_IM-1883-1001.dcm2	<start> bone_diseases_metabolic thoracic_vertebrae diaphragm_bilateral flattened kyphosis <end>
+3759_IM-1883-1001.dcm3	<start> bone_diseases_metabolic thoracic_vertebrae diaphragm_bilateral flattened kyphosis <end>
+3759_IM-1883-1001.dcm4	<start> bone_diseases_metabolic thoracic_vertebrae diaphragm_bilateral flattened kyphosis <end>
+3759_IM-1883-1001.dcm5	<start> bone_diseases_metabolic thoracic_vertebrae diaphragm_bilateral flattened kyphosis <end>
+3793_IM-1907-1001.dcm0	<start> airspace_disease lung base left aorta_tortuous <end>
+3793_IM-1907-1001.dcm1	<start> airspace_disease lung base left aorta_tortuous <end>
+3793_IM-1907-1001.dcm2	<start> airspace_disease lung base left aorta_tortuous <end>
+3793_IM-1907-1001.dcm3	<start> airspace_disease lung base left aorta_tortuous <end>
+3793_IM-1907-1001.dcm4	<start> airspace_disease lung base left aorta_tortuous <end>
+3793_IM-1907-1001.dcm5	<start> airspace_disease lung base left aorta_tortuous <end>
+3793_IM-1907-1001.dcm6	<start> airspace_disease lung base left aorta_tortuous <end>
+3793_IM-1907-1001.dcm7	<start> airspace_disease lung base left aorta_tortuous <end>
+3793_IM-1907-1001.dcm8	<start> airspace_disease lung base left aorta_tortuous <end>
+3793_IM-1907-1001.dcm9	<start> airspace_disease lung base left aorta_tortuous <end>
+3793_IM-1907-1001.dcm10	<start> airspace_disease lung base left aorta_tortuous <end>
+3793_IM-1907-1001.dcm11	<start> airspace_disease lung base left aorta_tortuous <end>
+3798_IM-1911-1001.dcm0	<start> airspace_disease lung base right opacity <end>
+3798_IM-1911-1001.dcm1	<start> airspace_disease lung base right opacity <end>
+3798_IM-1911-1001.dcm2	<start> airspace_disease lung base right opacity <end>
+3798_IM-1911-1001.dcm3	<start> airspace_disease lung base right opacity <end>
+3798_IM-1911-1001.dcm4	<start> airspace_disease lung base right opacity <end>
+3798_IM-1911-1001.dcm5	<start> airspace_disease lung base right opacity <end>
+3798_IM-1911-1001.dcm6	<start> airspace_disease lung base right opacity <end>
+3798_IM-1911-1001.dcm7	<start> airspace_disease lung base right opacity <end>
+3798_IM-1911-1001.dcm8	<start> airspace_disease lung base right opacity <end>
+3798_IM-1911-1001.dcm9	<start> airspace_disease lung base right opacity <end>
+3798_IM-1911-1001.dcm10	<start> airspace_disease lung base right opacity <end>
+3798_IM-1911-1001.dcm11	<start> airspace_disease lung base right opacity <end>
+3815_IM-1924-1001.dcm0	<start> airspace_disease lung base right focal <end>
+3815_IM-1924-1001.dcm1	<start> airspace_disease lung base right focal <end>
+3815_IM-1924-1001.dcm2	<start> airspace_disease lung base right focal <end>
+3815_IM-1924-1001.dcm3	<start> airspace_disease lung base right focal <end>
+3815_IM-1924-1001.dcm4	<start> airspace_disease lung base right focal <end>
+3815_IM-1924-1001.dcm5	<start> airspace_disease lung base right focal <end>
+3815_IM-1924-1001.dcm6	<start> airspace_disease lung base right focal <end>
+3815_IM-1924-1001.dcm7	<start> airspace_disease lung base right focal <end>
+3815_IM-1924-1001.dcm8	<start> airspace_disease lung base right focal <end>
+3815_IM-1924-1001.dcm9	<start> airspace_disease lung base right focal <end>
+3815_IM-1924-1001.dcm10	<start> airspace_disease lung base right focal <end>
+3815_IM-1924-1001.dcm11	<start> airspace_disease lung base right focal <end>
+3790_IM-1904-0001-0002.dcm0	<start> airspace_disease lung lower_lobe right calcinosis <end>
+3790_IM-1904-0001-0002.dcm1	<start> airspace_disease lung lower_lobe right calcinosis <end>
+3790_IM-1904-0001-0002.dcm2	<start> airspace_disease lung lower_lobe right calcinosis <end>
+3790_IM-1904-0001-0002.dcm3	<start> airspace_disease lung lower_lobe right calcinosis <end>
+3790_IM-1904-0001-0002.dcm4	<start> airspace_disease lung lower_lobe right calcinosis <end>
+3790_IM-1904-0001-0002.dcm5	<start> airspace_disease lung lower_lobe right calcinosis <end>
+3790_IM-1904-0001-0002.dcm6	<start> airspace_disease lung lower_lobe right calcinosis <end>
+3790_IM-1904-0001-0002.dcm7	<start> airspace_disease lung lower_lobe right calcinosis <end>
+3790_IM-1904-0001-0002.dcm8	<start> airspace_disease lung lower_lobe right calcinosis <end>
+3790_IM-1904-0001-0002.dcm9	<start> airspace_disease lung lower_lobe right calcinosis <end>
+3790_IM-1904-0001-0002.dcm10	<start> airspace_disease lung lower_lobe right calcinosis <end>
+3790_IM-1904-0001-0002.dcm11	<start> airspace_disease lung lower_lobe right calcinosis <end>
+3829_IM-1932-1001.dcm0	<start> airspace_disease lung base left blood_vessels <end>
+3829_IM-1932-1001.dcm1	<start> airspace_disease lung base left blood_vessels <end>
+3829_IM-1932-1001.dcm2	<start> airspace_disease lung base left blood_vessels <end>
+3829_IM-1932-1001.dcm3	<start> airspace_disease lung base left blood_vessels <end>
+3829_IM-1932-1001.dcm4	<start> airspace_disease lung base left blood_vessels <end>
+3829_IM-1932-1001.dcm5	<start> airspace_disease lung base left blood_vessels <end>
+3829_IM-1932-1001.dcm6	<start> airspace_disease lung base left blood_vessels <end>
+3829_IM-1932-1001.dcm7	<start> airspace_disease lung base left blood_vessels <end>
+3829_IM-1932-1001.dcm8	<start> airspace_disease lung base left blood_vessels <end>
+3829_IM-1932-1001.dcm9	<start> airspace_disease lung base left blood_vessels <end>
+3829_IM-1932-1001.dcm10	<start> airspace_disease lung base left blood_vessels <end>
+3829_IM-1932-1001.dcm11	<start> airspace_disease lung base left blood_vessels <end>
+3840_IM-1941-2001.dcm0	<start> airspace_disease lung bilateral cardiomegaly lung_bilateral <end>
+3840_IM-1941-2001.dcm1	<start> airspace_disease lung bilateral cardiomegaly lung_bilateral <end>
+3840_IM-1941-2001.dcm2	<start> airspace_disease lung bilateral cardiomegaly lung_bilateral <end>
+3840_IM-1941-2001.dcm3	<start> airspace_disease lung bilateral cardiomegaly lung_bilateral <end>
+3840_IM-1941-2001.dcm4	<start> airspace_disease lung bilateral cardiomegaly lung_bilateral <end>
+3840_IM-1941-2001.dcm5	<start> airspace_disease lung bilateral cardiomegaly lung_bilateral <end>
+3840_IM-1941-2001.dcm6	<start> airspace_disease lung bilateral cardiomegaly lung_bilateral <end>
+3840_IM-1941-2001.dcm7	<start> airspace_disease lung bilateral cardiomegaly lung_bilateral <end>
+3840_IM-1941-2001.dcm8	<start> airspace_disease lung bilateral cardiomegaly lung_bilateral <end>
+3840_IM-1941-2001.dcm9	<start> airspace_disease lung bilateral cardiomegaly lung_bilateral <end>
+3840_IM-1941-2001.dcm10	<start> airspace_disease lung bilateral cardiomegaly lung_bilateral <end>
+3840_IM-1941-2001.dcm11	<start> airspace_disease lung bilateral cardiomegaly lung_bilateral <end>
+3841_IM-1942-1001.dcm0	<start> thoracic_vertebrae_degenerative mild <end>
+3841_IM-1942-1001.dcm1	<start> thoracic_vertebrae_degenerative mild <end>
+3841_IM-1942-1001.dcm2	<start> thoracic_vertebrae_degenerative mild <end>
+3841_IM-1942-1001.dcm3	<start> thoracic_vertebrae_degenerative mild <end>
+3841_IM-1942-1001.dcm4	<start> thoracic_vertebrae_degenerative mild <end>
+3842_IM-1943-1001.dcm0	<start> lung_hypoinflation <end>
+3842_IM-1943-1001.dcm1	<start> lung_hypoinflation <end>
+3842_IM-1943-1001.dcm2	<start> lung_hypoinflation <end>
+3842_IM-1943-1001.dcm3	<start> lung_hypoinflation <end>
+3842_IM-1943-1001.dcm4	<start> lung_hypoinflation <end>
+3849_IM-1947-1001.dcm0	<start> thoracic_vertebrae_degenerative <end>
+3849_IM-1947-1001.dcm1	<start> thoracic_vertebrae_degenerative <end>
+3849_IM-1947-1001.dcm2	<start> thoracic_vertebrae_degenerative <end>
+3849_IM-1947-1001.dcm3	<start> thoracic_vertebrae_degenerative <end>
+3849_IM-1947-1001.dcm4	<start> thoracic_vertebrae_degenerative <end>
+3852_IM-1949-4004.dcm0	<start> diaphragmatic_eventration right thoracic_vertebrae_degenerative mild <end>
+3852_IM-1949-4004.dcm1	<start> diaphragmatic_eventration right thoracic_vertebrae_degenerative mild <end>
+3852_IM-1949-4004.dcm2	<start> diaphragmatic_eventration right thoracic_vertebrae_degenerative mild <end>
+3852_IM-1949-4004.dcm3	<start> diaphragmatic_eventration right thoracic_vertebrae_degenerative mild <end>
+3852_IM-1949-4004.dcm4	<start> diaphragmatic_eventration right thoracic_vertebrae_degenerative mild <end>
+3855_IM-1950-1001.dcm0	<start> diaphragm_left elevated mild nodule lung <end>
+3855_IM-1950-1001.dcm1	<start> diaphragm_left elevated mild nodule lung <end>
+3855_IM-1950-1001.dcm2	<start> diaphragm_left elevated mild nodule lung <end>
+3855_IM-1950-1001.dcm3	<start> diaphragm_left elevated mild nodule lung <end>
+3855_IM-1950-1001.dcm4	<start> diaphragm_left elevated mild nodule lung <end>
+3855_IM-1950-1001.dcm5	<start> diaphragm_left elevated mild nodule lung <end>
+3855_IM-1950-1001.dcm6	<start> diaphragm_left elevated mild nodule lung <end>
+3855_IM-1950-1001.dcm7	<start> diaphragm_left elevated mild nodule lung <end>
+3855_IM-1950-1001.dcm8	<start> diaphragm_left elevated mild nodule lung <end>
+3855_IM-1950-1001.dcm9	<start> diaphragm_left elevated mild nodule lung <end>
+3855_IM-1950-1001.dcm10	<start> diaphragm_left elevated mild nodule lung <end>
+3855_IM-1950-1001.dcm11	<start> diaphragm_left elevated mild nodule lung <end>
+3855_IM-1950-1001.dcm12	<start> diaphragm_left elevated mild nodule lung <end>
+3860_IM-1954-2001.dcm0	<start> normal <end>
+3866_IM-1959-0001-0001.dcm0	<start> airspace_disease lung lingula patchy opacity <end>
+3866_IM-1959-0001-0001.dcm1	<start> airspace_disease lung lingula patchy opacity <end>
+3866_IM-1959-0001-0001.dcm2	<start> airspace_disease lung lingula patchy opacity <end>
+3866_IM-1959-0001-0001.dcm3	<start> airspace_disease lung lingula patchy opacity <end>
+3866_IM-1959-0001-0001.dcm4	<start> airspace_disease lung lingula patchy opacity <end>
+3866_IM-1959-0001-0001.dcm5	<start> airspace_disease lung lingula patchy opacity <end>
+3866_IM-1959-0001-0001.dcm6	<start> airspace_disease lung lingula patchy opacity <end>
+3866_IM-1959-0001-0001.dcm7	<start> airspace_disease lung lingula patchy opacity <end>
+3866_IM-1959-0001-0001.dcm8	<start> airspace_disease lung lingula patchy opacity <end>
+3866_IM-1959-0001-0001.dcm9	<start> airspace_disease lung lingula patchy opacity <end>
+3866_IM-1959-0001-0001.dcm10	<start> airspace_disease lung lingula patchy opacity <end>
+3866_IM-1959-0001-0001.dcm11	<start> airspace_disease lung lingula patchy opacity <end>
+3867_IM-1960-1001.dcm0	<start> normal <end>
+3865_IM-1958-1001.dcm0	<start> deformity ribs bilateral multiple <end>
+3865_IM-1958-1001.dcm1	<start> deformity ribs bilateral multiple <end>
+3865_IM-1958-1001.dcm2	<start> deformity ribs bilateral multiple <end>
+3865_IM-1958-1001.dcm3	<start> deformity ribs bilateral multiple <end>
+3865_IM-1958-1001.dcm4	<start> deformity ribs bilateral multiple <end>
+3865_IM-1958-1001.dcm5	<start> deformity ribs bilateral multiple <end>
+3865_IM-1958-1001.dcm6	<start> deformity ribs bilateral multiple <end>
+3865_IM-1958-1001.dcm7	<start> deformity ribs bilateral multiple <end>
+3865_IM-1958-1001.dcm8	<start> deformity ribs bilateral multiple <end>
+3865_IM-1958-1001.dcm9	<start> deformity ribs bilateral multiple <end>
+3865_IM-1958-1001.dcm10	<start> deformity ribs bilateral multiple <end>
+3865_IM-1958-1001.dcm11	<start> deformity ribs bilateral multiple <end>
+3865_IM-1958-1001.dcm12	<start> deformity ribs bilateral multiple <end>
+3868_IM-1961-1001.dcm0	<start> aorta_tortuous mild <end>
+3868_IM-1961-1001.dcm1	<start> aorta_tortuous mild <end>
+3868_IM-1961-1001.dcm2	<start> aorta_tortuous mild <end>
+3868_IM-1961-1001.dcm3	<start> aorta_tortuous mild <end>
+3868_IM-1961-1001.dcm4	<start> aorta_tortuous mild <end>
+3868_IM-1961-1001.dcm5	<start> aorta_tortuous mild <end>
+3868_IM-1961-1001.dcm6	<start> aorta_tortuous mild <end>
+3868_IM-1961-1001.dcm7	<start> aorta_tortuous mild <end>
+3868_IM-1961-1001.dcm8	<start> aorta_tortuous mild <end>
+3861_IM-1955-1001.dcm0	<start> normal <end>
+3876_IM-1967-1001.dcm0	<start> deformity thoracic_vertebrae mild <end>
+3876_IM-1967-1001.dcm1	<start> deformity thoracic_vertebrae mild <end>
+3876_IM-1967-1001.dcm2	<start> deformity thoracic_vertebrae mild <end>
+3876_IM-1967-1001.dcm3	<start> deformity thoracic_vertebrae mild <end>
+3876_IM-1967-1001.dcm4	<start> deformity thoracic_vertebrae mild <end>
+3876_IM-1967-1001.dcm5	<start> deformity thoracic_vertebrae mild <end>
+3876_IM-1967-1001.dcm6	<start> deformity thoracic_vertebrae mild <end>
+3876_IM-1967-1001.dcm7	<start> deformity thoracic_vertebrae mild <end>
+3876_IM-1967-1001.dcm8	<start> deformity thoracic_vertebrae mild <end>
+3876_IM-1967-1001.dcm9	<start> deformity thoracic_vertebrae mild <end>
+3876_IM-1967-1001.dcm10	<start> deformity thoracic_vertebrae mild <end>
+3876_IM-1967-1001.dcm11	<start> deformity thoracic_vertebrae mild <end>
+3876_IM-1967-1001.dcm12	<start> deformity thoracic_vertebrae mild <end>
+3879_IM-1968-1001.dcm0	<start> normal <end>
+388_IM-1968-1001.dcm0	<start> aorta_tortuous calcinosis aorta cardiomegaly mastectomy <end>
+388_IM-1968-1001.dcm1	<start> aorta_tortuous calcinosis aorta cardiomegaly mastectomy <end>
+388_IM-1968-1001.dcm2	<start> aorta_tortuous calcinosis aorta cardiomegaly mastectomy <end>
+388_IM-1968-1001.dcm3	<start> aorta_tortuous calcinosis aorta cardiomegaly mastectomy <end>
+388_IM-1968-1001.dcm4	<start> aorta_tortuous calcinosis aorta cardiomegaly mastectomy <end>
+388_IM-1968-1001.dcm5	<start> aorta_tortuous calcinosis aorta cardiomegaly mastectomy <end>
+388_IM-1968-1001.dcm6	<start> aorta_tortuous calcinosis aorta cardiomegaly mastectomy <end>
+388_IM-1968-1001.dcm7	<start> aorta_tortuous calcinosis aorta cardiomegaly mastectomy <end>
+388_IM-1968-1001.dcm8	<start> aorta_tortuous calcinosis aorta cardiomegaly mastectomy <end>
+3871_IM-1964-1001.dcm0	<start> normal <end>
+3875_IM-1967-1001.dcm0	<start> infiltrate lung lower_lobe left interstitial <end>
+3875_IM-1967-1001.dcm1	<start> infiltrate lung lower_lobe left interstitial <end>
+3875_IM-1967-1001.dcm2	<start> infiltrate lung lower_lobe left interstitial <end>
+3875_IM-1967-1001.dcm3	<start> infiltrate lung lower_lobe left interstitial <end>
+3875_IM-1967-1001.dcm4	<start> infiltrate lung lower_lobe left interstitial <end>
+3882_IM-1970-1001.dcm0	<start> diaphragmatic_eventration left lung_hypoinflation <end>
+3882_IM-1970-1001.dcm1	<start> diaphragmatic_eventration left lung_hypoinflation <end>
+3882_IM-1970-1001.dcm2	<start> diaphragmatic_eventration left lung_hypoinflation <end>
+3882_IM-1970-1001.dcm3	<start> diaphragmatic_eventration left lung_hypoinflation <end>
+3882_IM-1970-1001.dcm4	<start> diaphragmatic_eventration left lung_hypoinflation <end>
+3883_IM-1971-1001.dcm0	<start> normal <end>
+3885_IM-1971-1001.dcm0	<start> normal <end>
+3887_IM-1972-1001.dcm0	<start> deformity heart right <end>
+3887_IM-1972-1001.dcm1	<start> deformity heart right <end>
+3887_IM-1972-1001.dcm2	<start> deformity heart right <end>
+3887_IM-1972-1001.dcm3	<start> deformity heart right <end>
+3887_IM-1972-1001.dcm4	<start> deformity heart right <end>
+3887_IM-1972-1001.dcm5	<start> deformity heart right <end>
+3887_IM-1972-1001.dcm6	<start> deformity heart right <end>
+3887_IM-1972-1001.dcm7	<start> deformity heart right <end>
+3887_IM-1972-1001.dcm8	<start> deformity heart right <end>
+3887_IM-1972-1001.dcm9	<start> deformity heart right <end>
+3887_IM-1972-1001.dcm10	<start> deformity heart right <end>
+3887_IM-1972-1001.dcm11	<start> deformity heart right <end>
+3887_IM-1972-1001.dcm12	<start> deformity heart right <end>
+3889_IM-1973-1001.dcm0	<start> normal <end>
+3891_IM-1973-1001.dcm0	<start> airspace_disease lung base left medical_device <end>
+3891_IM-1973-1001.dcm1	<start> airspace_disease lung base left medical_device <end>
+3891_IM-1973-1001.dcm2	<start> airspace_disease lung base left medical_device <end>
+3891_IM-1973-1001.dcm3	<start> airspace_disease lung base left medical_device <end>
+3891_IM-1973-1001.dcm4	<start> airspace_disease lung base left medical_device <end>
+3891_IM-1973-1001.dcm5	<start> airspace_disease lung base left medical_device <end>
+3891_IM-1973-1001.dcm6	<start> airspace_disease lung base left medical_device <end>
+3891_IM-1973-1001.dcm7	<start> airspace_disease lung base left medical_device <end>
+3891_IM-1973-1001.dcm8	<start> airspace_disease lung base left medical_device <end>
+3891_IM-1973-1001.dcm9	<start> airspace_disease lung base left medical_device <end>
+3891_IM-1973-1001.dcm10	<start> airspace_disease lung base left medical_device <end>
+3891_IM-1973-1001.dcm11	<start> airspace_disease lung base left medical_device <end>
+3894_IM-1976-1001.dcm0	<start> normal <end>
+3893_IM-1975-3001.dcm0	<start> lung_hypoinflation mild <end>
+3893_IM-1975-3001.dcm1	<start> lung_hypoinflation mild <end>
+3893_IM-1975-3001.dcm2	<start> lung_hypoinflation mild <end>
+3893_IM-1975-3001.dcm3	<start> lung_hypoinflation mild <end>
+3893_IM-1975-3001.dcm4	<start> lung_hypoinflation mild <end>
+3886_IM-1971-1001.dcm0	<start> calcinosis abdomen left severe <end>
+3886_IM-1971-1001.dcm1	<start> calcinosis abdomen left severe <end>
+3886_IM-1971-1001.dcm2	<start> calcinosis abdomen left severe <end>
+3886_IM-1971-1001.dcm3	<start> calcinosis abdomen left severe <end>
+3897_IM-1978-1001.dcm0	<start> normal <end>
+3900_IM-1980-1001.dcm0	<start> normal <end>
+3899_IM-1978-1001.dcm0	<start> lung_base right obscured lung_hyperdistention mild <end>
+3899_IM-1978-1001.dcm1	<start> lung_base right obscured lung_hyperdistention mild <end>
+3899_IM-1978-1001.dcm2	<start> lung_base right obscured lung_hyperdistention mild <end>
+3899_IM-1978-1001.dcm3	<start> lung_base right obscured lung_hyperdistention mild <end>
+3899_IM-1978-1001.dcm4	<start> lung_base right obscured lung_hyperdistention mild <end>
+3899_IM-1978-1001.dcm5	<start> lung_base right obscured lung_hyperdistention mild <end>
+390_IM-1979-1001.dcm0	<start> aorta_tortuous mild spine_degenerative <end>
+390_IM-1979-1001.dcm1	<start> aorta_tortuous mild spine_degenerative <end>
+390_IM-1979-1001.dcm2	<start> aorta_tortuous mild spine_degenerative <end>
+390_IM-1979-1001.dcm3	<start> aorta_tortuous mild spine_degenerative <end>
+390_IM-1979-1001.dcm4	<start> aorta_tortuous mild spine_degenerative <end>
+390_IM-1979-1001.dcm5	<start> aorta_tortuous mild spine_degenerative <end>
+390_IM-1979-1001.dcm6	<start> aorta_tortuous mild spine_degenerative <end>
+390_IM-1979-1001.dcm7	<start> aorta_tortuous mild spine_degenerative <end>
+390_IM-1979-1001.dcm8	<start> aorta_tortuous mild spine_degenerative <end>
+3901_IM-1980-1001.dcm0	<start> costophrenic_angle bilateral blunted lung_hypoinflation opacity <end>
+3901_IM-1980-1001.dcm1	<start> costophrenic_angle bilateral blunted lung_hypoinflation opacity <end>
+3901_IM-1980-1001.dcm2	<start> costophrenic_angle bilateral blunted lung_hypoinflation opacity <end>
+3901_IM-1980-1001.dcm3	<start> costophrenic_angle bilateral blunted lung_hypoinflation opacity <end>
+3901_IM-1980-1001.dcm4	<start> costophrenic_angle bilateral blunted lung_hypoinflation opacity <end>
+3904_IM-1983-1001.dcm0	<start> normal <end>
+3903_IM-1982-1001.dcm0	<start> normal <end>
+3910_IM-1987-1001.dcm0	<start> lung_hypoinflation spine_degenerative multiple <end>
+3910_IM-1987-1001.dcm1	<start> lung_hypoinflation spine_degenerative multiple <end>
+3910_IM-1987-1001.dcm2	<start> lung_hypoinflation spine_degenerative multiple <end>
+3910_IM-1987-1001.dcm3	<start> lung_hypoinflation spine_degenerative multiple <end>
+3910_IM-1987-1001.dcm4	<start> lung_hypoinflation spine_degenerative multiple <end>
+3912_IM-1988-2001-0001.dcm0	<start> cardiomegaly mild costophrenic_angle obscured <end>
+3912_IM-1988-2001-0001.dcm1	<start> cardiomegaly mild costophrenic_angle obscured <end>
+3912_IM-1988-2001-0001.dcm2	<start> cardiomegaly mild costophrenic_angle obscured <end>
+3912_IM-1988-2001-0001.dcm3	<start> cardiomegaly mild costophrenic_angle obscured <end>
+3912_IM-1988-2001-0002.dcm0	<start> cardiomegaly mild costophrenic_angle obscured <end>
+3912_IM-1988-2001-0002.dcm1	<start> cardiomegaly mild costophrenic_angle obscured <end>
+3912_IM-1988-2001-0002.dcm2	<start> cardiomegaly mild costophrenic_angle obscured <end>
+3912_IM-1988-2001-0002.dcm3	<start> cardiomegaly mild costophrenic_angle obscured <end>
+3913_IM-1989-84584001.dcm0	<start> normal <end>
+3918_IM-1992-1001.dcm0	<start> diaphragm_bilateral posterior flattened mild lung_hyperdistention <end>
+3918_IM-1992-1001.dcm1	<start> diaphragm_bilateral posterior flattened mild lung_hyperdistention <end>
+3918_IM-1992-1001.dcm2	<start> diaphragm_bilateral posterior flattened mild lung_hyperdistention <end>
+3918_IM-1992-1001.dcm3	<start> diaphragm_bilateral posterior flattened mild lung_hyperdistention <end>
+3918_IM-1992-1001.dcm4	<start> diaphragm_bilateral posterior flattened mild lung_hyperdistention <end>
+3918_IM-1992-1001.dcm5	<start> diaphragm_bilateral posterior flattened mild lung_hyperdistention <end>
+3890_IM-1973-1001.dcm0	<start> normal <end>
+3916_IM-1991-1001.dcm0	<start> normal <end>
+3916_IM-1991-2001.dcm0	<start> normal <end>
+3919_IM-1992-1001.dcm0	<start> cardiomegaly mild <end>
+3919_IM-1992-1001.dcm1	<start> cardiomegaly mild <end>
+3919_IM-1992-1001.dcm2	<start> cardiomegaly mild <end>
+3919_IM-1992-1001.dcm3	<start> cardiomegaly mild <end>
+3923_IM-1997-2002.dcm0	<start> normal <end>
+3926_IM-2000-4004.dcm0	<start> aorta_tortuous cardiomegaly lung_hypoinflation markings_bilateral bronchovascular <end>
+3926_IM-2000-4004.dcm1	<start> aorta_tortuous cardiomegaly lung_hypoinflation markings_bilateral bronchovascular <end>
+3926_IM-2000-4004.dcm2	<start> aorta_tortuous cardiomegaly lung_hypoinflation markings_bilateral bronchovascular <end>
+3926_IM-2000-4004.dcm3	<start> aorta_tortuous cardiomegaly lung_hypoinflation markings_bilateral bronchovascular <end>
+3926_IM-2000-4004.dcm4	<start> aorta_tortuous cardiomegaly lung_hypoinflation markings_bilateral bronchovascular <end>
+3926_IM-2000-4004.dcm5	<start> aorta_tortuous cardiomegaly lung_hypoinflation markings_bilateral bronchovascular <end>
+3926_IM-2000-4004.dcm6	<start> aorta_tortuous cardiomegaly lung_hypoinflation markings_bilateral bronchovascular <end>
+3926_IM-2000-4004.dcm7	<start> aorta_tortuous cardiomegaly lung_hypoinflation markings_bilateral bronchovascular <end>
+3926_IM-2000-4004.dcm8	<start> aorta_tortuous cardiomegaly lung_hypoinflation markings_bilateral bronchovascular <end>
+3917_IM-1992-1001.dcm0	<start> cardiomegaly mild <end>
+3917_IM-1992-1001.dcm1	<start> cardiomegaly mild <end>
+3917_IM-1992-1001.dcm2	<start> cardiomegaly mild <end>
+3917_IM-1992-1001.dcm3	<start> cardiomegaly mild <end>
+3922_IM-1996-0001-0002.dcm0	<start> normal <end>
+393_IM-2002-1001.dcm0	<start> normal <end>
+3911_IM-1987-1001.dcm0	<start> normal <end>
+3930_IM-2003-1001.dcm0	<start> lung_hyperdistention pulmonary_disease_chronic_obstructive <end>
+3930_IM-2003-1001.dcm1	<start> lung_hyperdistention pulmonary_disease_chronic_obstructive <end>
+3930_IM-2003-1001.dcm2	<start> lung_hyperdistention pulmonary_disease_chronic_obstructive <end>
+3930_IM-2003-1001.dcm3	<start> lung_hyperdistention pulmonary_disease_chronic_obstructive <end>
+3930_IM-2003-1001.dcm4	<start> lung_hyperdistention pulmonary_disease_chronic_obstructive <end>
+3930_IM-2003-1001.dcm5	<start> lung_hyperdistention pulmonary_disease_chronic_obstructive <end>
+3931_IM-2003-3001.dcm0	<start> normal <end>
+3936_IM-2007-1001.dcm0	<start> normal <end>
+3935_IM-2006-1001.dcm0	<start> catheters_indwelling left cicatrix scattered multiple <end>
+3935_IM-2006-1001.dcm1	<start> catheters_indwelling left cicatrix scattered multiple <end>
+3935_IM-2006-1001.dcm2	<start> catheters_indwelling left cicatrix scattered multiple <end>
+3935_IM-2006-1001.dcm3	<start> catheters_indwelling left cicatrix scattered multiple <end>
+3935_IM-2006-1001.dcm4	<start> catheters_indwelling left cicatrix scattered multiple <end>
+3935_IM-2006-1001.dcm5	<start> catheters_indwelling left cicatrix scattered multiple <end>
+3935_IM-2006-1001.dcm6	<start> catheters_indwelling left cicatrix scattered multiple <end>
+3935_IM-2006-1001.dcm7	<start> catheters_indwelling left cicatrix scattered multiple <end>
+3935_IM-2006-1001.dcm8	<start> catheters_indwelling left cicatrix scattered multiple <end>
+3935_IM-2006-1001.dcm9	<start> catheters_indwelling left cicatrix scattered multiple <end>
+3935_IM-2006-1001.dcm10	<start> catheters_indwelling left cicatrix scattered multiple <end>
+3935_IM-2006-1001.dcm11	<start> catheters_indwelling left cicatrix scattered multiple <end>
+3938_IM-2009-1001.dcm0	<start> normal <end>
+3928_IM-2000-1001.dcm0	<start> calcinosis aorta granulomatous_disease spondylosis thoracic_vertebrae <end>
+3928_IM-2000-1001.dcm1	<start> calcinosis aorta granulomatous_disease spondylosis thoracic_vertebrae <end>
+3928_IM-2000-1001.dcm2	<start> calcinosis aorta granulomatous_disease spondylosis thoracic_vertebrae <end>
+3928_IM-2000-1001.dcm3	<start> calcinosis aorta granulomatous_disease spondylosis thoracic_vertebrae <end>
+3940_IM-2011-1001.dcm0	<start> cicatrix lung lingula implanted_medical_device heart <end>
+3940_IM-2011-1001.dcm1	<start> cicatrix lung lingula implanted_medical_device heart <end>
+3940_IM-2011-1001.dcm2	<start> cicatrix lung lingula implanted_medical_device heart <end>
+3940_IM-2011-1001.dcm3	<start> cicatrix lung lingula implanted_medical_device heart <end>
+3940_IM-2011-1001.dcm4	<start> cicatrix lung lingula implanted_medical_device heart <end>
+3940_IM-2011-1001.dcm5	<start> cicatrix lung lingula implanted_medical_device heart <end>
+3940_IM-2011-1001.dcm6	<start> cicatrix lung lingula implanted_medical_device heart <end>
+391_IM-1986-1001.dcm0	<start> lung_hypoinflation <end>
+391_IM-1986-1001.dcm1	<start> lung_hypoinflation <end>
+391_IM-1986-1001.dcm2	<start> lung_hypoinflation <end>
+391_IM-1986-1001.dcm3	<start> lung_hypoinflation <end>
+391_IM-1986-1001.dcm4	<start> lung_hypoinflation <end>
+3915_IM-1990-1001.dcm0	<start> cardiac_shadow enlarged mild cardiomegaly catheters_indwelling <end>
+3915_IM-1990-1001.dcm1	<start> cardiac_shadow enlarged mild cardiomegaly catheters_indwelling <end>
+3915_IM-1990-1001.dcm2	<start> cardiac_shadow enlarged mild cardiomegaly catheters_indwelling <end>
+3915_IM-1990-1001.dcm3	<start> cardiac_shadow enlarged mild cardiomegaly catheters_indwelling <end>
+3939_IM-2010-1001.dcm0	<start> normal <end>
+3946_IM-2015-1001.dcm0	<start> normal <end>
+3943_IM-2013-1001.dcm0	<start> calcinosis lung hilum left <end>
+3943_IM-2013-1001.dcm1	<start> calcinosis lung hilum left <end>
+3943_IM-2013-1001.dcm2	<start> calcinosis lung hilum left <end>
+3943_IM-2013-1001.dcm3	<start> calcinosis lung hilum left <end>
+3945_IM-2014-1001.dcm0	<start> hemothorax left small pleural_effusion left <end>
+3945_IM-2014-1001.dcm1	<start> hemothorax left small pleural_effusion left <end>
+3945_IM-2014-1001.dcm2	<start> hemothorax left small pleural_effusion left <end>
+3945_IM-2014-1001.dcm3	<start> hemothorax left small pleural_effusion left <end>
+3945_IM-2014-1001.dcm4	<start> hemothorax left small pleural_effusion left <end>
+3945_IM-2014-1001.dcm5	<start> hemothorax left small pleural_effusion left <end>
+3945_IM-2014-1001.dcm6	<start> hemothorax left small pleural_effusion left <end>
+3945_IM-2014-1001.dcm7	<start> hemothorax left small pleural_effusion left <end>
+3945_IM-2014-1001.dcm8	<start> hemothorax left small pleural_effusion left <end>
+3947_IM-2016-1001.dcm0	<start> catheters_indwelling left <end>
+3947_IM-2016-1001.dcm1	<start> catheters_indwelling left <end>
+3947_IM-2016-1001.dcm2	<start> catheters_indwelling left <end>
+3947_IM-2016-1001.dcm3	<start> catheters_indwelling left <end>
+3947_IM-2016-1001.dcm4	<start> catheters_indwelling left <end>
+3947_IM-2016-1001.dcm5	<start> catheters_indwelling left <end>
+3947_IM-2016-1001.dcm6	<start> catheters_indwelling left <end>
+3947_IM-2016-1001.dcm7	<start> catheters_indwelling left <end>
+3947_IM-2016-1001.dcm8	<start> catheters_indwelling left <end>
+3947_IM-2016-1001.dcm9	<start> catheters_indwelling left <end>
+3947_IM-2016-1001.dcm10	<start> catheters_indwelling left <end>
+3947_IM-2016-1001.dcm11	<start> catheters_indwelling left <end>
+3941_IM-2012-0001-0002.dcm0	<start> cardiomegaly scoliosis thoracic_vertebrae left <end>
+3941_IM-2012-0001-0002.dcm1	<start> cardiomegaly scoliosis thoracic_vertebrae left <end>
+3941_IM-2012-0001-0002.dcm2	<start> cardiomegaly scoliosis thoracic_vertebrae left <end>
+3941_IM-2012-0001-0002.dcm3	<start> cardiomegaly scoliosis thoracic_vertebrae left <end>
+395_IM-2019-1001.dcm0	<start> calcinosis lung hilum lymph_nodes <end>
+395_IM-2019-1001.dcm1	<start> calcinosis lung hilum lymph_nodes <end>
+395_IM-2019-1001.dcm2	<start> calcinosis lung hilum lymph_nodes <end>
+395_IM-2019-1001.dcm3	<start> calcinosis lung hilum lymph_nodes <end>
+3948_IM-2017-1001.dcm0	<start> normal <end>
+3949_IM-2018-4004.dcm0	<start> cardiomegaly mild density lung lower_lobe <end>
+3949_IM-2018-4004.dcm1	<start> cardiomegaly mild density lung lower_lobe <end>
+3949_IM-2018-4004.dcm2	<start> cardiomegaly mild density lung lower_lobe <end>
+3949_IM-2018-4004.dcm3	<start> cardiomegaly mild density lung lower_lobe <end>
+3954_IM-2021-1001.dcm0	<start> normal <end>
+3953_IM-2021-1001.dcm0	<start> normal <end>
+3955_IM-2021-1001.dcm0	<start> normal <end>
+3955_IM-2021-1003.dcm0	<start> normal <end>
+3956_IM-2021-1001.dcm0	<start> lung_hypoinflation <end>
+3956_IM-2021-1001.dcm1	<start> lung_hypoinflation <end>
+3956_IM-2021-1001.dcm2	<start> lung_hypoinflation <end>
+3956_IM-2021-1001.dcm3	<start> lung_hypoinflation <end>
+3956_IM-2021-1001.dcm4	<start> lung_hypoinflation <end>
+3957_IM-2022-1001.dcm0	<start> normal <end>
+3951_IM-2019-1001.dcm0	<start> mass lung apex right opacity <end>
+3951_IM-2019-1001.dcm1	<start> mass lung apex right opacity <end>
+3951_IM-2019-1001.dcm2	<start> mass lung apex right opacity <end>
+3944_IM-2014-1001.dcm0	<start> catheters_indwelling right <end>
+3944_IM-2014-1001.dcm1	<start> catheters_indwelling right <end>
+3944_IM-2014-1001.dcm2	<start> catheters_indwelling right <end>
+3944_IM-2014-1001.dcm3	<start> catheters_indwelling right <end>
+3944_IM-2014-1001.dcm4	<start> catheters_indwelling right <end>
+3944_IM-2014-1001.dcm5	<start> catheters_indwelling right <end>
+3944_IM-2014-1001.dcm6	<start> catheters_indwelling right <end>
+3944_IM-2014-1001.dcm7	<start> catheters_indwelling right <end>
+3944_IM-2014-1001.dcm8	<start> catheters_indwelling right <end>
+3944_IM-2014-1001.dcm9	<start> catheters_indwelling right <end>
+3944_IM-2014-1001.dcm10	<start> catheters_indwelling right <end>
+3944_IM-2014-1001.dcm11	<start> catheters_indwelling right <end>
+3958_IM-2022-1001.dcm0	<start> normal <end>
+3961_IM-2026-1001.dcm0	<start> infiltrate lung upper_lobe right opacity <end>
+3961_IM-2026-1001.dcm1	<start> infiltrate lung upper_lobe right opacity <end>
+3961_IM-2026-1001.dcm2	<start> infiltrate lung upper_lobe right opacity <end>
+3962_IM-2027-1001.dcm0	<start> normal <end>
+3964_IM-2028-1001.dcm0	<start> cicatrix lung apex bilateral lung_hyperdistention <end>
+3964_IM-2028-1001.dcm1	<start> cicatrix lung apex bilateral lung_hyperdistention <end>
+3964_IM-2028-1001.dcm2	<start> cicatrix lung apex bilateral lung_hyperdistention <end>
+3964_IM-2028-1001.dcm3	<start> cicatrix lung apex bilateral lung_hyperdistention <end>
+3964_IM-2028-1001.dcm4	<start> cicatrix lung apex bilateral lung_hyperdistention <end>
+3964_IM-2028-1001.dcm5	<start> cicatrix lung apex bilateral lung_hyperdistention <end>
+3964_IM-2028-1001.dcm6	<start> cicatrix lung apex bilateral lung_hyperdistention <end>
+3966_IM-2028-1001.dcm0	<start> thoracic_vertebrae_degenerative mild <end>
+3966_IM-2028-1001.dcm1	<start> thoracic_vertebrae_degenerative mild <end>
+3966_IM-2028-1001.dcm2	<start> thoracic_vertebrae_degenerative mild <end>
+3966_IM-2028-1001.dcm3	<start> thoracic_vertebrae_degenerative mild <end>
+3966_IM-2028-1001.dcm4	<start> thoracic_vertebrae_degenerative mild <end>
+3952_IM-2020-1001.dcm0	<start> cardiomegaly mild diaphragm_right elevated osteophyte <end>
+3952_IM-2020-1001.dcm1	<start> cardiomegaly mild diaphragm_right elevated osteophyte <end>
+3952_IM-2020-1001.dcm2	<start> cardiomegaly mild diaphragm_right elevated osteophyte <end>
+3952_IM-2020-1001.dcm3	<start> cardiomegaly mild diaphragm_right elevated osteophyte <end>
+3970_IM-2031-1001.dcm0	<start> normal <end>
+3972_IM-2032-1001.dcm0	<start> lung_hilum lymph_nodes bilateral enlarged opacity <end>
+3972_IM-2032-1001.dcm1	<start> lung_hilum lymph_nodes bilateral enlarged opacity <end>
+3972_IM-2032-1001.dcm2	<start> lung_hilum lymph_nodes bilateral enlarged opacity <end>
+3976_IM-2035-1001.dcm0	<start> normal <end>
+3971_IM-2031-1001.dcm0	<start> normal <end>
+3971_IM-2031-3001.dcm0	<start> normal <end>
+3979_IM-2038-1001.dcm0	<start> aorta_tortuous mild atherosclerosis aorta mild <end>
+3979_IM-2038-1001.dcm1	<start> aorta_tortuous mild atherosclerosis aorta mild <end>
+3979_IM-2038-1001.dcm2	<start> aorta_tortuous mild atherosclerosis aorta mild <end>
+3979_IM-2038-1001.dcm3	<start> aorta_tortuous mild atherosclerosis aorta mild <end>
+3979_IM-2038-1001.dcm4	<start> aorta_tortuous mild atherosclerosis aorta mild <end>
+3979_IM-2038-1001.dcm5	<start> aorta_tortuous mild atherosclerosis aorta mild <end>
+3979_IM-2038-1001.dcm6	<start> aorta_tortuous mild atherosclerosis aorta mild <end>
+3979_IM-2038-1001.dcm7	<start> aorta_tortuous mild atherosclerosis aorta mild <end>
+3979_IM-2038-1001.dcm8	<start> aorta_tortuous mild atherosclerosis aorta mild <end>
+3980_IM-2039-1001.dcm0	<start> cardiomegaly moderate costophrenic_angle left blunted <end>
+3980_IM-2039-1001.dcm1	<start> cardiomegaly moderate costophrenic_angle left blunted <end>
+3980_IM-2039-1001.dcm2	<start> cardiomegaly moderate costophrenic_angle left blunted <end>
+3980_IM-2039-1001.dcm3	<start> cardiomegaly moderate costophrenic_angle left blunted <end>
+3978_IM-2037-0001-0001.dcm0	<start> normal <end>
+3982_IM-2039-1001.dcm0	<start> normal <end>
+3983_IM-2039-1001.dcm0	<start> opacity lung base left pulmonary_atelectasis <end>
+3983_IM-2039-1001.dcm1	<start> opacity lung base left pulmonary_atelectasis <end>
+3983_IM-2039-1001.dcm2	<start> opacity lung base left pulmonary_atelectasis <end>
+3984_IM-2040-1001.dcm0	<start> aorta_thoracic tortuous calcinosis lung hilum <end>
+3984_IM-2040-1001.dcm1	<start> aorta_thoracic tortuous calcinosis lung hilum <end>
+3984_IM-2040-1001.dcm2	<start> aorta_thoracic tortuous calcinosis lung hilum <end>
+3984_IM-2040-1001.dcm3	<start> aorta_thoracic tortuous calcinosis lung hilum <end>
+3986_IM-2041-1001.dcm0	<start> normal <end>
+3986_IM-2041-3001.dcm0	<start> normal <end>
+3993_IM-2044-1001.dcm0	<start> cardiomegaly mild diaphragm_left elevated <end>
+3993_IM-2044-1001.dcm1	<start> cardiomegaly mild diaphragm_left elevated <end>
+3993_IM-2044-1001.dcm2	<start> cardiomegaly mild diaphragm_left elevated <end>
+3993_IM-2044-1001.dcm3	<start> cardiomegaly mild diaphragm_left elevated <end>
+3994_IM-2045-2001.dcm0	<start> cardiomegaly mild heart_failure mild pulmonary_congestion <end>
+3994_IM-2045-2001.dcm1	<start> cardiomegaly mild heart_failure mild pulmonary_congestion <end>
+3994_IM-2045-2001.dcm2	<start> cardiomegaly mild heart_failure mild pulmonary_congestion <end>
+3994_IM-2045-2001.dcm3	<start> cardiomegaly mild heart_failure mild pulmonary_congestion <end>
+3995_IM-2046-1001.dcm0	<start> cicatrix lung middle_lobe right mild <end>
+3995_IM-2046-1001.dcm1	<start> cicatrix lung middle_lobe right mild <end>
+3995_IM-2046-1001.dcm2	<start> cicatrix lung middle_lobe right mild <end>
+3995_IM-2046-1001.dcm3	<start> cicatrix lung middle_lobe right mild <end>
+3995_IM-2046-1001.dcm4	<start> cicatrix lung middle_lobe right mild <end>
+3995_IM-2046-1001.dcm5	<start> cicatrix lung middle_lobe right mild <end>
+3995_IM-2046-1001.dcm6	<start> cicatrix lung middle_lobe right mild <end>
+3997_IM-2048-1001.dcm0	<start> granuloma lung upper_lobe right round <end>
+3997_IM-2048-1001.dcm1	<start> granuloma lung upper_lobe right round <end>
+3997_IM-2048-1001.dcm2	<start> granuloma lung upper_lobe right round <end>
+3998_IM-2048-1001.dcm0	<start> normal <end>
+3999_IM-2049-1001.dcm0	<start> normal <end>
+3973_IM-2033-1001.dcm0	<start> normal <end>
+400_IM-2050-1001.dcm0	<start> calcified_granuloma lung base right small <end>
+400_IM-2050-1001.dcm1	<start> calcified_granuloma lung base right small <end>
+400_IM-2050-1001.dcm2	<start> calcified_granuloma lung base right small <end>
+400_IM-2050-1001.dcm3	<start> calcified_granuloma lung base right small <end>
+400_IM-2050-1001.dcm4	<start> calcified_granuloma lung base right small <end>
+3969_IM-2030-1001.dcm0	<start> bone_diseases_metabolic spine lung_hyperdistention spine_degenerative <end>
+3969_IM-2030-1001.dcm1	<start> bone_diseases_metabolic spine lung_hyperdistention spine_degenerative <end>
+3969_IM-2030-1001.dcm2	<start> bone_diseases_metabolic spine lung_hyperdistention spine_degenerative <end>
+3969_IM-2030-1001.dcm3	<start> bone_diseases_metabolic spine lung_hyperdistention spine_degenerative <end>
+3969_IM-2030-1001.dcm4	<start> bone_diseases_metabolic spine lung_hyperdistention spine_degenerative <end>
+3969_IM-2030-1001.dcm5	<start> bone_diseases_metabolic spine lung_hyperdistention spine_degenerative <end>
+398_IM-2039-1001.dcm0	<start> calcinosis right paratracheal <end>
+398_IM-2039-1001.dcm1	<start> calcinosis right paratracheal <end>
+398_IM-2039-1001.dcm2	<start> calcinosis right paratracheal <end>
+398_IM-2039-1001.dcm3	<start> calcinosis right paratracheal <end>
+3981_IM-2039-1001.dcm0	<start> normal <end>
+4_IM-2050-1001.dcm0	<start> bullous_emphysema cicatrix lung upper_lobe left <end>
+4_IM-2050-1001.dcm1	<start> bullous_emphysema cicatrix lung upper_lobe left <end>
+4_IM-2050-1001.dcm2	<start> bullous_emphysema cicatrix lung upper_lobe left <end>
+4_IM-2050-1001.dcm3	<start> bullous_emphysema cicatrix lung upper_lobe left <end>
+4_IM-2050-1001.dcm4	<start> bullous_emphysema cicatrix lung upper_lobe left <end>
+4_IM-2050-1001.dcm5	<start> bullous_emphysema cicatrix lung upper_lobe left <end>
+4_IM-2050-1001.dcm6	<start> bullous_emphysema cicatrix lung upper_lobe left <end>
+401_IM-2051-1001.dcm0	<start> costophrenic_angle left blunted lung_diseases_interstitial diffuse <end>
+401_IM-2051-1001.dcm1	<start> costophrenic_angle left blunted lung_diseases_interstitial diffuse <end>
+401_IM-2051-1001.dcm2	<start> costophrenic_angle left blunted lung_diseases_interstitial diffuse <end>
+3974_IM-2034-2002.dcm0	<start> airspace_disease lung middle_lobe right patchy <end>
+3974_IM-2034-2002.dcm1	<start> airspace_disease lung middle_lobe right patchy <end>
+3974_IM-2034-2002.dcm2	<start> airspace_disease lung middle_lobe right patchy <end>
+3974_IM-2034-2002.dcm3	<start> airspace_disease lung middle_lobe right patchy <end>
+3974_IM-2034-2002.dcm4	<start> airspace_disease lung middle_lobe right patchy <end>
+3974_IM-2034-2002.dcm5	<start> airspace_disease lung middle_lobe right patchy <end>
+3974_IM-2034-2002.dcm6	<start> airspace_disease lung middle_lobe right patchy <end>
+3974_IM-2034-2002.dcm7	<start> airspace_disease lung middle_lobe right patchy <end>
+3974_IM-2034-2002.dcm8	<start> airspace_disease lung middle_lobe right patchy <end>
+3974_IM-2034-2002.dcm9	<start> airspace_disease lung middle_lobe right patchy <end>
+3974_IM-2034-2002.dcm10	<start> airspace_disease lung middle_lobe right patchy <end>
+3974_IM-2034-2002.dcm11	<start> airspace_disease lung middle_lobe right patchy <end>
+406_IM-2054-1001.dcm0	<start> calcinosis lung hilum right granulomatous_disease <end>
+406_IM-2054-1001.dcm1	<start> calcinosis lung hilum right granulomatous_disease <end>
+406_IM-2054-1001.dcm2	<start> calcinosis lung hilum right granulomatous_disease <end>
+406_IM-2054-1001.dcm3	<start> calcinosis lung hilum right granulomatous_disease <end>
+407_IM-2054-1001.dcm0	<start> normal <end>
+405_IM-2053-1001.dcm0	<start> lung_hypoinflation <end>
+405_IM-2053-1001.dcm1	<start> lung_hypoinflation <end>
+405_IM-2053-1001.dcm2	<start> lung_hypoinflation <end>
+405_IM-2053-1001.dcm3	<start> lung_hypoinflation <end>
+405_IM-2053-1001.dcm4	<start> lung_hypoinflation <end>
+408_IM-2054-1001.dcm0	<start> lung_hypoinflation pleural_effusion bilateral small <end>
+408_IM-2054-1001.dcm1	<start> lung_hypoinflation pleural_effusion bilateral small <end>
+408_IM-2054-1001.dcm2	<start> lung_hypoinflation pleural_effusion bilateral small <end>
+408_IM-2054-1001.dcm3	<start> lung_hypoinflation pleural_effusion bilateral small <end>
+408_IM-2054-1001.dcm4	<start> lung_hypoinflation pleural_effusion bilateral small <end>
+41_IM-2055-1001.dcm0	<start> lung_diseases_interstitial opacity lung base left <end>
+41_IM-2055-1001.dcm1	<start> lung_diseases_interstitial opacity lung base left <end>
+41_IM-2055-1001.dcm2	<start> lung_diseases_interstitial opacity lung base left <end>
+416_IM-2059-1001.dcm0	<start> normal <end>
+409_IM-2055-2001.dcm0	<start> calcified_granuloma lung hilum bilateral markings_lung <end>
+409_IM-2055-2001.dcm1	<start> calcified_granuloma lung hilum bilateral markings_lung <end>
+409_IM-2055-2001.dcm2	<start> calcified_granuloma lung hilum bilateral markings_lung <end>
+409_IM-2055-2001.dcm3	<start> calcified_granuloma lung hilum bilateral markings_lung <end>
+409_IM-2055-2001.dcm4	<start> calcified_granuloma lung hilum bilateral markings_lung <end>
+417_IM-2060-1001.dcm0	<start> calcified_granuloma <end>
+417_IM-2060-1001.dcm1	<start> calcified_granuloma <end>
+417_IM-2060-1001.dcm2	<start> calcified_granuloma <end>
+417_IM-2060-1001.dcm3	<start> calcified_granuloma <end>
+417_IM-2060-1001.dcm4	<start> calcified_granuloma <end>
+418_IM-2061-2001.dcm0	<start> calcinosis lung hilum right cardiac_shadow <end>
+418_IM-2061-2001.dcm1	<start> calcinosis lung hilum right cardiac_shadow <end>
+418_IM-2061-2001.dcm2	<start> calcinosis lung hilum right cardiac_shadow <end>
+418_IM-2061-2001.dcm3	<start> calcinosis lung hilum right cardiac_shadow <end>
+419_IM-2062-1001.dcm0	<start> normal <end>
+420_IM-2064-1001.dcm0	<start> density lung middle_lobe right <end>
+420_IM-2064-1001.dcm1	<start> density lung middle_lobe right <end>
+420_IM-2064-1001.dcm2	<start> density lung middle_lobe right <end>
+420_IM-2064-1001.dcm3	<start> density lung middle_lobe right <end>
+420_IM-2064-1001.dcm4	<start> density lung middle_lobe right <end>
+420_IM-2064-1001.dcm5	<start> density lung middle_lobe right <end>
+420_IM-2064-1001.dcm6	<start> density lung middle_lobe right <end>
+420_IM-2064-1001.dcm7	<start> density lung middle_lobe right <end>
+420_IM-2064-1001.dcm8	<start> density lung middle_lobe right <end>
+420_IM-2064-1001.dcm9	<start> density lung middle_lobe right <end>
+420_IM-2064-1001.dcm10	<start> density lung middle_lobe right <end>
+420_IM-2064-1001.dcm11	<start> density lung middle_lobe right <end>
+422_IM-2065-5001.dcm0	<start> calcified_granuloma lung left <end>
+422_IM-2065-5001.dcm1	<start> calcified_granuloma lung left <end>
+422_IM-2065-5001.dcm2	<start> calcified_granuloma lung left <end>
+422_IM-2065-5001.dcm3	<start> calcified_granuloma lung left <end>
+422_IM-2065-5001.dcm4	<start> calcified_granuloma lung left <end>
+413_IM-2056-1001.dcm0	<start> normal <end>
+425_IM-2068-1001.dcm0	<start> normal <end>
+427_IM-2070-1001.dcm0	<start> normal <end>
+429_IM-2070-1001.dcm0	<start> normal <end>
+430_IM-2071-1001.dcm0	<start> normal <end>
+431_IM-2072-1001.dcm0	<start> cardiomegaly borderline osteophyte thoracic_vertebrae multiple <end>
+431_IM-2072-1001.dcm1	<start> cardiomegaly borderline osteophyte thoracic_vertebrae multiple <end>
+431_IM-2072-1001.dcm2	<start> cardiomegaly borderline osteophyte thoracic_vertebrae multiple <end>
+431_IM-2072-1001.dcm3	<start> cardiomegaly borderline osteophyte thoracic_vertebrae multiple <end>
+432_IM-2072-1001.dcm0	<start> normal <end>
+433_IM-2073-1001.dcm0	<start> normal <end>
+434_IM-2074-1001.dcm0	<start> calcinosis aorta diaphragm_flattened lung_hyperdistention spine_degenerative <end>
+434_IM-2074-1001.dcm1	<start> calcinosis aorta diaphragm_flattened lung_hyperdistention spine_degenerative <end>
+434_IM-2074-1001.dcm2	<start> calcinosis aorta diaphragm_flattened lung_hyperdistention spine_degenerative <end>
+434_IM-2074-1001.dcm3	<start> calcinosis aorta diaphragm_flattened lung_hyperdistention spine_degenerative <end>
+435_IM-2075-1001.dcm0	<start> normal <end>
+436_IM-2076-1001-0002.dcm0	<start> calcinosis aorta cardiomegaly borderline hernia_hiatal <end>
+436_IM-2076-1001-0002.dcm1	<start> calcinosis aorta cardiomegaly borderline hernia_hiatal <end>
+436_IM-2076-1001-0002.dcm2	<start> calcinosis aorta cardiomegaly borderline hernia_hiatal <end>
+436_IM-2076-1001-0002.dcm3	<start> calcinosis aorta cardiomegaly borderline hernia_hiatal <end>
+411_IM-2056-1001.dcm0	<start> arthritis cicatrix lung base left <end>
+411_IM-2056-1001.dcm1	<start> arthritis cicatrix lung base left <end>
+411_IM-2056-1001.dcm2	<start> arthritis cicatrix lung base left <end>
+411_IM-2056-1001.dcm3	<start> arthritis cicatrix lung base left <end>
+411_IM-2056-1001.dcm4	<start> arthritis cicatrix lung base left <end>
+411_IM-2056-1001.dcm5	<start> arthritis cicatrix lung base left <end>
+411_IM-2056-1001.dcm6	<start> arthritis cicatrix lung base left <end>
+438_IM-2078-1001.dcm0	<start> normal <end>
+44_IM-2078-1001.dcm0	<start> normal <end>
+423_IM-2066-0001-0003.dcm0	<start> airspace_disease lung base bilateral catheters_indwelling <end>
+423_IM-2066-0001-0003.dcm1	<start> airspace_disease lung base bilateral catheters_indwelling <end>
+423_IM-2066-0001-0003.dcm2	<start> airspace_disease lung base bilateral catheters_indwelling <end>
+423_IM-2066-0001-0003.dcm3	<start> airspace_disease lung base bilateral catheters_indwelling <end>
+423_IM-2066-0001-0003.dcm4	<start> airspace_disease lung base bilateral catheters_indwelling <end>
+423_IM-2066-0001-0003.dcm5	<start> airspace_disease lung base bilateral catheters_indwelling <end>
+423_IM-2066-0001-0003.dcm6	<start> airspace_disease lung base bilateral catheters_indwelling <end>
+423_IM-2066-0001-0003.dcm7	<start> airspace_disease lung base bilateral catheters_indwelling <end>
+423_IM-2066-0001-0003.dcm8	<start> airspace_disease lung base bilateral catheters_indwelling <end>
+423_IM-2066-0001-0003.dcm9	<start> airspace_disease lung base bilateral catheters_indwelling <end>
+423_IM-2066-0001-0003.dcm10	<start> airspace_disease lung base bilateral catheters_indwelling <end>
+423_IM-2066-0001-0003.dcm11	<start> airspace_disease lung base bilateral catheters_indwelling <end>
+441_IM-2078-1001.dcm0	<start> calcified_granuloma lung scattered multiple calcinosis <end>
+441_IM-2078-1001.dcm1	<start> calcified_granuloma lung scattered multiple calcinosis <end>
+441_IM-2078-1001.dcm2	<start> calcified_granuloma lung scattered multiple calcinosis <end>
+441_IM-2078-1001.dcm3	<start> calcified_granuloma lung scattered multiple calcinosis <end>
+441_IM-2078-1001.dcm4	<start> calcified_granuloma lung scattered multiple calcinosis <end>
+421_IM-2064-1001.dcm0	<start> normal <end>
+42_IM-2063-1001.dcm0	<start> normal <end>
+439_IM-2078-1001.dcm0	<start> calcinosis lung base right small <end>
+439_IM-2078-1001.dcm1	<start> calcinosis lung base right small <end>
+439_IM-2078-1001.dcm2	<start> calcinosis lung base right small <end>
+439_IM-2078-1001.dcm3	<start> calcinosis lung base right small <end>
+443_IM-2078-1001.dcm0	<start> thoracic_vertebrae_degenerative <end>
+443_IM-2078-1001.dcm1	<start> thoracic_vertebrae_degenerative <end>
+443_IM-2078-1001.dcm2	<start> thoracic_vertebrae_degenerative <end>
+443_IM-2078-1001.dcm3	<start> thoracic_vertebrae_degenerative <end>
+443_IM-2078-1001.dcm4	<start> thoracic_vertebrae_degenerative <end>
+442_IM-2078-1001.dcm0	<start> lung_hyperdistention pulmonary_disease_chronic_obstructive <end>
+442_IM-2078-1001.dcm1	<start> lung_hyperdistention pulmonary_disease_chronic_obstructive <end>
+442_IM-2078-1001.dcm2	<start> lung_hyperdistention pulmonary_disease_chronic_obstructive <end>
+442_IM-2078-1001.dcm3	<start> lung_hyperdistention pulmonary_disease_chronic_obstructive <end>
+442_IM-2078-1001.dcm4	<start> lung_hyperdistention pulmonary_disease_chronic_obstructive <end>
+442_IM-2078-1001.dcm5	<start> lung_hyperdistention pulmonary_disease_chronic_obstructive <end>
+445_IM-2079-1001.dcm0	<start> normal <end>
+45_IM-2081-1001.dcm0	<start> cardiomegaly pulmonary_congestion <end>
+45_IM-2081-1001.dcm1	<start> cardiomegaly pulmonary_congestion <end>
+45_IM-2081-1001.dcm2	<start> cardiomegaly pulmonary_congestion <end>
+45_IM-2081-1001.dcm3	<start> cardiomegaly pulmonary_congestion <end>
+444_IM-2079-1001.dcm0	<start> normal <end>
+450_IM-2082-1001.dcm0	<start> normal <end>
+437_IM-2077-1001.dcm0	<start> aorta_prominent aortic_aneurysm cardiomegaly spine_degenerative mild <end>
+437_IM-2077-1001.dcm1	<start> aorta_prominent aortic_aneurysm cardiomegaly spine_degenerative mild <end>
+437_IM-2077-1001.dcm2	<start> aorta_prominent aortic_aneurysm cardiomegaly spine_degenerative mild <end>
+437_IM-2077-1001.dcm3	<start> aorta_prominent aortic_aneurysm cardiomegaly spine_degenerative mild <end>
+449_IM-2080-1001.dcm0	<start> normal <end>
+456_IM-2087-1001.dcm0	<start> granulomatous_disease <end>
+456_IM-2087-1001.dcm1	<start> granulomatous_disease <end>
+456_IM-2087-1001.dcm2	<start> granulomatous_disease <end>
+456_IM-2087-1001.dcm3	<start> granulomatous_disease <end>
+456_IM-2087-1001.dcm4	<start> granulomatous_disease <end>
+456_IM-2087-1001.dcm5	<start> granulomatous_disease <end>
+456_IM-2087-1001.dcm6	<start> granulomatous_disease <end>
+456_IM-2087-1001.dcm7	<start> granulomatous_disease <end>
+456_IM-2087-1001.dcm8	<start> granulomatous_disease <end>
+456_IM-2087-1001.dcm9	<start> granulomatous_disease <end>
+456_IM-2087-1001.dcm10	<start> granulomatous_disease <end>
+456_IM-2087-1001.dcm11	<start> granulomatous_disease <end>
+457_IM-2088-1001-0001.dcm0	<start> calcified_granuloma lung lingula density lung <end>
+457_IM-2088-1001-0001.dcm1	<start> calcified_granuloma lung lingula density lung <end>
+457_IM-2088-1001-0001.dcm2	<start> calcified_granuloma lung lingula density lung <end>
+457_IM-2088-1001-0001.dcm3	<start> calcified_granuloma lung lingula density lung <end>
+457_IM-2088-1001-0001.dcm4	<start> calcified_granuloma lung lingula density lung <end>
+459_IM-2090-2001.dcm0	<start> normal <end>
+454_IM-2085-1001.dcm0	<start> cardiomegaly mild <end>
+454_IM-2085-1001.dcm1	<start> cardiomegaly mild <end>
+454_IM-2085-1001.dcm2	<start> cardiomegaly mild <end>
+454_IM-2085-1001.dcm3	<start> cardiomegaly mild <end>
+455_IM-2086-4004.dcm0	<start> cardiac_shadow right prominent lung_hypoinflation markings_bronchovascular <end>
+455_IM-2086-4004.dcm1	<start> cardiac_shadow right prominent lung_hypoinflation markings_bronchovascular <end>
+455_IM-2086-4004.dcm2	<start> cardiac_shadow right prominent lung_hypoinflation markings_bronchovascular <end>
+455_IM-2086-4004.dcm3	<start> cardiac_shadow right prominent lung_hypoinflation markings_bronchovascular <end>
+455_IM-2086-4004.dcm4	<start> cardiac_shadow right prominent lung_hypoinflation markings_bronchovascular <end>
+462_IM-2090-1001.dcm0	<start> aorta_thoracic tortuous mild cardiomegaly mild <end>
+462_IM-2090-1001.dcm1	<start> aorta_thoracic tortuous mild cardiomegaly mild <end>
+462_IM-2090-1001.dcm2	<start> aorta_thoracic tortuous mild cardiomegaly mild <end>
+462_IM-2090-1001.dcm3	<start> aorta_thoracic tortuous mild cardiomegaly mild <end>
+461_IM-2090-1001.dcm0	<start> normal <end>
+451_IM-2082-1001.dcm0	<start> calcinosis mediastinum lymph_nodes <end>
+451_IM-2082-1001.dcm1	<start> calcinosis mediastinum lymph_nodes <end>
+451_IM-2082-1001.dcm2	<start> calcinosis mediastinum lymph_nodes <end>
+451_IM-2082-1001.dcm3	<start> calcinosis mediastinum lymph_nodes <end>
+463_IM-2091-1001.dcm0	<start> calcinosis lung hilum lymph_nodes mass <end>
+463_IM-2091-1001.dcm1	<start> calcinosis lung hilum lymph_nodes mass <end>
+463_IM-2091-1001.dcm2	<start> calcinosis lung hilum lymph_nodes mass <end>
+463_IM-2091-1001.dcm3	<start> calcinosis lung hilum lymph_nodes mass <end>
+448_IM-2080-1001.dcm0	<start> normal <end>
+428_IM-2070-1001.dcm0	<start> normal <end>
+470_IM-2099-3001.dcm0	<start> normal <end>
+468_IM-2096-1001.dcm0	<start> costophrenic_angle blunted chronic density thorax <end>
+468_IM-2096-1001.dcm1	<start> costophrenic_angle blunted chronic density thorax <end>
+468_IM-2096-1001.dcm2	<start> costophrenic_angle blunted chronic density thorax <end>
+468_IM-2096-1001.dcm3	<start> costophrenic_angle blunted chronic density thorax <end>
+468_IM-2096-1001.dcm4	<start> costophrenic_angle blunted chronic density thorax <end>
+468_IM-2096-1001.dcm5	<start> costophrenic_angle blunted chronic density thorax <end>
+468_IM-2096-1001.dcm6	<start> costophrenic_angle blunted chronic density thorax <end>
+468_IM-2096-1001.dcm7	<start> costophrenic_angle blunted chronic density thorax <end>
+468_IM-2096-1001.dcm8	<start> costophrenic_angle blunted chronic density thorax <end>
+468_IM-2096-1001.dcm9	<start> costophrenic_angle blunted chronic density thorax <end>
+468_IM-2096-1001.dcm10	<start> costophrenic_angle blunted chronic density thorax <end>
+468_IM-2096-1001.dcm11	<start> costophrenic_angle blunted chronic density thorax <end>
+473_IM-2101-1001.dcm0	<start> normal <end>
+474_IM-2101-1001.dcm0	<start> normal <end>
+475_IM-2101-1001.dcm0	<start> normal <end>
+477_IM-2101-1001.dcm0	<start> normal <end>
+46_IM-2090-1001.dcm0	<start> normal <end>
+479_IM-2102-1001.dcm0	<start> normal <end>
+48_IM-2103-1001.dcm0	<start> bone_and_bones thorax degenerative mild nodule <end>
+48_IM-2103-1001.dcm1	<start> bone_and_bones thorax degenerative mild nodule <end>
+48_IM-2103-1001.dcm2	<start> bone_and_bones thorax degenerative mild nodule <end>
+48_IM-2103-1001.dcm3	<start> bone_and_bones thorax degenerative mild nodule <end>
+48_IM-2103-1001.dcm4	<start> bone_and_bones thorax degenerative mild nodule <end>
+48_IM-2103-1001.dcm5	<start> bone_and_bones thorax degenerative mild nodule <end>
+48_IM-2103-1001.dcm6	<start> bone_and_bones thorax degenerative mild nodule <end>
+48_IM-2103-1001.dcm7	<start> bone_and_bones thorax degenerative mild nodule <end>
+48_IM-2103-1001.dcm8	<start> bone_and_bones thorax degenerative mild nodule <end>
+48_IM-2103-1001.dcm9	<start> bone_and_bones thorax degenerative mild nodule <end>
+48_IM-2103-1001.dcm10	<start> bone_and_bones thorax degenerative mild nodule <end>
+48_IM-2103-1001.dcm11	<start> bone_and_bones thorax degenerative mild nodule <end>
+48_IM-2103-1001.dcm12	<start> bone_and_bones thorax degenerative mild nodule <end>
+481_IM-2105-1001.dcm0	<start> atherosclerosis aorta bone_diseases_metabolic calcinosis bronchi <end>
+481_IM-2105-1001.dcm1	<start> atherosclerosis aorta bone_diseases_metabolic calcinosis bronchi <end>
+481_IM-2105-1001.dcm2	<start> atherosclerosis aorta bone_diseases_metabolic calcinosis bronchi <end>
+481_IM-2105-1001.dcm3	<start> atherosclerosis aorta bone_diseases_metabolic calcinosis bronchi <end>
+481_IM-2105-1001.dcm4	<start> atherosclerosis aorta bone_diseases_metabolic calcinosis bronchi <end>
+481_IM-2105-1001.dcm5	<start> atherosclerosis aorta bone_diseases_metabolic calcinosis bronchi <end>
+481_IM-2105-1001.dcm6	<start> atherosclerosis aorta bone_diseases_metabolic calcinosis bronchi <end>
+481_IM-2105-1001.dcm7	<start> atherosclerosis aorta bone_diseases_metabolic calcinosis bronchi <end>
+481_IM-2105-1001.dcm8	<start> atherosclerosis aorta bone_diseases_metabolic calcinosis bronchi <end>
+481_IM-2105-1001.dcm9	<start> atherosclerosis aorta bone_diseases_metabolic calcinosis bronchi <end>
+481_IM-2105-1001.dcm10	<start> atherosclerosis aorta bone_diseases_metabolic calcinosis bronchi <end>
+480_IM-2104-1001.dcm0	<start> normal <end>
+464_IM-2092-12012.dcm0	<start> diaphragmatic_eventration right spine_degenerative <end>
+464_IM-2092-12012.dcm1	<start> diaphragmatic_eventration right spine_degenerative <end>
+464_IM-2092-12012.dcm2	<start> diaphragmatic_eventration right spine_degenerative <end>
+464_IM-2092-12012.dcm3	<start> diaphragmatic_eventration right spine_degenerative <end>
+464_IM-2092-12012.dcm4	<start> diaphragmatic_eventration right spine_degenerative <end>
+464_IM-2092-12012.dcm5	<start> diaphragmatic_eventration right spine_degenerative <end>
+464_IM-2092-12012.dcm6	<start> diaphragmatic_eventration right spine_degenerative <end>
+464_IM-2092-12012.dcm7	<start> diaphragmatic_eventration right spine_degenerative <end>
+484_IM-2108-1001.dcm0	<start> atherosclerosis aorta lung_hypoinflation scoliosis lumbar_vertebrae <end>
+484_IM-2108-1001.dcm1	<start> atherosclerosis aorta lung_hypoinflation scoliosis lumbar_vertebrae <end>
+484_IM-2108-1001.dcm2	<start> atherosclerosis aorta lung_hypoinflation scoliosis lumbar_vertebrae <end>
+484_IM-2108-1001.dcm3	<start> atherosclerosis aorta lung_hypoinflation scoliosis lumbar_vertebrae <end>
+484_IM-2108-1001.dcm4	<start> atherosclerosis aorta lung_hypoinflation scoliosis lumbar_vertebrae <end>
+484_IM-2108-1001.dcm5	<start> atherosclerosis aorta lung_hypoinflation scoliosis lumbar_vertebrae <end>
+484_IM-2108-1001.dcm6	<start> atherosclerosis aorta lung_hypoinflation scoliosis lumbar_vertebrae <end>
+484_IM-2108-1001.dcm7	<start> atherosclerosis aorta lung_hypoinflation scoliosis lumbar_vertebrae <end>
+484_IM-2108-1001.dcm8	<start> atherosclerosis aorta lung_hypoinflation scoliosis lumbar_vertebrae <end>
+484_IM-2108-1001.dcm9	<start> atherosclerosis aorta lung_hypoinflation scoliosis lumbar_vertebrae <end>
+484_IM-2108-1001.dcm10	<start> atherosclerosis aorta lung_hypoinflation scoliosis lumbar_vertebrae <end>
+465_IM-2093-0001-0002.dcm0	<start> opacity lung lower_lobe right patchy <end>
+465_IM-2093-0001-0002.dcm1	<start> opacity lung lower_lobe right patchy <end>
+465_IM-2093-0001-0002.dcm2	<start> opacity lung lower_lobe right patchy <end>
+476_IM-2101-1001.dcm0	<start> calcinosis aorta <end>
+476_IM-2101-1001.dcm1	<start> calcinosis aorta <end>
+476_IM-2101-1001.dcm2	<start> calcinosis aorta <end>
+476_IM-2101-1001.dcm3	<start> calcinosis aorta <end>
+486_IM-2110-1001.dcm0	<start> aorta_thoracic tortuous cicatrix lung middle_lobe <end>
+486_IM-2110-1001.dcm1	<start> aorta_thoracic tortuous cicatrix lung middle_lobe <end>
+486_IM-2110-1001.dcm2	<start> aorta_thoracic tortuous cicatrix lung middle_lobe <end>
+486_IM-2110-1001.dcm3	<start> aorta_thoracic tortuous cicatrix lung middle_lobe <end>
+486_IM-2110-1001.dcm4	<start> aorta_thoracic tortuous cicatrix lung middle_lobe <end>
+486_IM-2110-1001.dcm5	<start> aorta_thoracic tortuous cicatrix lung middle_lobe <end>
+486_IM-2110-1001.dcm6	<start> aorta_thoracic tortuous cicatrix lung middle_lobe <end>
+49_IM-2110-1001.dcm0	<start> aorta_tortuous mild calcified_granuloma lung hilum <end>
+49_IM-2110-1001.dcm1	<start> aorta_tortuous mild calcified_granuloma lung hilum <end>
+49_IM-2110-1001.dcm2	<start> aorta_tortuous mild calcified_granuloma lung hilum <end>
+49_IM-2110-1001.dcm3	<start> aorta_tortuous mild calcified_granuloma lung hilum <end>
+49_IM-2110-1001.dcm4	<start> aorta_tortuous mild calcified_granuloma lung hilum <end>
+49_IM-2110-1001.dcm5	<start> aorta_tortuous mild calcified_granuloma lung hilum <end>
+49_IM-2110-1001.dcm6	<start> aorta_tortuous mild calcified_granuloma lung hilum <end>
+49_IM-2110-1001.dcm7	<start> aorta_tortuous mild calcified_granuloma lung hilum <end>
+49_IM-2110-1001.dcm8	<start> aorta_tortuous mild calcified_granuloma lung hilum <end>
+466_IM-2094-2002.dcm0	<start> aorta_tortuous mild scoliosis lumbar_vertebrae left <end>
+466_IM-2094-2002.dcm1	<start> aorta_tortuous mild scoliosis lumbar_vertebrae left <end>
+466_IM-2094-2002.dcm2	<start> aorta_tortuous mild scoliosis lumbar_vertebrae left <end>
+466_IM-2094-2002.dcm3	<start> aorta_tortuous mild scoliosis lumbar_vertebrae left <end>
+466_IM-2094-2002.dcm4	<start> aorta_tortuous mild scoliosis lumbar_vertebrae left <end>
+466_IM-2094-2002.dcm5	<start> aorta_tortuous mild scoliosis lumbar_vertebrae left <end>
+466_IM-2094-2002.dcm6	<start> aorta_tortuous mild scoliosis lumbar_vertebrae left <end>
+466_IM-2094-2002.dcm7	<start> aorta_tortuous mild scoliosis lumbar_vertebrae left <end>
+466_IM-2094-2002.dcm8	<start> aorta_tortuous mild scoliosis lumbar_vertebrae left <end>
+491_IM-2111-1001.dcm0	<start> opacity lung base bilateral pulmonary_atelectasis <end>
+491_IM-2111-1001.dcm1	<start> opacity lung base bilateral pulmonary_atelectasis <end>
+491_IM-2111-1001.dcm2	<start> opacity lung base bilateral pulmonary_atelectasis <end>
+493_IM-2113-1001.dcm0	<start> calcinosis lymph_nodes bilateral <end>
+493_IM-2113-1001.dcm1	<start> calcinosis lymph_nodes bilateral <end>
+493_IM-2113-1001.dcm2	<start> calcinosis lymph_nodes bilateral <end>
+493_IM-2113-1001.dcm3	<start> calcinosis lymph_nodes bilateral <end>
+495_IM-2114-1001.dcm0	<start> airspace_disease lung streaky <end>
+495_IM-2114-1001.dcm1	<start> airspace_disease lung streaky <end>
+495_IM-2114-1001.dcm2	<start> airspace_disease lung streaky <end>
+495_IM-2114-1001.dcm3	<start> airspace_disease lung streaky <end>
+495_IM-2114-1001.dcm4	<start> airspace_disease lung streaky <end>
+495_IM-2114-1001.dcm5	<start> airspace_disease lung streaky <end>
+495_IM-2114-1001.dcm6	<start> airspace_disease lung streaky <end>
+495_IM-2114-1001.dcm7	<start> airspace_disease lung streaky <end>
+495_IM-2114-1001.dcm8	<start> airspace_disease lung streaky <end>
+495_IM-2114-1001.dcm9	<start> airspace_disease lung streaky <end>
+495_IM-2114-1001.dcm10	<start> airspace_disease lung streaky <end>
+495_IM-2114-1001.dcm11	<start> airspace_disease lung streaky <end>
+494_IM-2114-1001.dcm0	<start> opacity lung base left <end>
+494_IM-2114-1001.dcm1	<start> opacity lung base left <end>
+494_IM-2114-1001.dcm2	<start> opacity lung base left <end>
+497_IM-2114-1001.dcm0	<start> normal <end>
+487_IM-2110-1001.dcm0	<start> normal <end>
+498_IM-2115-1001.dcm0	<start> mass lung upper_lobe right large <end>
+498_IM-2115-1001.dcm1	<start> mass lung upper_lobe right large <end>
+498_IM-2115-1001.dcm2	<start> mass lung upper_lobe right large <end>
+498_IM-2115-1001.dcm3	<start> mass lung upper_lobe right large <end>
+498_IM-2115-1001.dcm4	<start> mass lung upper_lobe right large <end>
+5_IM-2117-1003002.dcm0	<start> lung_hyperdistention mild osteophyte thoracic_vertebrae multiple <end>
+5_IM-2117-1003002.dcm1	<start> lung_hyperdistention mild osteophyte thoracic_vertebrae multiple <end>
+5_IM-2117-1003002.dcm2	<start> lung_hyperdistention mild osteophyte thoracic_vertebrae multiple <end>
+5_IM-2117-1003002.dcm3	<start> lung_hyperdistention mild osteophyte thoracic_vertebrae multiple <end>
+5_IM-2117-1003002.dcm4	<start> lung_hyperdistention mild osteophyte thoracic_vertebrae multiple <end>
+5_IM-2117-1003002.dcm5	<start> lung_hyperdistention mild osteophyte thoracic_vertebrae multiple <end>
+499_IM-2116-1001.dcm0	<start> normal <end>
+501_IM-2120-1001.dcm0	<start> opacity lung posterior streaky mild <end>
+501_IM-2120-1001.dcm1	<start> opacity lung posterior streaky mild <end>
+501_IM-2120-1001.dcm2	<start> opacity lung posterior streaky mild <end>
+50_IM-2118-2001.dcm0	<start> cardiomegaly lung_hypoinflation spine_degenerative <end>
+50_IM-2118-2001.dcm1	<start> cardiomegaly lung_hypoinflation spine_degenerative <end>
+50_IM-2118-2001.dcm2	<start> cardiomegaly lung_hypoinflation spine_degenerative <end>
+50_IM-2118-2001.dcm3	<start> cardiomegaly lung_hypoinflation spine_degenerative <end>
+502_IM-2120-1001.dcm0	<start> normal <end>
+504_IM-2122-1001.dcm0	<start> calcified_granuloma lung base left round <end>
+504_IM-2122-1001.dcm1	<start> calcified_granuloma lung base left round <end>
+504_IM-2122-1001.dcm2	<start> calcified_granuloma lung base left round <end>
+504_IM-2122-1001.dcm3	<start> calcified_granuloma lung base left round <end>
+504_IM-2122-1001.dcm4	<start> calcified_granuloma lung base left round <end>
+503_IM-2121-1001.dcm0	<start> normal <end>
+506_IM-2124-1001.dcm0	<start> normal <end>
+505_IM-2123-1001.dcm0	<start> normal <end>
+496_IM-2114-1001.dcm0	<start> normal <end>
+483_IM-2107-1001.dcm0	<start> atherosclerosis aorta cardiomegaly borderline diaphragm_flattened <end>
+483_IM-2107-1001.dcm1	<start> atherosclerosis aorta cardiomegaly borderline diaphragm_flattened <end>
+483_IM-2107-1001.dcm2	<start> atherosclerosis aorta cardiomegaly borderline diaphragm_flattened <end>
+483_IM-2107-1001.dcm3	<start> atherosclerosis aorta cardiomegaly borderline diaphragm_flattened <end>
+483_IM-2107-1001.dcm4	<start> atherosclerosis aorta cardiomegaly borderline diaphragm_flattened <end>
+483_IM-2107-1001.dcm5	<start> atherosclerosis aorta cardiomegaly borderline diaphragm_flattened <end>
+483_IM-2107-1001.dcm6	<start> atherosclerosis aorta cardiomegaly borderline diaphragm_flattened <end>
+483_IM-2107-1001.dcm7	<start> atherosclerosis aorta cardiomegaly borderline diaphragm_flattened <end>
+483_IM-2107-1001.dcm8	<start> atherosclerosis aorta cardiomegaly borderline diaphragm_flattened <end>
+483_IM-2107-1001.dcm9	<start> atherosclerosis aorta cardiomegaly borderline diaphragm_flattened <end>
+483_IM-2107-1001.dcm10	<start> atherosclerosis aorta cardiomegaly borderline diaphragm_flattened <end>
+510_IM-2126-1001.dcm0	<start> normal <end>
+511_IM-2127-1001.dcm0	<start> diaphragm_flattened lung_hyperdistention <end>
+511_IM-2127-1001.dcm1	<start> diaphragm_flattened lung_hyperdistention <end>
+511_IM-2127-1001.dcm2	<start> diaphragm_flattened lung_hyperdistention <end>
+511_IM-2127-1001.dcm3	<start> diaphragm_flattened lung_hyperdistention <end>
+511_IM-2127-1001.dcm4	<start> diaphragm_flattened lung_hyperdistention <end>
+511_IM-2127-1001.dcm5	<start> diaphragm_flattened lung_hyperdistention <end>
+512_IM-2127-1001.dcm0	<start> thoracic_vertebrae_degenerative mild <end>
+512_IM-2127-1001.dcm1	<start> thoracic_vertebrae_degenerative mild <end>
+512_IM-2127-1001.dcm2	<start> thoracic_vertebrae_degenerative mild <end>
+512_IM-2127-1001.dcm3	<start> thoracic_vertebrae_degenerative mild <end>
+512_IM-2127-1001.dcm4	<start> thoracic_vertebrae_degenerative mild <end>
+516_IM-2130-1001.dcm0	<start> calcified_granuloma lung hilum right <end>
+516_IM-2130-1001.dcm1	<start> calcified_granuloma lung hilum right <end>
+516_IM-2130-1001.dcm2	<start> calcified_granuloma lung hilum right <end>
+516_IM-2130-1001.dcm3	<start> calcified_granuloma lung hilum right <end>
+516_IM-2130-1001.dcm4	<start> calcified_granuloma lung hilum right <end>
+513_IM-2128-1001.dcm0	<start> cardiac_shadow enlarged cardiomegaly heart_atria bilateral <end>
+513_IM-2128-1001.dcm1	<start> cardiac_shadow enlarged cardiomegaly heart_atria bilateral <end>
+513_IM-2128-1001.dcm2	<start> cardiac_shadow enlarged cardiomegaly heart_atria bilateral <end>
+513_IM-2128-1001.dcm3	<start> cardiac_shadow enlarged cardiomegaly heart_atria bilateral <end>
+508_IM-2125-1001.dcm0	<start> normal <end>
+515_IM-2129-1001.dcm0	<start> normal <end>
+517_IM-2130-2002.dcm0	<start> calcinosis lung base right granuloma <end>
+517_IM-2130-2002.dcm1	<start> calcinosis lung base right granuloma <end>
+517_IM-2130-2002.dcm2	<start> calcinosis lung base right granuloma <end>
+517_IM-2130-2002.dcm3	<start> calcinosis lung base right granuloma <end>
+514_IM-2129-2001.dcm0	<start> normal <end>
+521_IM-2132-4004.dcm0	<start> lung_hypoinflation markings_bronchovascular <end>
+521_IM-2132-4004.dcm1	<start> lung_hypoinflation markings_bronchovascular <end>
+521_IM-2132-4004.dcm2	<start> lung_hypoinflation markings_bronchovascular <end>
+521_IM-2132-4004.dcm3	<start> lung_hypoinflation markings_bronchovascular <end>
+521_IM-2132-4004.dcm4	<start> lung_hypoinflation markings_bronchovascular <end>
+52_IM-2131-1001.dcm0	<start> normal <end>
+520_IM-2131-1001.dcm0	<start> density mediastinum fractures_bone ribs healed <end>
+520_IM-2131-1001.dcm1	<start> density mediastinum fractures_bone ribs healed <end>
+520_IM-2131-1001.dcm2	<start> density mediastinum fractures_bone ribs healed <end>
+520_IM-2131-1001.dcm3	<start> density mediastinum fractures_bone ribs healed <end>
+520_IM-2131-1001.dcm4	<start> density mediastinum fractures_bone ribs healed <end>
+520_IM-2131-1001.dcm5	<start> density mediastinum fractures_bone ribs healed <end>
+520_IM-2131-1001.dcm6	<start> density mediastinum fractures_bone ribs healed <end>
+520_IM-2131-1001.dcm7	<start> density mediastinum fractures_bone ribs healed <end>
+520_IM-2131-1001.dcm8	<start> density mediastinum fractures_bone ribs healed <end>
+520_IM-2131-1001.dcm9	<start> density mediastinum fractures_bone ribs healed <end>
+520_IM-2131-1001.dcm10	<start> density mediastinum fractures_bone ribs healed <end>
+520_IM-2131-1001.dcm11	<start> density mediastinum fractures_bone ribs healed <end>
+519_IM-2131-1001.dcm0	<start> normal <end>
+519_IM-2131-2001.dcm0	<start> normal <end>
+522_IM-2133-1002001.dcm0	<start> arthritis atherosclerosis aorta cicatrix cardiophrenic_angle <end>
+522_IM-2133-1002001.dcm1	<start> arthritis atherosclerosis aorta cicatrix cardiophrenic_angle <end>
+522_IM-2133-1002001.dcm2	<start> arthritis atherosclerosis aorta cicatrix cardiophrenic_angle <end>
+522_IM-2133-1002001.dcm3	<start> arthritis atherosclerosis aorta cicatrix cardiophrenic_angle <end>
+522_IM-2133-1002001.dcm4	<start> arthritis atherosclerosis aorta cicatrix cardiophrenic_angle <end>
+522_IM-2133-1002001.dcm5	<start> arthritis atherosclerosis aorta cicatrix cardiophrenic_angle <end>
+522_IM-2133-1002001.dcm6	<start> arthritis atherosclerosis aorta cicatrix cardiophrenic_angle <end>
+522_IM-2133-1002001.dcm7	<start> arthritis atherosclerosis aorta cicatrix cardiophrenic_angle <end>
+522_IM-2133-1002001.dcm8	<start> arthritis atherosclerosis aorta cicatrix cardiophrenic_angle <end>
+522_IM-2133-1002001.dcm9	<start> arthritis atherosclerosis aorta cicatrix cardiophrenic_angle <end>
+522_IM-2133-1002001.dcm10	<start> arthritis atherosclerosis aorta cicatrix cardiophrenic_angle <end>
+492_IM-2112-2002.dcm0	<start> normal <end>
+525_IM-2136-1001.dcm0	<start> aorta_tortuous mild deformity ribs right <end>
+525_IM-2136-1001.dcm1	<start> aorta_tortuous mild deformity ribs right <end>
+525_IM-2136-1001.dcm2	<start> aorta_tortuous mild deformity ribs right <end>
+525_IM-2136-1001.dcm3	<start> aorta_tortuous mild deformity ribs right <end>
+525_IM-2136-1001.dcm4	<start> aorta_tortuous mild deformity ribs right <end>
+525_IM-2136-1001.dcm5	<start> aorta_tortuous mild deformity ribs right <end>
+525_IM-2136-1001.dcm6	<start> aorta_tortuous mild deformity ribs right <end>
+525_IM-2136-1001.dcm7	<start> aorta_tortuous mild deformity ribs right <end>
+525_IM-2136-1001.dcm8	<start> aorta_tortuous mild deformity ribs right <end>
+529_IM-2137-1001.dcm0	<start> normal <end>
+53_IM-2138-1001.dcm0	<start> lung_hypoinflation severe opacity lung base <end>
+53_IM-2138-1001.dcm1	<start> lung_hypoinflation severe opacity lung base <end>
+53_IM-2138-1001.dcm2	<start> lung_hypoinflation severe opacity lung base <end>
+53_IM-2138-1001.dcm3	<start> lung_hypoinflation severe opacity lung base <end>
+53_IM-2138-1001.dcm4	<start> lung_hypoinflation severe opacity lung base <end>
+530_IM-2139-1001.dcm0	<start> cardiomegaly mild <end>
+530_IM-2139-1001.dcm1	<start> cardiomegaly mild <end>
+530_IM-2139-1001.dcm2	<start> cardiomegaly mild <end>
+530_IM-2139-1001.dcm3	<start> cardiomegaly mild <end>
+532_IM-2140-1001.dcm0	<start> normal <end>
+535_IM-2142-1001.dcm0	<start> calcinosis lung hilum lymph_nodes cicatrix <end>
+535_IM-2142-1001.dcm1	<start> calcinosis lung hilum lymph_nodes cicatrix <end>
+535_IM-2142-1001.dcm2	<start> calcinosis lung hilum lymph_nodes cicatrix <end>
+535_IM-2142-1001.dcm3	<start> calcinosis lung hilum lymph_nodes cicatrix <end>
+536_IM-2143-1001.dcm0	<start> normal <end>
+534_IM-2141-1001.dcm0	<start> cicatrix lung upper_lobe hilum left <end>
+534_IM-2141-1001.dcm1	<start> cicatrix lung upper_lobe hilum left <end>
+534_IM-2141-1001.dcm2	<start> cicatrix lung upper_lobe hilum left <end>
+534_IM-2141-1001.dcm3	<start> cicatrix lung upper_lobe hilum left <end>
+534_IM-2141-1001.dcm4	<start> cicatrix lung upper_lobe hilum left <end>
+534_IM-2141-1001.dcm5	<start> cicatrix lung upper_lobe hilum left <end>
+534_IM-2141-1001.dcm6	<start> cicatrix lung upper_lobe hilum left <end>
+537_IM-2143-1001.dcm0	<start> calcified_granuloma scattered <end>
+537_IM-2143-1001.dcm1	<start> calcified_granuloma scattered <end>
+537_IM-2143-1001.dcm2	<start> calcified_granuloma scattered <end>
+537_IM-2143-1001.dcm3	<start> calcified_granuloma scattered <end>
+537_IM-2143-1001.dcm4	<start> calcified_granuloma scattered <end>
+539_IM-2145-1001.dcm0	<start> normal <end>
+518_IM-2131-1001.dcm0	<start> normal <end>
+543_IM-2148-1001.dcm0	<start> normal <end>
+538_IM-2144-4004.dcm0	<start> normal <end>
+544_IM-2148-1001.dcm0	<start> normal <end>
+54_IM-2145-1001.dcm0	<start> aorta_thoracic tortuous calcified_granuloma scattered pulmonary_atelectasis <end>
+54_IM-2145-1001.dcm1	<start> aorta_thoracic tortuous calcified_granuloma scattered pulmonary_atelectasis <end>
+54_IM-2145-1001.dcm2	<start> aorta_thoracic tortuous calcified_granuloma scattered pulmonary_atelectasis <end>
+54_IM-2145-1001.dcm3	<start> aorta_thoracic tortuous calcified_granuloma scattered pulmonary_atelectasis <end>
+54_IM-2145-1001.dcm4	<start> aorta_thoracic tortuous calcified_granuloma scattered pulmonary_atelectasis <end>
+548_IM-2152-1001.dcm0	<start> cicatrix lung apex right <end>
+548_IM-2152-1001.dcm1	<start> cicatrix lung apex right <end>
+548_IM-2152-1001.dcm2	<start> cicatrix lung apex right <end>
+548_IM-2152-1001.dcm3	<start> cicatrix lung apex right <end>
+548_IM-2152-1001.dcm4	<start> cicatrix lung apex right <end>
+548_IM-2152-1001.dcm5	<start> cicatrix lung apex right <end>
+548_IM-2152-1001.dcm6	<start> cicatrix lung apex right <end>
+549_IM-2153-1001.dcm0	<start> cicatrix lung apex right mild <end>
+549_IM-2153-1001.dcm1	<start> cicatrix lung apex right mild <end>
+549_IM-2153-1001.dcm2	<start> cicatrix lung apex right mild <end>
+549_IM-2153-1001.dcm3	<start> cicatrix lung apex right mild <end>
+549_IM-2153-1001.dcm4	<start> cicatrix lung apex right mild <end>
+549_IM-2153-1001.dcm5	<start> cicatrix lung apex right mild <end>
+549_IM-2153-1001.dcm6	<start> cicatrix lung apex right mild <end>
+55_IM-2154-1001.dcm0	<start> lung_hypoinflation <end>
+55_IM-2154-1001.dcm1	<start> lung_hypoinflation <end>
+55_IM-2154-1001.dcm2	<start> lung_hypoinflation <end>
+55_IM-2154-1001.dcm3	<start> lung_hypoinflation <end>
+55_IM-2154-1001.dcm4	<start> lung_hypoinflation <end>
+545_IM-2149-1001.dcm0	<start> hernia_hiatal lung_hypoinflation opacity lung base <end>
+545_IM-2149-1001.dcm1	<start> hernia_hiatal lung_hypoinflation opacity lung base <end>
+545_IM-2149-1001.dcm2	<start> hernia_hiatal lung_hypoinflation opacity lung base <end>
+545_IM-2149-1001.dcm3	<start> hernia_hiatal lung_hypoinflation opacity lung base <end>
+545_IM-2149-1001.dcm4	<start> hernia_hiatal lung_hypoinflation opacity lung base <end>
+552_IM-2155-1001.dcm0	<start> calcified_granuloma lung apex right osteophyte <end>
+552_IM-2155-1001.dcm1	<start> calcified_granuloma lung apex right osteophyte <end>
+552_IM-2155-1001.dcm2	<start> calcified_granuloma lung apex right osteophyte <end>
+552_IM-2155-1001.dcm3	<start> calcified_granuloma lung apex right osteophyte <end>
+552_IM-2155-1001.dcm4	<start> calcified_granuloma lung apex right osteophyte <end>
+550_IM-2154-1001.dcm0	<start> normal <end>
+554_IM-2155-1001.dcm0	<start> normal <end>
+553_IM-2155-2001.dcm0	<start> calcified_granuloma scattered lung_hyperdistention spine_degenerative <end>
+553_IM-2155-2001.dcm1	<start> calcified_granuloma scattered lung_hyperdistention spine_degenerative <end>
+553_IM-2155-2001.dcm2	<start> calcified_granuloma scattered lung_hyperdistention spine_degenerative <end>
+553_IM-2155-2001.dcm3	<start> calcified_granuloma scattered lung_hyperdistention spine_degenerative <end>
+553_IM-2155-2001.dcm4	<start> calcified_granuloma scattered lung_hyperdistention spine_degenerative <end>
+51_IM-2125-1001.dcm0	<start> calcified_granuloma lung bilateral scattered <end>
+51_IM-2125-1001.dcm1	<start> calcified_granuloma lung bilateral scattered <end>
+51_IM-2125-1001.dcm2	<start> calcified_granuloma lung bilateral scattered <end>
+51_IM-2125-1001.dcm3	<start> calcified_granuloma lung bilateral scattered <end>
+51_IM-2125-1001.dcm4	<start> calcified_granuloma lung bilateral scattered <end>
+527_IM-2137-1001.dcm0	<start> normal <end>
+556_IM-2156-1001-0002.dcm0	<start> normal <end>
+559_IM-2159-1001.dcm0	<start> normal <end>
+558_IM-2158-0001-0001.dcm0	<start> calcified_granuloma scattered multiple <end>
+558_IM-2158-0001-0001.dcm1	<start> calcified_granuloma scattered multiple <end>
+558_IM-2158-0001-0001.dcm2	<start> calcified_granuloma scattered multiple <end>
+558_IM-2158-0001-0001.dcm3	<start> calcified_granuloma scattered multiple <end>
+558_IM-2158-0001-0001.dcm4	<start> calcified_granuloma scattered multiple <end>
+56_IM-2160-2002.dcm0	<start> normal <end>
+560_IM-2161-1001.dcm0	<start> normal <end>
+563_IM-2164-1001.dcm0	<start> normal <end>
+557_IM-2157-2001.dcm0	<start> normal <end>
+565_IM-2166-1001.dcm0	<start> normal <end>
+567_IM-2167-1001.dcm0	<start> pulmonary_atelectasis middle_lobe right mild spine_degenerative <end>
+567_IM-2167-1001.dcm1	<start> pulmonary_atelectasis middle_lobe right mild spine_degenerative <end>
+567_IM-2167-1001.dcm2	<start> pulmonary_atelectasis middle_lobe right mild spine_degenerative <end>
+567_IM-2167-1001.dcm3	<start> pulmonary_atelectasis middle_lobe right mild spine_degenerative <end>
+569_IM-2169-0001-0002.dcm0	<start> density lung base right diaphragm_left <end>
+569_IM-2169-0001-0002.dcm1	<start> density lung base right diaphragm_left <end>
+569_IM-2169-0001-0002.dcm2	<start> density lung base right diaphragm_left <end>
+569_IM-2169-0001-0002.dcm3	<start> density lung base right diaphragm_left <end>
+569_IM-2169-0001-0002.dcm4	<start> density lung base right diaphragm_left <end>
+569_IM-2169-0001-0002.dcm5	<start> density lung base right diaphragm_left <end>
+569_IM-2169-0001-0002.dcm6	<start> density lung base right diaphragm_left <end>
+569_IM-2169-0001-0002.dcm7	<start> density lung base right diaphragm_left <end>
+569_IM-2169-0001-0002.dcm8	<start> density lung base right diaphragm_left <end>
+569_IM-2169-0001-0002.dcm9	<start> density lung base right diaphragm_left <end>
+569_IM-2169-0001-0002.dcm10	<start> density lung base right diaphragm_left <end>
+569_IM-2169-0001-0002.dcm11	<start> density lung base right diaphragm_left <end>
+570_IM-2170-1001.dcm0	<start> normal <end>
+568_IM-2168-1001.dcm0	<start> aorta_tortuous bone_diseases_metabolic calcinosis lung hilum <end>
+568_IM-2168-1001.dcm1	<start> aorta_tortuous bone_diseases_metabolic calcinosis lung hilum <end>
+568_IM-2168-1001.dcm2	<start> aorta_tortuous bone_diseases_metabolic calcinosis lung hilum <end>
+568_IM-2168-1001.dcm3	<start> aorta_tortuous bone_diseases_metabolic calcinosis lung hilum <end>
+568_IM-2168-1001.dcm4	<start> aorta_tortuous bone_diseases_metabolic calcinosis lung hilum <end>
+568_IM-2168-1001.dcm5	<start> aorta_tortuous bone_diseases_metabolic calcinosis lung hilum <end>
+568_IM-2168-1001.dcm6	<start> aorta_tortuous bone_diseases_metabolic calcinosis lung hilum <end>
+568_IM-2168-1001.dcm7	<start> aorta_tortuous bone_diseases_metabolic calcinosis lung hilum <end>
+568_IM-2168-1001.dcm8	<start> aorta_tortuous bone_diseases_metabolic calcinosis lung hilum <end>
+571_IM-2170-1001.dcm0	<start> normal <end>
+572_IM-2170-1001.dcm0	<start> normal <end>
+57_IM-2170-1001-0002.dcm0	<start> opacity lung bilateral interstitial diffuse <end>
+57_IM-2170-1001-0002.dcm1	<start> opacity lung bilateral interstitial diffuse <end>
+57_IM-2170-1001-0002.dcm2	<start> opacity lung bilateral interstitial diffuse <end>
+573_IM-2171-12012.dcm0	<start> opacity lung base bilateral streaky <end>
+573_IM-2171-12012.dcm1	<start> opacity lung base bilateral streaky <end>
+573_IM-2171-12012.dcm2	<start> opacity lung base bilateral streaky <end>
+573_IM-2171-4004.dcm0	<start> opacity lung base bilateral streaky <end>
+573_IM-2171-4004.dcm1	<start> opacity lung base bilateral streaky <end>
+573_IM-2171-4004.dcm2	<start> opacity lung base bilateral streaky <end>
+562_IM-2163-1001.dcm0	<start> normal <end>
+576_IM-2174-1001.dcm0	<start> aorta_thoracic tortuous cardiomegaly lung_hypoinflation pleural_effusion <end>
+576_IM-2174-1001.dcm1	<start> aorta_thoracic tortuous cardiomegaly lung_hypoinflation pleural_effusion <end>
+576_IM-2174-1001.dcm2	<start> aorta_thoracic tortuous cardiomegaly lung_hypoinflation pleural_effusion <end>
+576_IM-2174-1001.dcm3	<start> aorta_thoracic tortuous cardiomegaly lung_hypoinflation pleural_effusion <end>
+575_IM-2173-1001.dcm0	<start> calcified_granuloma lung left <end>
+575_IM-2173-1001.dcm1	<start> calcified_granuloma lung left <end>
+575_IM-2173-1001.dcm2	<start> calcified_granuloma lung left <end>
+575_IM-2173-1001.dcm3	<start> calcified_granuloma lung left <end>
+575_IM-2173-1001.dcm4	<start> calcified_granuloma lung left <end>
+578_IM-2176-1001.dcm0	<start> granulomatous_disease <end>
+578_IM-2176-1001.dcm1	<start> granulomatous_disease <end>
+578_IM-2176-1001.dcm2	<start> granulomatous_disease <end>
+578_IM-2176-1001.dcm3	<start> granulomatous_disease <end>
+578_IM-2176-1001.dcm4	<start> granulomatous_disease <end>
+578_IM-2176-1001.dcm5	<start> granulomatous_disease <end>
+578_IM-2176-1001.dcm6	<start> granulomatous_disease <end>
+578_IM-2176-1001.dcm7	<start> granulomatous_disease <end>
+578_IM-2176-1001.dcm8	<start> granulomatous_disease <end>
+578_IM-2176-1001.dcm9	<start> granulomatous_disease <end>
+578_IM-2176-1001.dcm10	<start> granulomatous_disease <end>
+578_IM-2176-1001.dcm11	<start> granulomatous_disease <end>
+579_IM-2176-1001.dcm0	<start> normal <end>
+581_IM-2178-1001.dcm0	<start> normal <end>
+582_IM-2179-1001.dcm0	<start> normal <end>
+584_IM-2181-1001.dcm0	<start> normal <end>
+585_IM-2181-1001.dcm0	<start> atherosclerosis aorta cicatrix costophrenic_angle sulcus <end>
+585_IM-2181-1001.dcm1	<start> atherosclerosis aorta cicatrix costophrenic_angle sulcus <end>
+585_IM-2181-1001.dcm2	<start> atherosclerosis aorta cicatrix costophrenic_angle sulcus <end>
+585_IM-2181-1001.dcm3	<start> atherosclerosis aorta cicatrix costophrenic_angle sulcus <end>
+585_IM-2181-1001.dcm4	<start> atherosclerosis aorta cicatrix costophrenic_angle sulcus <end>
+585_IM-2181-1001.dcm5	<start> atherosclerosis aorta cicatrix costophrenic_angle sulcus <end>
+585_IM-2181-1001.dcm6	<start> atherosclerosis aorta cicatrix costophrenic_angle sulcus <end>
+585_IM-2181-1001.dcm7	<start> atherosclerosis aorta cicatrix costophrenic_angle sulcus <end>
+585_IM-2181-1001.dcm8	<start> atherosclerosis aorta cicatrix costophrenic_angle sulcus <end>
+585_IM-2181-1001.dcm9	<start> atherosclerosis aorta cicatrix costophrenic_angle sulcus <end>
+585_IM-2181-1001.dcm10	<start> atherosclerosis aorta cicatrix costophrenic_angle sulcus <end>
+583_IM-2180-1001.dcm0	<start> calcinosis lung hilum lymph_nodes right <end>
+583_IM-2180-1001.dcm1	<start> calcinosis lung hilum lymph_nodes right <end>
+583_IM-2180-1001.dcm2	<start> calcinosis lung hilum lymph_nodes right <end>
+583_IM-2180-1001.dcm3	<start> calcinosis lung hilum lymph_nodes right <end>
+577_IM-2175-1001.dcm0	<start> normal <end>
+588_IM-2183-1001.dcm0	<start> normal <end>
+551_IM-2154-1001.dcm0	<start> diaphragm_flattened lung_hyperdistention pulmonary_emphysema <end>
+551_IM-2154-1001.dcm1	<start> diaphragm_flattened lung_hyperdistention pulmonary_emphysema <end>
+551_IM-2154-1001.dcm2	<start> diaphragm_flattened lung_hyperdistention pulmonary_emphysema <end>
+551_IM-2154-1001.dcm3	<start> diaphragm_flattened lung_hyperdistention pulmonary_emphysema <end>
+551_IM-2154-1001.dcm4	<start> diaphragm_flattened lung_hyperdistention pulmonary_emphysema <end>
+551_IM-2154-1001.dcm5	<start> diaphragm_flattened lung_hyperdistention pulmonary_emphysema <end>
+593_IM-2186-1001.dcm0	<start> aorta_tortuous calcinosis aorta cardiomegaly mild <end>
+593_IM-2186-1001.dcm1	<start> aorta_tortuous calcinosis aorta cardiomegaly mild <end>
+593_IM-2186-1001.dcm2	<start> aorta_tortuous calcinosis aorta cardiomegaly mild <end>
+593_IM-2186-1001.dcm3	<start> aorta_tortuous calcinosis aorta cardiomegaly mild <end>
+593_IM-2186-1001.dcm4	<start> aorta_tortuous calcinosis aorta cardiomegaly mild <end>
+593_IM-2186-1001.dcm5	<start> aorta_tortuous calcinosis aorta cardiomegaly mild <end>
+593_IM-2186-1001.dcm6	<start> aorta_tortuous calcinosis aorta cardiomegaly mild <end>
+593_IM-2186-1001.dcm7	<start> aorta_tortuous calcinosis aorta cardiomegaly mild <end>
+593_IM-2186-1001.dcm8	<start> aorta_tortuous calcinosis aorta cardiomegaly mild <end>
+589_IM-2183-1001.dcm0	<start> normal <end>
+595_IM-2187-1001.dcm0	<start> normal <end>
+596_IM-2188-26001.dcm0	<start> catheters_indwelling right <end>
+596_IM-2188-26001.dcm1	<start> catheters_indwelling right <end>
+596_IM-2188-26001.dcm2	<start> catheters_indwelling right <end>
+596_IM-2188-26001.dcm3	<start> catheters_indwelling right <end>
+596_IM-2188-26001.dcm4	<start> catheters_indwelling right <end>
+596_IM-2188-26001.dcm5	<start> catheters_indwelling right <end>
+596_IM-2188-26001.dcm6	<start> catheters_indwelling right <end>
+596_IM-2188-26001.dcm7	<start> catheters_indwelling right <end>
+596_IM-2188-26001.dcm8	<start> catheters_indwelling right <end>
+596_IM-2188-26001.dcm9	<start> catheters_indwelling right <end>
+596_IM-2188-26001.dcm10	<start> catheters_indwelling right <end>
+596_IM-2188-26001.dcm11	<start> catheters_indwelling right <end>
+594_IM-2187-1001.dcm0	<start> cardiomegaly borderline deformity thoracic_vertebrae opacity <end>
+594_IM-2187-1001.dcm1	<start> cardiomegaly borderline deformity thoracic_vertebrae opacity <end>
+594_IM-2187-1001.dcm2	<start> cardiomegaly borderline deformity thoracic_vertebrae opacity <end>
+594_IM-2187-1001.dcm3	<start> cardiomegaly borderline deformity thoracic_vertebrae opacity <end>
+599_IM-2191-1001.dcm0	<start> aorta_tortuous mild <end>
+599_IM-2191-1001.dcm1	<start> aorta_tortuous mild <end>
+599_IM-2191-1001.dcm2	<start> aorta_tortuous mild <end>
+599_IM-2191-1001.dcm3	<start> aorta_tortuous mild <end>
+599_IM-2191-1001.dcm4	<start> aorta_tortuous mild <end>
+599_IM-2191-1001.dcm5	<start> aorta_tortuous mild <end>
+599_IM-2191-1001.dcm6	<start> aorta_tortuous mild <end>
+599_IM-2191-1001.dcm7	<start> aorta_tortuous mild <end>
+599_IM-2191-1001.dcm8	<start> aorta_tortuous mild <end>
+6_IM-2192-1001.dcm0	<start> normal <end>
+586_IM-2182-1001.dcm0	<start> atherosclerosis severe cardiomegaly moderate opacity <end>
+586_IM-2182-1001.dcm1	<start> atherosclerosis severe cardiomegaly moderate opacity <end>
+586_IM-2182-1001.dcm2	<start> atherosclerosis severe cardiomegaly moderate opacity <end>
+586_IM-2182-1001.dcm3	<start> atherosclerosis severe cardiomegaly moderate opacity <end>
+586_IM-2182-1001.dcm4	<start> atherosclerosis severe cardiomegaly moderate opacity <end>
+586_IM-2182-1001.dcm5	<start> atherosclerosis severe cardiomegaly moderate opacity <end>
+586_IM-2182-1001.dcm6	<start> atherosclerosis severe cardiomegaly moderate opacity <end>
+586_IM-2182-1001.dcm7	<start> atherosclerosis severe cardiomegaly moderate opacity <end>
+586_IM-2182-1001.dcm8	<start> atherosclerosis severe cardiomegaly moderate opacity <end>
+586_IM-2182-1001.dcm9	<start> atherosclerosis severe cardiomegaly moderate opacity <end>
+586_IM-2182-1001.dcm10	<start> atherosclerosis severe cardiomegaly moderate opacity <end>
+603_IM-2193-1001.dcm0	<start> calcinosis lung hilum right <end>
+603_IM-2193-1001.dcm1	<start> calcinosis lung hilum right <end>
+603_IM-2193-1001.dcm2	<start> calcinosis lung hilum right <end>
+603_IM-2193-1001.dcm3	<start> calcinosis lung hilum right <end>
+600_IM-2192-1001.dcm0	<start> calcified_granuloma lung hilum left calcinosis <end>
+600_IM-2192-1001.dcm1	<start> calcified_granuloma lung hilum left calcinosis <end>
+600_IM-2192-1001.dcm2	<start> calcified_granuloma lung hilum left calcinosis <end>
+600_IM-2192-1001.dcm3	<start> calcified_granuloma lung hilum left calcinosis <end>
+600_IM-2192-1001.dcm4	<start> calcified_granuloma lung hilum left calcinosis <end>
+602_IM-2192-1001.dcm0	<start> normal <end>
+60_IM-2192-1001.dcm0	<start> density lung lower_lobe left round <end>
+60_IM-2192-1001.dcm1	<start> density lung lower_lobe left round <end>
+60_IM-2192-1001.dcm2	<start> density lung lower_lobe left round <end>
+60_IM-2192-1001.dcm3	<start> density lung lower_lobe left round <end>
+60_IM-2192-1001.dcm4	<start> density lung lower_lobe left round <end>
+60_IM-2192-1001.dcm5	<start> density lung lower_lobe left round <end>
+60_IM-2192-1001.dcm6	<start> density lung lower_lobe left round <end>
+60_IM-2192-1001.dcm7	<start> density lung lower_lobe left round <end>
+60_IM-2192-1001.dcm8	<start> density lung lower_lobe left round <end>
+60_IM-2192-1001.dcm9	<start> density lung lower_lobe left round <end>
+60_IM-2192-1001.dcm10	<start> density lung lower_lobe left round <end>
+60_IM-2192-1001.dcm11	<start> density lung lower_lobe left round <end>
+546_IM-2150-1001.dcm0	<start> pleural_effusion bilateral small <end>
+546_IM-2150-1001.dcm1	<start> pleural_effusion bilateral small <end>
+546_IM-2150-1001.dcm2	<start> pleural_effusion bilateral small <end>
+546_IM-2150-1001.dcm3	<start> pleural_effusion bilateral small <end>
+546_IM-2150-1001.dcm4	<start> pleural_effusion bilateral small <end>
+546_IM-2150-1001.dcm5	<start> pleural_effusion bilateral small <end>
+546_IM-2150-1001.dcm6	<start> pleural_effusion bilateral small <end>
+546_IM-2150-1001.dcm7	<start> pleural_effusion bilateral small <end>
+546_IM-2150-1001.dcm8	<start> pleural_effusion bilateral small <end>
+607_IM-2196-1001.dcm0	<start> calcinosis lung bilateral scattered nodule <end>
+607_IM-2196-1001.dcm1	<start> calcinosis lung bilateral scattered nodule <end>
+607_IM-2196-1001.dcm2	<start> calcinosis lung bilateral scattered nodule <end>
+607_IM-2196-1001.dcm3	<start> calcinosis lung bilateral scattered nodule <end>
+591_IM-2186-1001.dcm0	<start> calcified_granuloma lung base left deformity <end>
+591_IM-2186-1001.dcm1	<start> calcified_granuloma lung base left deformity <end>
+591_IM-2186-1001.dcm2	<start> calcified_granuloma lung base left deformity <end>
+591_IM-2186-1001.dcm3	<start> calcified_granuloma lung base left deformity <end>
+591_IM-2186-1001.dcm4	<start> calcified_granuloma lung base left deformity <end>
+609_IM-2197-1001.dcm0	<start> normal <end>
+580_IM-2177-2002.dcm0	<start> atherosclerosis aorta <end>
+580_IM-2177-2002.dcm1	<start> atherosclerosis aorta <end>
+580_IM-2177-2002.dcm2	<start> atherosclerosis aorta <end>
+580_IM-2177-2002.dcm3	<start> atherosclerosis aorta <end>
+580_IM-2177-2002.dcm4	<start> atherosclerosis aorta <end>
+580_IM-2177-2002.dcm5	<start> atherosclerosis aorta <end>
+580_IM-2177-2002.dcm6	<start> atherosclerosis aorta <end>
+580_IM-2177-2002.dcm7	<start> atherosclerosis aorta <end>
+580_IM-2177-2002.dcm8	<start> atherosclerosis aorta <end>
+580_IM-2177-2002.dcm9	<start> atherosclerosis aorta <end>
+580_IM-2177-2002.dcm10	<start> atherosclerosis aorta <end>
+611_IM-2198-1001.dcm0	<start> lung_hypoinflation markings_bronchovascular <end>
+611_IM-2198-1001.dcm1	<start> lung_hypoinflation markings_bronchovascular <end>
+611_IM-2198-1001.dcm2	<start> lung_hypoinflation markings_bronchovascular <end>
+611_IM-2198-1001.dcm3	<start> lung_hypoinflation markings_bronchovascular <end>
+611_IM-2198-1001.dcm4	<start> lung_hypoinflation markings_bronchovascular <end>
+615_IM-2200-1001.dcm0	<start> calcified_granuloma scattered granulomatous_disease <end>
+615_IM-2200-1001.dcm1	<start> calcified_granuloma scattered granulomatous_disease <end>
+615_IM-2200-1001.dcm2	<start> calcified_granuloma scattered granulomatous_disease <end>
+615_IM-2200-1001.dcm3	<start> calcified_granuloma scattered granulomatous_disease <end>
+615_IM-2200-1001.dcm4	<start> calcified_granuloma scattered granulomatous_disease <end>
+614_IM-2200-4001.dcm0	<start> normal <end>
+612_IM-2199-1001.dcm0	<start> cardiomegaly infiltrate lung base bilateral <end>
+612_IM-2199-1001.dcm1	<start> cardiomegaly infiltrate lung base bilateral <end>
+612_IM-2199-1001.dcm2	<start> cardiomegaly infiltrate lung base bilateral <end>
+612_IM-2199-1001.dcm3	<start> cardiomegaly infiltrate lung base bilateral <end>
+618_IM-2201-1001.dcm0	<start> normal <end>
+604_IM-2193-1001.dcm0	<start> catheters_indwelling right <end>
+604_IM-2193-1001.dcm1	<start> catheters_indwelling right <end>
+604_IM-2193-1001.dcm2	<start> catheters_indwelling right <end>
+604_IM-2193-1001.dcm3	<start> catheters_indwelling right <end>
+604_IM-2193-1001.dcm4	<start> catheters_indwelling right <end>
+604_IM-2193-1001.dcm5	<start> catheters_indwelling right <end>
+604_IM-2193-1001.dcm6	<start> catheters_indwelling right <end>
+604_IM-2193-1001.dcm7	<start> catheters_indwelling right <end>
+604_IM-2193-1001.dcm8	<start> catheters_indwelling right <end>
+604_IM-2193-1001.dcm9	<start> catheters_indwelling right <end>
+604_IM-2193-1001.dcm10	<start> catheters_indwelling right <end>
+604_IM-2193-1001.dcm11	<start> catheters_indwelling right <end>
+619_IM-2202-1002.dcm0	<start> aorta_tortuous cardiomegaly <end>
+619_IM-2202-1002.dcm1	<start> aorta_tortuous cardiomegaly <end>
+619_IM-2202-1002.dcm2	<start> aorta_tortuous cardiomegaly <end>
+619_IM-2202-1002.dcm3	<start> aorta_tortuous cardiomegaly <end>
+619_IM-2202-1002.dcm4	<start> aorta_tortuous cardiomegaly <end>
+619_IM-2202-1002.dcm5	<start> aorta_tortuous cardiomegaly <end>
+619_IM-2202-1002.dcm6	<start> aorta_tortuous cardiomegaly <end>
+619_IM-2202-1002.dcm7	<start> aorta_tortuous cardiomegaly <end>
+619_IM-2202-1002.dcm8	<start> aorta_tortuous cardiomegaly <end>
+617_IM-2200-1001.dcm0	<start> spine_degenerative <end>
+617_IM-2200-1001.dcm1	<start> spine_degenerative <end>
+617_IM-2200-1001.dcm2	<start> spine_degenerative <end>
+617_IM-2200-1001.dcm3	<start> spine_degenerative <end>
+617_IM-2200-1001.dcm4	<start> spine_degenerative <end>
+617_IM-2200-1001.dcm5	<start> spine_degenerative <end>
+617_IM-2200-1001.dcm6	<start> spine_degenerative <end>
+617_IM-2200-1001.dcm7	<start> spine_degenerative <end>
+622_IM-2204-1001.dcm0	<start> normal <end>
+621_IM-2203-1001.dcm0	<start> spine_degenerative mild <end>
+621_IM-2203-1001.dcm1	<start> spine_degenerative mild <end>
+621_IM-2203-1001.dcm2	<start> spine_degenerative mild <end>
+621_IM-2203-1001.dcm3	<start> spine_degenerative mild <end>
+621_IM-2203-1001.dcm4	<start> spine_degenerative mild <end>
+621_IM-2203-1001.dcm5	<start> spine_degenerative mild <end>
+621_IM-2203-1001.dcm6	<start> spine_degenerative mild <end>
+621_IM-2203-1001.dcm7	<start> spine_degenerative mild <end>
+620_IM-2202-1001.dcm0	<start> cicatrix lung lower_lobe left thoracic_vertebrae_degenerative <end>
+620_IM-2202-1001.dcm1	<start> cicatrix lung lower_lobe left thoracic_vertebrae_degenerative <end>
+620_IM-2202-1001.dcm2	<start> cicatrix lung lower_lobe left thoracic_vertebrae_degenerative <end>
+620_IM-2202-1001.dcm3	<start> cicatrix lung lower_lobe left thoracic_vertebrae_degenerative <end>
+620_IM-2202-1001.dcm4	<start> cicatrix lung lower_lobe left thoracic_vertebrae_degenerative <end>
+620_IM-2202-1001.dcm5	<start> cicatrix lung lower_lobe left thoracic_vertebrae_degenerative <end>
+620_IM-2202-1001.dcm6	<start> cicatrix lung lower_lobe left thoracic_vertebrae_degenerative <end>
+627_IM-2207-1001.dcm0	<start> atherosclerosis aorta_thoracic cardiomegaly pulmonary_congestion <end>
+627_IM-2207-1001.dcm1	<start> atherosclerosis aorta_thoracic cardiomegaly pulmonary_congestion <end>
+627_IM-2207-1001.dcm2	<start> atherosclerosis aorta_thoracic cardiomegaly pulmonary_congestion <end>
+627_IM-2207-1001.dcm3	<start> atherosclerosis aorta_thoracic cardiomegaly pulmonary_congestion <end>
+627_IM-2207-1001.dcm4	<start> atherosclerosis aorta_thoracic cardiomegaly pulmonary_congestion <end>
+627_IM-2207-1001.dcm5	<start> atherosclerosis aorta_thoracic cardiomegaly pulmonary_congestion <end>
+627_IM-2207-1001.dcm6	<start> atherosclerosis aorta_thoracic cardiomegaly pulmonary_congestion <end>
+627_IM-2207-1001.dcm7	<start> atherosclerosis aorta_thoracic cardiomegaly pulmonary_congestion <end>
+627_IM-2207-1001.dcm8	<start> atherosclerosis aorta_thoracic cardiomegaly pulmonary_congestion <end>
+627_IM-2207-1001.dcm9	<start> atherosclerosis aorta_thoracic cardiomegaly pulmonary_congestion <end>
+627_IM-2207-1001.dcm10	<start> atherosclerosis aorta_thoracic cardiomegaly pulmonary_congestion <end>
+610_IM-2197-1001.dcm0	<start> atherosclerosis aorta cardiomegaly severe shoulder <end>
+610_IM-2197-1001.dcm1	<start> atherosclerosis aorta cardiomegaly severe shoulder <end>
+610_IM-2197-1001.dcm2	<start> atherosclerosis aorta cardiomegaly severe shoulder <end>
+610_IM-2197-1001.dcm3	<start> atherosclerosis aorta cardiomegaly severe shoulder <end>
+610_IM-2197-1001.dcm4	<start> atherosclerosis aorta cardiomegaly severe shoulder <end>
+610_IM-2197-1001.dcm5	<start> atherosclerosis aorta cardiomegaly severe shoulder <end>
+610_IM-2197-1001.dcm6	<start> atherosclerosis aorta cardiomegaly severe shoulder <end>
+610_IM-2197-1001.dcm7	<start> atherosclerosis aorta cardiomegaly severe shoulder <end>
+610_IM-2197-1001.dcm8	<start> atherosclerosis aorta cardiomegaly severe shoulder <end>
+610_IM-2197-1001.dcm9	<start> atherosclerosis aorta cardiomegaly severe shoulder <end>
+610_IM-2197-1001.dcm10	<start> atherosclerosis aorta cardiomegaly severe shoulder <end>
+629_IM-2209-1001.dcm0	<start> normal <end>
+624_IM-2206-1001.dcm0	<start> diaphragm_flattened emphysema lung_hyperdistention scoliosis right <end>
+624_IM-2206-1001.dcm1	<start> diaphragm_flattened emphysema lung_hyperdistention scoliosis right <end>
+624_IM-2206-1001.dcm2	<start> diaphragm_flattened emphysema lung_hyperdistention scoliosis right <end>
+624_IM-2206-1001.dcm3	<start> diaphragm_flattened emphysema lung_hyperdistention scoliosis right <end>
+624_IM-2206-1001.dcm4	<start> diaphragm_flattened emphysema lung_hyperdistention scoliosis right <end>
+624_IM-2206-1001.dcm5	<start> diaphragm_flattened emphysema lung_hyperdistention scoliosis right <end>
+626_IM-2206-1001.dcm0	<start> normal <end>
+626_IM-2206-3001.dcm0	<start> normal <end>
+63_IM-2210-0001-0001.dcm0	<start> aorta_tortuous calcinosis spine diaphragm_posterior flattened <end>
+63_IM-2210-0001-0001.dcm1	<start> aorta_tortuous calcinosis spine diaphragm_posterior flattened <end>
+63_IM-2210-0001-0001.dcm2	<start> aorta_tortuous calcinosis spine diaphragm_posterior flattened <end>
+63_IM-2210-0001-0001.dcm3	<start> aorta_tortuous calcinosis spine diaphragm_posterior flattened <end>
+63_IM-2210-0001-0001.dcm4	<start> aorta_tortuous calcinosis spine diaphragm_posterior flattened <end>
+63_IM-2210-0001-0001.dcm5	<start> aorta_tortuous calcinosis spine diaphragm_posterior flattened <end>
+63_IM-2210-0001-0001.dcm6	<start> aorta_tortuous calcinosis spine diaphragm_posterior flattened <end>
+63_IM-2210-0001-0001.dcm7	<start> aorta_tortuous calcinosis spine diaphragm_posterior flattened <end>
+63_IM-2210-0001-0001.dcm8	<start> aorta_tortuous calcinosis spine diaphragm_posterior flattened <end>
+630_IM-2211-1001.dcm0	<start> normal <end>
+632_IM-2213-1001.dcm0	<start> normal <end>
+633_IM-2213-1001.dcm0	<start> spine_degenerative multiple <end>
+633_IM-2213-1001.dcm1	<start> spine_degenerative multiple <end>
+633_IM-2213-1001.dcm2	<start> spine_degenerative multiple <end>
+633_IM-2213-1001.dcm3	<start> spine_degenerative multiple <end>
+633_IM-2213-1001.dcm4	<start> spine_degenerative multiple <end>
+633_IM-2213-1001.dcm5	<start> spine_degenerative multiple <end>
+633_IM-2213-1001.dcm6	<start> spine_degenerative multiple <end>
+633_IM-2213-1001.dcm7	<start> spine_degenerative multiple <end>
+636_IM-2215-1001.dcm0	<start> granulomatous_disease pulmonary_atelectasis lower_lobe left <end>
+636_IM-2215-1001.dcm1	<start> granulomatous_disease pulmonary_atelectasis lower_lobe left <end>
+636_IM-2215-1001.dcm2	<start> granulomatous_disease pulmonary_atelectasis lower_lobe left <end>
+636_IM-2215-1001.dcm3	<start> granulomatous_disease pulmonary_atelectasis lower_lobe left <end>
+636_IM-2215-1001.dcm4	<start> granulomatous_disease pulmonary_atelectasis lower_lobe left <end>
+636_IM-2215-1001.dcm5	<start> granulomatous_disease pulmonary_atelectasis lower_lobe left <end>
+636_IM-2215-1001.dcm6	<start> granulomatous_disease pulmonary_atelectasis lower_lobe left <end>
+636_IM-2215-1001.dcm7	<start> granulomatous_disease pulmonary_atelectasis lower_lobe left <end>
+636_IM-2215-1001.dcm8	<start> granulomatous_disease pulmonary_atelectasis lower_lobe left <end>
+636_IM-2215-1001.dcm9	<start> granulomatous_disease pulmonary_atelectasis lower_lobe left <end>
+636_IM-2215-1001.dcm10	<start> granulomatous_disease pulmonary_atelectasis lower_lobe left <end>
+636_IM-2215-1001.dcm11	<start> granulomatous_disease pulmonary_atelectasis lower_lobe left <end>
+631_IM-2212-1001.dcm0	<start> catheters_indwelling right density ribs left <end>
+631_IM-2212-1001.dcm1	<start> catheters_indwelling right density ribs left <end>
+631_IM-2212-1001.dcm2	<start> catheters_indwelling right density ribs left <end>
+631_IM-2212-1001.dcm3	<start> catheters_indwelling right density ribs left <end>
+631_IM-2212-1001.dcm4	<start> catheters_indwelling right density ribs left <end>
+631_IM-2212-1001.dcm5	<start> catheters_indwelling right density ribs left <end>
+631_IM-2212-1001.dcm6	<start> catheters_indwelling right density ribs left <end>
+631_IM-2212-1001.dcm7	<start> catheters_indwelling right density ribs left <end>
+631_IM-2212-1001.dcm8	<start> catheters_indwelling right density ribs left <end>
+631_IM-2212-1001.dcm9	<start> catheters_indwelling right density ribs left <end>
+631_IM-2212-1001.dcm10	<start> catheters_indwelling right density ribs left <end>
+631_IM-2212-1001.dcm11	<start> catheters_indwelling right density ribs left <end>
+623_IM-2205-2002.dcm0	<start> adipose_tissue lung base right atherosclerosis <end>
+623_IM-2205-2002.dcm1	<start> adipose_tissue lung base right atherosclerosis <end>
+623_IM-2205-2002.dcm2	<start> adipose_tissue lung base right atherosclerosis <end>
+623_IM-2205-2002.dcm3	<start> adipose_tissue lung base right atherosclerosis <end>
+623_IM-2205-2002.dcm4	<start> adipose_tissue lung base right atherosclerosis <end>
+623_IM-2205-2002.dcm5	<start> adipose_tissue lung base right atherosclerosis <end>
+623_IM-2205-2002.dcm6	<start> adipose_tissue lung base right atherosclerosis <end>
+623_IM-2205-2002.dcm7	<start> adipose_tissue lung base right atherosclerosis <end>
+623_IM-2205-2002.dcm8	<start> adipose_tissue lung base right atherosclerosis <end>
+623_IM-2205-2002.dcm9	<start> adipose_tissue lung base right atherosclerosis <end>
+623_IM-2205-2002.dcm10	<start> adipose_tissue lung base right atherosclerosis <end>
+639_IM-2218-1001.dcm0	<start> normal <end>
+635_IM-2215-1001.dcm0	<start> infiltrate lung lower_lobe left pleural_effusion <end>
+635_IM-2215-1001.dcm1	<start> infiltrate lung lower_lobe left pleural_effusion <end>
+635_IM-2215-1001.dcm2	<start> infiltrate lung lower_lobe left pleural_effusion <end>
+635_IM-2215-1001.dcm3	<start> infiltrate lung lower_lobe left pleural_effusion <end>
+635_IM-2215-1001.dcm4	<start> infiltrate lung lower_lobe left pleural_effusion <end>
+635_IM-2215-1001.dcm5	<start> infiltrate lung lower_lobe left pleural_effusion <end>
+635_IM-2215-1001.dcm6	<start> infiltrate lung lower_lobe left pleural_effusion <end>
+635_IM-2215-1001.dcm7	<start> infiltrate lung lower_lobe left pleural_effusion <end>
+635_IM-2215-1001.dcm8	<start> infiltrate lung lower_lobe left pleural_effusion <end>
+645_IM-2224-1001.dcm0	<start> spine_degenerative <end>
+645_IM-2224-1001.dcm1	<start> spine_degenerative <end>
+645_IM-2224-1001.dcm2	<start> spine_degenerative <end>
+645_IM-2224-1001.dcm3	<start> spine_degenerative <end>
+645_IM-2224-1001.dcm4	<start> spine_degenerative <end>
+645_IM-2224-1001.dcm5	<start> spine_degenerative <end>
+645_IM-2224-1001.dcm6	<start> spine_degenerative <end>
+645_IM-2224-1001.dcm7	<start> spine_degenerative <end>
+634_IM-2214-2001.dcm0	<start> aorta_tortuous calcinosis aorta <end>
+634_IM-2214-2001.dcm1	<start> aorta_tortuous calcinosis aorta <end>
+634_IM-2214-2001.dcm2	<start> aorta_tortuous calcinosis aorta <end>
+634_IM-2214-2001.dcm3	<start> aorta_tortuous calcinosis aorta <end>
+634_IM-2214-2001.dcm4	<start> aorta_tortuous calcinosis aorta <end>
+634_IM-2214-2001.dcm5	<start> aorta_tortuous calcinosis aorta <end>
+634_IM-2214-2001.dcm6	<start> aorta_tortuous calcinosis aorta <end>
+634_IM-2214-2001.dcm7	<start> aorta_tortuous calcinosis aorta <end>
+634_IM-2214-2001.dcm8	<start> aorta_tortuous calcinosis aorta <end>
+642_IM-2221-0001-0001.dcm0	<start> normal <end>
+653_IM-2230-1001.dcm0	<start> spine_degenerative mild <end>
+653_IM-2230-1001.dcm1	<start> spine_degenerative mild <end>
+653_IM-2230-1001.dcm2	<start> spine_degenerative mild <end>
+653_IM-2230-1001.dcm3	<start> spine_degenerative mild <end>
+653_IM-2230-1001.dcm4	<start> spine_degenerative mild <end>
+653_IM-2230-1001.dcm5	<start> spine_degenerative mild <end>
+653_IM-2230-1001.dcm6	<start> spine_degenerative mild <end>
+653_IM-2230-1001.dcm7	<start> spine_degenerative mild <end>
+652_IM-2229-1001.dcm0	<start> normal <end>
+654_IM-2231-1001.dcm0	<start> normal <end>
+658_IM-2234-1001.dcm0	<start> normal <end>
+648_IM-2226-4004.dcm0	<start> calcified_granuloma lung lower_lobe right lung_hypoinflation <end>
+648_IM-2226-4004.dcm1	<start> calcified_granuloma lung lower_lobe right lung_hypoinflation <end>
+648_IM-2226-4004.dcm2	<start> calcified_granuloma lung lower_lobe right lung_hypoinflation <end>
+648_IM-2226-4004.dcm3	<start> calcified_granuloma lung lower_lobe right lung_hypoinflation <end>
+648_IM-2226-4004.dcm4	<start> calcified_granuloma lung lower_lobe right lung_hypoinflation <end>
+677_IM-2249-1001.dcm0	<start> catheters_indwelling right density lung lower_lobe <end>
+677_IM-2249-1001.dcm1	<start> catheters_indwelling right density lung lower_lobe <end>
+677_IM-2249-1001.dcm2	<start> catheters_indwelling right density lung lower_lobe <end>
+677_IM-2249-1001.dcm3	<start> catheters_indwelling right density lung lower_lobe <end>
+677_IM-2249-1001.dcm4	<start> catheters_indwelling right density lung lower_lobe <end>
+677_IM-2249-1001.dcm5	<start> catheters_indwelling right density lung lower_lobe <end>
+677_IM-2249-1001.dcm6	<start> catheters_indwelling right density lung lower_lobe <end>
+677_IM-2249-1001.dcm7	<start> catheters_indwelling right density lung lower_lobe <end>
+677_IM-2249-1001.dcm8	<start> catheters_indwelling right density lung lower_lobe <end>
+677_IM-2249-1001.dcm9	<start> catheters_indwelling right density lung lower_lobe <end>
+677_IM-2249-1001.dcm10	<start> catheters_indwelling right density lung lower_lobe <end>
+677_IM-2249-1001.dcm11	<start> catheters_indwelling right density lung lower_lobe <end>
+680_IM-2251-1001.dcm0	<start> calcified_granuloma lung base right small <end>
+680_IM-2251-1001.dcm1	<start> calcified_granuloma lung base right small <end>
+680_IM-2251-1001.dcm2	<start> calcified_granuloma lung base right small <end>
+680_IM-2251-1001.dcm3	<start> calcified_granuloma lung base right small <end>
+680_IM-2251-1001.dcm4	<start> calcified_granuloma lung base right small <end>
+692_IM-2258-1001.dcm0	<start> calcified_granuloma spine_degenerative <end>
+692_IM-2258-1001.dcm1	<start> calcified_granuloma spine_degenerative <end>
+692_IM-2258-1001.dcm2	<start> calcified_granuloma spine_degenerative <end>
+692_IM-2258-1001.dcm3	<start> calcified_granuloma spine_degenerative <end>
+692_IM-2258-1001.dcm4	<start> calcified_granuloma spine_degenerative <end>
+693_IM-2259-1001.dcm0	<start> calcified_granuloma scattered calcinosis lung hilum <end>
+693_IM-2259-1001.dcm1	<start> calcified_granuloma scattered calcinosis lung hilum <end>
+693_IM-2259-1001.dcm2	<start> calcified_granuloma scattered calcinosis lung hilum <end>
+693_IM-2259-1001.dcm3	<start> calcified_granuloma scattered calcinosis lung hilum <end>
+693_IM-2259-1001.dcm4	<start> calcified_granuloma scattered calcinosis lung hilum <end>
+700_IM-2265-4004.dcm0	<start> bone_diseases_metabolic calcified_granuloma lung lower_lobe right <end>
+700_IM-2265-4004.dcm1	<start> bone_diseases_metabolic calcified_granuloma lung lower_lobe right <end>
+700_IM-2265-4004.dcm2	<start> bone_diseases_metabolic calcified_granuloma lung lower_lobe right <end>
+700_IM-2265-4004.dcm3	<start> bone_diseases_metabolic calcified_granuloma lung lower_lobe right <end>
+700_IM-2265-4004.dcm4	<start> bone_diseases_metabolic calcified_granuloma lung lower_lobe right <end>
+710_IM-2273-1001.dcm0	<start> calcified_granuloma lung upper_lobe right <end>
+710_IM-2273-1001.dcm1	<start> calcified_granuloma lung upper_lobe right <end>
+710_IM-2273-1001.dcm2	<start> calcified_granuloma lung upper_lobe right <end>
+710_IM-2273-1001.dcm3	<start> calcified_granuloma lung upper_lobe right <end>
+710_IM-2273-1001.dcm4	<start> calcified_granuloma lung upper_lobe right <end>
+70_IM-2264-3001.dcm0	<start> granulomatous_disease <end>
+70_IM-2264-3001.dcm1	<start> granulomatous_disease <end>
+70_IM-2264-3001.dcm2	<start> granulomatous_disease <end>
+70_IM-2264-3001.dcm3	<start> granulomatous_disease <end>
+70_IM-2264-3001.dcm4	<start> granulomatous_disease <end>
+70_IM-2264-3001.dcm5	<start> granulomatous_disease <end>
+70_IM-2264-3001.dcm6	<start> granulomatous_disease <end>
+70_IM-2264-3001.dcm7	<start> granulomatous_disease <end>
+70_IM-2264-3001.dcm8	<start> granulomatous_disease <end>
+70_IM-2264-3001.dcm9	<start> granulomatous_disease <end>
+70_IM-2264-3001.dcm10	<start> granulomatous_disease <end>
+70_IM-2264-3001.dcm11	<start> granulomatous_disease <end>
+7_IM-2263-1001.dcm0	<start> arthritis cervical_vertebrae pulmonary_atelectasis base spondylosis <end>
+7_IM-2263-1001.dcm1	<start> arthritis cervical_vertebrae pulmonary_atelectasis base spondylosis <end>
+7_IM-2263-1001.dcm2	<start> arthritis cervical_vertebrae pulmonary_atelectasis base spondylosis <end>
+7_IM-2263-1001.dcm3	<start> arthritis cervical_vertebrae pulmonary_atelectasis base spondylosis <end>
+78_IM-2322-1001.dcm0	<start> pulmonary_atelectasis base left mild <end>
+78_IM-2322-1001.dcm1	<start> pulmonary_atelectasis base left mild <end>
+78_IM-2322-1001.dcm2	<start> pulmonary_atelectasis base left mild <end>
+78_IM-2322-1001.dcm3	<start> pulmonary_atelectasis base left mild <end>
