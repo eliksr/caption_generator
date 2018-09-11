@@ -49,7 +49,7 @@ These requirements can be easily installed by:
 After the requirements have been installed, the process from training to testing is fairly easy. The commands to run:
 1. `python prepare_dataset.py`
 2. `python train_model.py`
-3. `python test_model.py`
+3. `python eval_model.py`
 
 ----------------------------------
 
