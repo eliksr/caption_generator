@@ -5,7 +5,7 @@ To generate a caption for any image in natural language, English. The architectu
 ## Model 
 
 <div align="center">
-  <img src="caption_app/model.png"><br><br>
+  <img src="Models/model.png"><br><br>
 </div>
 
 ## Dataset
