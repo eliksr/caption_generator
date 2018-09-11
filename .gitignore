@@ -3,6 +3,7 @@ croped/
 .idea
 Graph/
 __pycache__/
+.pytest_cache/
 *.h5
 dog_cat/
 NLMCXR_dcm/
@@ -14,3 +15,4 @@ Flicker8k_Dataset/
 *.zip
 weights
 *.p
+*.dcm
