@@ -70,4 +70,3 @@ After the requirements have been installed, the process from training to testing
 
 [d] [deep-learning-models](https://github.com/fchollet/deep-learning-models): Thanks to [François Chollet](https://github.com/fchollet) for providing pretrained VGG16 model and weights. 
 
-# caption_generator
