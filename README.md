@@ -9,7 +9,7 @@ To generate a caption for any image in natural language, English. The architectu
 </div>
 
 ## Dataset
-[OpenI](https://openi.nlm.nih.gov/gridquery.php?q=&it=xg&coll=cxr)
+Indiana University Chest X-ray Collection, [OpenI](https://openi.nlm.nih.gov/gridquery.php?q=&it=xg&coll=cxr)
 
 ## Experiments and results
 The model has been trained for 50 epochs which lowers down the loss to 2.6465. With a larger dataset, it might be needed to run the model for atleast 50 more epochs. 
