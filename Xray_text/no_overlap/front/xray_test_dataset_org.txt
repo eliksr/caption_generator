@@ -1,0 +1,364 @@
+image_id	captions
+1368_IM-0237-1001.dcm	<start> normal <end>
+3253_IM-1542-1001.dcm	<start> normal <end>
+2453_IM-0988-1001.dcm	<start> normal <end>
+2986_IM-1374-1001.dcm	<start> scoliosis thoracic_vertebrae right mild <end>
+1011_IM-0013-1001.dcm	<start> normal <end>
+422_IM-2065-5001.dcm	<start> calcified_granuloma lung left <end>
+2303_IM-0882-1001.dcm	<start> normal <end>
+1840_IM-0545-1001.dcm	<start> opacity lung hilum left <end>
+1175_IM-0119-1001.dcm	<start> normal <end>
+1238_IM-0160-2002.dcm	<start> normal <end>
+3693_IM-1844-1001.dcm	<start> normal <end>
+1381_IM-0245-1001.dcm	<start> normal <end>
+2026_IM-0671-1001.dcm	<start> normal <end>
+2146_IM-0766-13013.dcm	<start> normal <end>
+2517_IM-1036-1001.dcm	<start> normal <end>
+3779_IM-1894-1001.dcm	<start> normal <end>
+2804_IM-1235-1001.dcm	<start> normal <end>
+3834_IM-1937-1001.dcm	<start> scoliosis thoracic_vertebrae <end>
+338_IM-1628-1001.dcm	<start> normal <end>
+982_IM-2470-1001.dcm	<start> normal <end>
+2925_IM-1327-1001.dcm	<start> normal <end>
+17_IM-0460-2001.dcm	<start> normal <end>
+2788_IM-1222-1001.dcm	<start> normal <end>
+65_IM-2228-4004.dcm	<start> normal <end>
+3239_IM-1534-1001.dcm	<start> normal <end>
+1999_IM-0651-1001.dcm	<start> normal <end>
+3723_IM-1860-1001.dcm	<start> normal <end>
+3747_IM-1873-1001.dcm	<start> normal <end>
+1093_IM-0064-1001.dcm	<start> normal <end>
+2971_IM-1362-2001.dcm	<start> normal <end>
+2996_IM-1381-1001.dcm	<start> normal <end>
+3252_IM-1542-1001.dcm	<start> normal <end>
+1384_IM-0246-1001.dcm	<start> normal <end>
+2476_IM-1005-1001.dcm	<start> spine_degenerative <end>
+3337_IM-1598-1001.dcm	<start> calcinosis pleura base right <end>
+1643_IM-0421-1001.dcm	<start> normal <end>
+23_IM-0879-1001.dcm	<start> normal <end>
+1623_IM-0405-4004.dcm	<start> normal <end>
+3717_IM-1856-1001.dcm	<start> lung_hypoinflation <end>
+1294_IM-0193-1001.dcm	<start> normal <end>
+3373_IM-1623-1001.dcm	<start> normal <end>
+1267_IM-0179-1001.dcm	<start> normal <end>
+1052_IM-0040-1001.dcm	<start> normal <end>
+283_IM-1248-1001.dcm	<start> normal <end>
+3315_IM-1586-1001.dcm	<start> normal <end>
+560_IM-2161-1001.dcm	<start> normal <end>
+238_IM-0939-1001.dcm	<start> normal <end>
+336_IM-1613-1001.dcm	<start> normal <end>
+3114_IM-1462-1001.dcm	<start> normal <end>
+1714_IM-0472-1001.dcm	<start> spine_degenerative <end>
+3465_IM-1683-1001.dcm	<start> normal <end>
+3529_IM-1725-1001.dcm	<start> cardiomegaly mild <end>
+547_IM-2151-1001.dcm	<start> thoracic_vertebrae_degenerative <end>
+2539_IM-1050-1001.dcm	<start> normal <end>
+1297_IM-0195-4004.dcm	<start> normal <end>
+1761_IM-0497-1001.dcm	<start> normal <end>
+2292_IM-0874-1001.dcm	<start> normal <end>
+3605_IM-1781-1001.dcm	<start> normal <end>
+2591_IM-1083-1001.dcm	<start> normal <end>
+626_IM-2206-3001.dcm	<start> normal <end>
+1627_IM-0408-1001.dcm	<start> normal <end>
+3738_IM-1867-1001.dcm	<start> normal <end>
+3320_IM-1588-1001.dcm	<start> normal <end>
+1190_IM-0128-1002.dcm	<start> normal <end>
+1540_IM-0351-1001.dcm	<start> normal <end>
+3215_IM-1520-1002.dcm	<start> normal <end>
+3053_IM-1421-1001.dcm	<start> normal <end>
+3625_IM-1794-1001.dcm	<start> normal <end>
+1397_IM-0253-1001.dcm	<start> normal <end>
+1324_IM-0209-1001.dcm	<start> scoliosis thoracic_vertebrae right <end>
+1478_IM-0310-0001-0002.dcm	<start> calcinosis mediastinum <end>
+2902_IM-1306-4001.dcm	<start> normal <end>
+1083_IM-0058-1001.dcm	<start> normal <end>
+1426_IM-0272-1001.dcm	<start> normal <end>
+3814_IM-1923-1001.dcm	<start> normal <end>
+914_IM-2417-1001.dcm	<start> calcified_granuloma lung middle_lobe <end>
+584_IM-2181-1001.dcm	<start> normal <end>
+2466_IM-0997-1001.dcm	<start> normal <end>
+2948_IM-1348-1001.dcm	<start> normal <end>
+3919_IM-1992-1001.dcm	<start> cardiomegaly mild <end>
+1010_IM-0012-1001.dcm	<start> normal <end>
+1280_IM-0187-1001.dcm	<start> normal <end>
+333_IM-1594-1001.dcm	<start> lung_hyperdistention mild <end>
+2910_IM-1314-1001.dcm	<start> normal <end>
+3543_IM-1735-2001.dcm	<start> calcified_granuloma lung bilateral multiple <end>
+2350_IM-0916-1001.dcm	<start> thoracic_vertebrae_degenerative mild <end>
+3661_IM-1821-1001.dcm	<start> normal <end>
+3548_IM-1739-1001.dcm	<start> normal <end>
+3844_IM-1945-1001.dcm	<start> normal <end>
+1767_IM-0501-0001-0002.dcm	<start> calcified_granuloma lung lower_lobe right <end>
+2137_IM-0759-1001.dcm	<start> calcified_granuloma multiple <end>
+3221_IM-1522-1002.dcm	<start> normal <end>
+2356_IM-0920-1001.dcm	<start> lung_hypoinflation <end>
+1424_IM-0271-2002.dcm	<start> normal <end>
+510_IM-2126-1001.dcm	<start> normal <end>
+2324_IM-0895-1001.dcm	<start> normal <end>
+1636_IM-0415-1001.dcm	<start> normal <end>
+1827_IM-0535-1001.dcm	<start> normal <end>
+1709_IM-0467-1001.dcm	<start> opacity lung base bilateral mild <end>
+470_IM-2099-3001.dcm	<start> normal <end>
+3216_IM-1520-1001.dcm	<start> normal <end>
+3861_IM-1955-1001.dcm	<start> normal <end>
+2545_IM-1054-1001.dcm	<start> normal <end>
+2970_IM-1362-1001.dcm	<start> calcinosis aorta_thoracic <end>
+246_IM-0992-1002001.dcm	<start> normal <end>
+1702_IM-0463-1001.dcm	<start> cardiomegaly borderline <end>
+1853_IM-0555-1001.dcm	<start> normal <end>
+719_IM-2280-1001.dcm	<start> normal <end>
+3296_IM-1575-1001-0001.dcm	<start> calcinosis lung hilum lymph_nodes left <end>
+537_IM-2143-1001.dcm	<start> calcified_granuloma scattered <end>
+1583_IM-0378-1001.dcm	<start> scoliosis mild <end>
+3377_IM-1626-1002001.dcm	<start> normal <end>
+3319_IM-1588-1001.dcm	<start> thoracic_vertebrae_degenerative multiple <end>
+1447_IM-0289-1001.dcm	<start> normal <end>
+1690_IM-0452-1001-0001.dcm	<start> normal <end>
+2705_IM-1171-1001.dcm	<start> calcinosis aorta <end>
+444_IM-2079-1001.dcm	<start> normal <end>
+2308_IM-0883-3001.dcm	<start> normal <end>
+721_IM-2282-1001.dcm	<start> normal <end>
+2313_IM-0888-1002001.dcm	<start> normal <end>
+2290_IM-0874-1001.dcm	<start> normal <end>
+3588_IM-1766-1001.dcm	<start> normal <end>
+2714_IM-1180-1001.dcm	<start> normal <end>
+1562_IM-0367-1001.dcm	<start> lung_hypoinflation <end>
+1137_IM-0093-12012.dcm	<start> normal <end>
+2089_IM-0720-1001.dcm	<start> normal <end>
+3371_IM-1623-1001.dcm	<start> calcinosis lung hilum lymph_nodes right <end>
+767_IM-2312-1001.dcm	<start> normal <end>
+1015_IM-0001-1001.dcm	<start> opacity lung base bilateral patchy streaky <end>
+3703_IM-1850-1001.dcm	<start> normal <end>
+1305_IM-0199-1001.dcm	<start> normal <end>
+3263_IM-1549-3001.dcm	<start> normal <end>
+1504_IM-0330-1001.dcm	<start> normal <end>
+2560_IM-1064-1001.dcm	<start> calcified_granuloma lung upper_lobe left <end>
+2877_IM-1283-1001.dcm	<start> normal <end>
+1406_IM-0259-1001.dcm	<start> lung_hyperdistention <end>
+2510_IM-1033-1001.dcm	<start> thoracic_vertebrae_degenerative <end>
+519_IM-2131-2001.dcm	<start> normal <end>
+1074_IM-0054-1001.dcm	<start> lung_hypoinflation <end>
+2852_IM-1261-3001.dcm	<start> normal <end>
+718_IM-2280-1001.dcm	<start> scoliosis mild <end>
+1896_IM-0581-1001.dcm	<start> normal <end>
+881_IM-2396-1001.dcm	<start> normal <end>
+640_IM-2219-1001.dcm	<start> calcinosis blood_vessels <end>
+792_IM-2330-1001.dcm	<start> normal <end>
+750_IM-2304-1001.dcm	<start> thoracic_vertebrae_degenerative mild <end>
+516_IM-2130-1001.dcm	<start> calcified_granuloma lung hilum right <end>
+2461_IM-0994-0001-0002.dcm	<start> normal <end>
+332_IM-1588-1001.dcm	<start> opacity lung lower_lobe left streaky <end>
+3185_IM-1503-1001.dcm	<start> normal <end>
+2099_IM-0729-1001.dcm	<start> normal <end>
+3352_IM-1608-1001.dcm	<start> normal <end>
+932_IM-2430-4004.dcm	<start> normal <end>
+16_IM-0389-1001.dcm	<start> normal <end>
+2470_IM-1001-3001.dcm	<start> normal <end>
+367_IM-1826-1001.dcm	<start> normal <end>
+134_IM-0219-1001.dcm	<start> calcified_granuloma lung middle_lobe right <end>
+833_IM-2359-1001.dcm	<start> normal <end>
+310_IM-1451-0001-0001.dcm	<start> normal <end>
+3511_IM-1714-1001.dcm	<start> normal <end>
+2198_IM-0808-1001.dcm	<start> normal <end>
+3227_IM-1525-1001.dcm	<start> normal <end>
+1551_IM-0359-1001.dcm	<start> normal <end>
+2638_IM-1123-1001.dcm	<start> normal <end>
+739_IM-2296-1001.dcm	<start> normal <end>
+968_IM-2458-1001.dcm	<start> normal <end>
+3637_IM-1804-1001.dcm	<start> normal <end>
+3427_IM-1657-1001.dcm	<start> normal <end>
+2558_IM-1062-10001.dcm	<start> normal <end>
+1111_IM-0077-4004.dcm	<start> cardiomegaly severe <end>
+1558_IM-0365-1001.dcm	<start> lung_hypoinflation <end>
+2260_IM-0852-1001.dcm	<start> normal <end>
+250_IM-1025-1001.dcm	<start> spine_degenerative mild <end>
+3629_IM-1797-1001.dcm	<start> normal <end>
+883_IM-2398-1003.dcm	<start> normal <end>
+3460_IM-1681-1001.dcm	<start> normal <end>
+730_IM-2290-1001.dcm	<start> calcified_granuloma lung middle_lobe right <end>
+3329_IM-1594-1001.dcm	<start> normal <end>
+3138_IM-1476-1001.dcm	<start> normal <end>
+3156_IM-1486-1001.dcm	<start> normal <end>
+1356_IM-0231-1001.dcm	<start> normal <end>
+3375_IM-1624-1002.dcm	<start> thoracic_vertebrae_degenerative <end>
+1183_IM-0124-1001.dcm	<start> normal <end>
+2436_IM-0976-1001.dcm	<start> normal <end>
+325_IM-1539-1001.dcm	<start> normal <end>
+1642_IM-0421-2001.dcm	<start> thoracic_vertebrae_degenerative <end>
+3501_IM-1706-1001.dcm	<start> normal <end>
+3978_IM-2037-0001-0001.dcm	<start> normal <end>
+2866_IM-1273-1001.dcm	<start> normal <end>
+771_IM-2316-2001.dcm	<start> normal <end>
+3330_IM-1594-1001.dcm	<start> normal <end>
+3067_IM-1430-1001.dcm	<start> normal <end>
+2252_IM-0844-1001.dcm	<start> normal <end>
+1319_IM-0205-1001.dcm	<start> normal <end>
+1530_IM-0344-1001.dcm	<start> normal <end>
+2463_IM-0996-1001.dcm	<start> opacity lung interstitial mild <end>
+2377_IM-0937-1001.dcm	<start> normal <end>
+269_IM-1161-1001.dcm	<start> normal <end>
+3234_IM-1531-1001.dcm	<start> normal <end>
+1590_IM-0383-4001.dcm	<start> normal <end>
+3386_IM-1633-1001.dcm	<start> normal <end>
+1344_IM-0223-1001.dcm	<start> normal <end>
+1914_IM-0595-1001.dcm	<start> opacity lung bilateral interstitial diffuse <end>
+2592_IM-1084-1001.dcm	<start> normal <end>
+3333_IM-1597-1001.dcm	<start> normal <end>
+727_IM-2287-1001.dcm	<start> normal <end>
+1545_IM-0355-2002.dcm	<start> normal <end>
+799_IM-2333-1001.dcm	<start> normal <end>
+46_IM-2090-1001.dcm	<start> normal <end>
+1488_IM-0315-1001.dcm	<start> normal <end>
+1579_IM-0376-1001.dcm	<start> normal <end>
+748_IM-2302-1001.dcm	<start> normal <end>
+1960_IM-0627-1002001.dcm	<start> normal <end>
+3841_IM-1942-1001.dcm	<start> thoracic_vertebrae_degenerative mild <end>
+2620_IM-1109-1001.dcm	<start> normal <end>
+2277_IM-0864-1001.dcm	<start> normal <end>
+1871_IM-0564-1001.dcm	<start> normal <end>
+2835_IM-1251-3001.dcm	<start> lung_hypoinflation <end>
+3047_IM-1418-1001.dcm	<start> normal <end>
+3049_IM-1420-1001.dcm	<start> normal <end>
+3719_IM-1857-1001.dcm	<start> normal <end>
+2401_IM-0950-1001.dcm	<start> normal <end>
+559_IM-2159-1001.dcm	<start> normal <end>
+571_IM-2170-1001.dcm	<start> normal <end>
+1512_IM-0332-2002.dcm	<start> normal <end>
+1236_IM-0158-1001.dcm	<start> normal <end>
+2353_IM-0918-1001.dcm	<start> normal <end>
+725_IM-2285-1001.dcm	<start> normal <end>
+2391_IM-0944-1001.dcm	<start> normal <end>
+317_IM-1493-1001.dcm	<start> normal <end>
+1974_IM-0633-1001.dcm	<start> normal <end>
+2473_IM-1003-1001.dcm	<start> lung_hypoinflation <end>
+1349_IM-0227-1001.dcm	<start> calcified_granuloma <end>
+106_IM-0042-1001.dcm	<start> normal <end>
+3201_IM-1513-1001.dcm	<start> lung_hypoinflation <end>
+2799_IM-1231-1001.dcm	<start> normal <end>
+2305_IM-0882-1001.dcm	<start> scoliosis lumbar_vertebrae mild <end>
+171_IM-0468-1001.dcm	<start> normal <end>
+3431_IM-1660-1001.dcm	<start> normal <end>
+66_IM-2236-1001.dcm	<start> normal <end>
+2833_IM-1249-1001.dcm	<start> normal <end>
+2459_IM-0991-1001.dcm	<start> normal <end>
+1655_IM-0431-1001.dcm	<start> normal <end>
+3552_IM-1741-1001.dcm	<start> normal <end>
+1101_IM-0068-3001.dcm	<start> spine_degenerative <end>
+395_IM-2019-1001.dcm	<start> calcinosis lung hilum lymph_nodes <end>
+193_IM-0601-1001.dcm	<start> thoracic_vertebrae_degenerative <end>
+328_IM-1560-1001.dcm	<start> normal <end>
+3167_IM-1491-1001.dcm	<start> normal <end>
+905_IM-2410-0001-0001.dcm	<start> normal <end>
+1481_IM-0312-3001.dcm	<start> normal <end>
+629_IM-2209-1001.dcm	<start> normal <end>
+1802_IM-0521-1001.dcm	<start> normal <end>
+3224_IM-1524-1001.dcm	<start> normal <end>
+1932_IM-0603-2001.dcm	<start> normal <end>
+882_IM-2397-0001-0002.dcm	<start> normal <end>
+1812_IM-0525-1001.dcm	<start> normal <end>
+385_IM-1948-1001.dcm	<start> normal <end>
+617_IM-2200-1001.dcm	<start> spine_degenerative <end>
+3361_IM-1614-1001.dcm	<start> normal <end>
+544_IM-2148-1001.dcm	<start> normal <end>
+981_IM-2469-1001.dcm	<start> cardiomegaly mild <end>
+1951_IM-0619-1001.dcm	<start> normal <end>
+2838_IM-1252-1001.dcm	<start> normal <end>
+1608_IM-0394-1001.dcm	<start> normal <end>
+1554_IM-0361-1001.dcm	<start> thoracic_vertebrae_degenerative multiple <end>
+2773_IM-1214-1001.dcm	<start> thoracic_vertebrae_degenerative mild <end>
+211_IM-0740-1001.dcm	<start> normal <end>
+1748_IM-0490-1001.dcm	<start> normal <end>
+1018_IM-0014-5001.dcm	<start> calcified_granuloma lung right small <end>
+2572_IM-1073-1001.dcm	<start> normal <end>
+2388_IM-0944-1001.dcm	<start> normal <end>
+1533_IM-0344-1001.dcm	<start> normal <end>
+497_IM-2114-1001.dcm	<start> normal <end>
+1389_IM-0247-1001.dcm	<start> lung_hyperdistention <end>
+834_IM-2359-1001.dcm	<start> spine_degenerative mild <end>
+3539_IM-1731-1001.dcm	<start> normal <end>
+1873_IM-0565-1001.dcm	<start> thoracic_vertebrae_degenerative <end>
+3254_IM-1543-1001.dcm	<start> normal <end>
+1861_IM-0558-1001.dcm	<start> normal <end>
+2056_IM-0694-1001-0002.dcm	<start> normal <end>
+1218_IM-0146-1001.dcm	<start> normal <end>
+127_IM-0181-1001.dcm	<start> calcified_granuloma lung base left <end>
+831_IM-2358-4004.dcm	<start> lung_hypoinflation <end>
+3247_IM-1538-1001.dcm	<start> normal <end>
+3704_IM-1851-1001.dcm	<start> normal <end>
+2469_IM-0999-1001.dcm	<start> opacity thorax mild <end>
+3_IM-1384-1001.dcm	<start> normal <end>
+3139_IM-1476-1001.dcm	<start> normal <end>
+572_IM-2170-1001.dcm	<start> normal <end>
+2010_IM-0661-1001.dcm	<start> normal <end>
+1099_IM-0067-1001.dcm	<start> normal <end>
+1415_IM-0264-1001.dcm	<start> normal <end>
+1673_IM-0444-1001.dcm	<start> lung_hyperdistention <end>
+1696_IM-0457-4004.dcm	<start> normal <end>
+2244_IM-0841-2002.dcm	<start> normal <end>
+3778_IM-1894-1001.dcm	<start> normal <end>
+3269_IM-1552-1001.dcm	<start> normal <end>
+2903_IM-1307-4004.dcm	<start> lung_hypoinflation mild <end>
+798_IM-2332-1001.dcm	<start> normal <end>
+1651_IM-0427-1001.dcm	<start> calcified_granuloma lung upper_lobe right <end>
+3176_IM-1497-1001.dcm	<start> normal <end>
+1572_IM-0373-1001.dcm	<start> calcified_granuloma lung upper_lobe left <end>
+2625_IM-1112-0001-0002.dcm	<start> normal <end>
+2103_IM-0734-0001-0001.dcm	<start> normal <end>
+1249_IM-0169-1001.dcm	<start> calcified_granuloma lung lower_lobe left multiple <end>
+1674_IM-0445-1001.dcm	<start> normal <end>
+3163_IM-1488-1001.dcm	<start> normal <end>
+208_IM-0711-1001.dcm	<start> normal <end>
+3317_IM-1587-1001.dcm	<start> normal <end>
+722_IM-2282-1001.dcm	<start> normal <end>
+479_IM-2102-1001.dcm	<start> normal <end>
+3720_IM-1859-1001.dcm	<start> normal <end>
+1686_IM-0450-1001.dcm	<start> calcinosis aorta lymph_nodes <end>
+1587_IM-0381-1002001.dcm	<start> normal <end>
+1928_IM-0600-1001.dcm	<start> normal <end>
+3923_IM-1997-2002.dcm	<start> normal <end>
+2367_IM-0928-1001.dcm	<start> normal <end>
+1410_IM-0260-1001.dcm	<start> normal <end>
+3288_IM-1569-1001.dcm	<start> normal <end>
+3380_IM-1628-1001.dcm	<start> spine_degenerative mild <end>
+958_IM-2449-1001.dcm	<start> normal <end>
+930_IM-2429-2001.dcm	<start> lung_hypoinflation <end>
+2557_IM-1061-4004.dcm	<start> cardiomegaly mild <end>
+563_IM-2164-1001.dcm	<start> normal <end>
+2016_IM-0665-1001.dcm	<start> normal <end>
+2376_IM-0936-1001.dcm	<start> normal <end>
+3135_IM-1474-1001.dcm	<start> normal <end>
+735_IM-2294-3001.dcm	<start> normal <end>
+3180_IM-1500-3001.dcm	<start> normal <end>
+3307_IM-1582-1004003.dcm	<start> normal <end>
+3229_IM-1526-1001.dcm	<start> lung_hypoinflation mild <end>
+2623_IM-1111-1001.dcm	<start> normal <end>
+3089_IM-1444-1001.dcm	<start> normal <end>
+3624_IM-1794-1001.dcm	<start> normal <end>
+2967_IM-1360-1001.dcm	<start> normal <end>
+886_IM-2400-1001.dcm	<start> normal <end>
+3826_IM-1932-1001.dcm	<start> normal <end>
+1467_IM-0302-1001.dcm	<start> normal <end>
+2024_IM-0670-1001.dcm	<start> normal <end>
+1148_IM-0100-1001.dcm	<start> normal <end>
+740_IM-2297-2001.dcm	<start> normal <end>
+1979_IM-0637-1001.dcm	<start> normal <end>
+167_IM-0441-1001.dcm	<start> calcified_granuloma lung upper_lobe left <end>
+2000_IM-0654-1001.dcm	<start> normal <end>
+2435_IM-0976-1001.dcm	<start> normal <end>
+3117_IM-1465-1001.dcm	<start> normal <end>
+204_IM-0683-1001.dcm	<start> normal <end>
+3193_IM-1505-1001.dcm	<start> lung_hyperdistention mild <end>
+356_IM-1744-1001.dcm	<start> normal <end>
+2845_IM-1254-1001.dcm	<start> normal <end>
+3030_IM-1405-3001.dcm	<start> normal <end>
+3225_IM-1525-1001.dcm	<start> normal <end>
+2758_IM-1206-1001.dcm	<start> normal <end>
+3115_IM-1463-1001.dcm	<start> normal <end>
+1659_IM-0434-1001.dcm	<start> normal <end>
+252_IM-1038-1001.dcm	<start> normal <end>
+3275_IM-1556-1002001.dcm	<start> spine_degenerative mild <end>
+2159_IM-0776-1001.dcm	<start> normal <end>
+3489_IM-1696-1001.dcm	<start> normal <end>
+1894_IM-0581-1001.dcm	<start> opacity thorax right <end>
+2278_IM-0864-1001.dcm	<start> calcified_granuloma lung right multiple <end>
+3104_IM-1455-1001.dcm	<start> normal <end>
