@@ -12,14 +12,14 @@ To generate a caption for any image in natural language, English. The architectu
 Indiana University Chest X-ray Collection, [OpenI](https://openi.nlm.nih.gov/gridquery.php?q=&it=xg&coll=cxr)
 
 ## Experiments and results
-The model has been trained for 50 epochs which lowers down the loss to 2.6465. With a larger dataset, it might be needed to run the model for atleast 50 more epochs. 
+The model has been trained for 50 epochs. With a larger dataset, it might be needed to run the model for atleast 50 more epochs. 
 
-With the current training on the Flickr8k dataset, running test on the 1000 test images results in,
-				`BLEU = ~0.57`.
+With the current training on the OpenI dataset, running test on the ~200 test images results in,
+				`BLEU = ~0.3`.
 
 Some captions generated are as follows:
 <div align="center">
-  <img src="vis/result.png"><br><br>
+  <img src="Models/example.png"><br><br>
 </div>
 
 
